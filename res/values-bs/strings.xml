@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Video poziv se vraća"</string>
+<string name="videophone_failcause_1000">"Posljednji video poziv nije normalno završen, pokušajte ponovo nakon nekog vremena"</string>
+<string name="videophone_failcause_1">"Broj koji ste birali nije u službi"</string>
+<string name="videophone_failcause_3">"Korisnik je nedostupan"</string>
+<string name="videophone_failcause_8">"Poziv je zabranjen"</string>
+<string name="videophone_failcause_17">"Korisnik je zauzet"</string>
+<string name="videophone_failcause_19">"Korisnik kojeg ste birali ne reagira"</string>
+<string name="videophone_failcause_27">"Do korisnika se ne može doći"</string>
+<string name="videophone_failcause_34">"Konekcija je prekinuta"</string>
+<string name="videophone_failcause_63_modify">"Nije bilo moguće uspostaviti Videofon"</string>
+<string name="videophone_failcause_79">"VT nije podržan od strane drugog"</string>
+<string name="videophone_failcause_47">"Nažalost, video poziv je nedostupan"</string>
+<string name="videophone_failcause_50">"VT nije podržan"</string>
+<string name="videophone_failcause_57_remote">"Broj koji ste birali ne podržava VT"</string>
+<string name="videophone_failcause_58">"VT nije podržan od strane drugog"</string>
+<string name="videophone_failcause_157">"Mobilni telefon nije pokrenuo VT usluge"</string>
+<string name="videophone_failcause_88">"Korisnik bira glasovni poziv"</string>
+<string name="videophone_failcause_minus_1">"3G usluga nije dostupna"</string>
+<string name="videophone_failcause_default">"Korisnik je nedostupan"</string>
+<string name="net_connection_disconnect">"Mrežna konekcija se prekinula"</string>
+<string name="no_vt_service">"Nije moguće obaviti video pozive"</string>
+<string name="remote_request_change">"Daljinski zahtjev za promjenu medija"</string>
+<string name="choose_accept_reject">"Molimo odaberite Prihvatam ili Odbijam"</string>
+<string name="remote_request_change_accept">"Prihvatiti"</string>
+<string name="remote_request_change_reject">"Odbiti"</string>
+<string name="remote_reject_request">"Zahtjev na daljinu je odbijen"</string>
+<string name="remote_accept_request">"Zahtjev na daljinu je prihvaćen"</string>
+<string name="callFailed_fdn_only">"Odlazni pozivi su zabranjeni sa FDN"</string>
+</resources>

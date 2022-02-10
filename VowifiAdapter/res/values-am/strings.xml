@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_upgrade_title">"ለማሳደግ የርቀት ጥያቄ"</string>
+    <string name="vowifi_request_upgrade_text">"የአሁኑን ጥሪ ወደ የቪዲዮ ጥሪ ለማሳደግ እባክዎ ተቀበል ወይም አትቀበል ይምረጡ።"</string>
+    <string name="vowifi_request_downgrade_title">"ለማሳነስ የርቀት ጥያቄ"</string>
+    <string name="vowifi_request_downgrade_text">"የአሁኑን ጥሪ ወደ የድምጽ ጥሪ ለማሳነስ እባክዎ ተቀበል ወይም አትቀበል ይምረጡ።"</string>
+    <string name="vowifi_add_video_failed">"ጥያቄን በርቀት አትቀበል"</string>
+    <string name="vowifi_add_video_success">"ጥያቄን በርቀት ተቀበል"</string>
+    <string name="vowifi_remove_video_failed">"ቪዲዮውን ማስወገድ አልተሳካም"</string>
+    <string name="vowifi_remove_video_success">"የቪዲዮ ጥሪ መጠባበቂያ"</string>
+    <string name="vowifi_hold_success">"መያዝ ተሳክቷል"</string>
+    <string name="vowifi_hold_fail">"መያዝ አልተሳካም"</string>
+    <string name="vowifi_resume_success">"ካቆመበት መቀጠል ተሳክቷል"</string>
+    <string name="vowifi_resume_fail">"ካቆመበት መቀጠል አልተሳካም"</string>
+    <string name="vowifi_call_retry">"እባክዎ ከአንድ አፍታ በኋላ ዳግም ይሞክሩ"</string>
+    <string name="vowifi_call_is_focus">"ወደ ጉባዔ አክል"</string>
+    <string name="vowifi_conf_connect_timeout">"ከጉባዔ አገልግሎት ጊዜ ማለፊያ ጋር ተገናኝ"</string>
+    <string name="vowifi_conf_disconnect">"ጉባዔን ማቀናበር አልተሳካም"</string>
+    <string name="vowifi_conf_finished">"ጉባዔ ተጠናቅቋል"</string>
+    <string name="vowifi_conf_invite_request_failed">"የግብዣ ጥያቄውን መላክ አልተሳካም"</string>
+    <string name="vowifi_conf_invite_failed">"ተሳታፊውን መጋበዝ አልተሳካም፦"</string>
+    <string name="vowifi_conf_kick_failed">"ተሳታፊውን ማስወገድ አልተሳካም"</string>
+    <string name="vowifi_conf_none_participant">"ምንም ተሳታፊ የለም፣ ጥሪውን ይዝጉት"</string>
+    <string name="vowifi_conf_do_not_support">"አሁን ይህን እርምጃ አይደግፍም"</string>
+    <string name="vowifi_conf_can_not_invite_more">"ጉባዔው አስቀድሞ 6 ተሳታፊዎችን ስለያዘ ሌላ ተሳታፊን ወደ ጉባዔውን መጋበዝ አይቻልም"</string>
+    <string name="vowifi_request_update_failed">"ጥያቄን በርቀት አትቀበል"</string>
+    <string name="vowifi_request_update_success">"ጥያቄን በርቀት ተቀበል"</string>
+    <string name="vowifi_update_to_rx_success">"ቪዲዮን መቀበል ብቻ"</string>
+    <string name="vowifi_update_to_tx_success">"ቪዲዮን ማስተላለፍ ብቻ"</string>
+    <string name="vowifi_hold_received">"ጥሪው ተይዟል"</string>
+    <string name="vowifi_resume_received">"ጥሪ ተገኝቷል"</string>
+</resources>

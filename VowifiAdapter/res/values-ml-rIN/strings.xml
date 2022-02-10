@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"റിമോട്ട് റിജക്റ്റ് റിക്വസ്റ്റ്."</string>
+    <string name="vowifi_request_update_success">"റിമോട്ട് അക്സപ്റ്റ് റിക്വസ്റ്റ്."</string>
+    <string name="vowifi_remove_video_success">"വീഡിയോ കോള്‍ ഫാള്‍ ബാക്ക്."</string>
+
+    <string name="vowifi_hold_success">"ഹോള്‍ഡ് സക്സസ്സ്"</string>
+    <string name="vowifi_hold_fail">"ഹോള്‍ഡ് ഫെയില്‍"</string>
+    <string name="vowifi_resume_success">"റെസ്യൂം സക്സസ്സ്"</string>
+    <string name="vowifi_resume_fail">"റെസ്യൂം ഫെയില്‍"</string>
+
+    <string name="vowifi_call_retry">"ദയവായി കുറച്ച് നിമിഷങ്ങള്‍ക്ക് ശേഷം ശ്രമിക്കുക"</string>
+    <string name="vowifi_call_is_focus">"കോണ്‍ഫറന്‍സിലേക്ക് ആഡ് ചെയ്യുക"</string>
+    <string name="vowifi_conf_disconnect">"കോണ്‍ഫറന്‍സ് സെറ്റ് അപ്പ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു"</string>
+    <string name="vowifi_conf_finished">"കോണ്‍ഫറന്‍സ് അവസാനിച്ചു"</string>
+    <string name="vowifi_conf_invite_request_failed">"ഇന്‍വൈറ്റ് റിക്വസ്റ്റ് സെന്‍ഡ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു. കേണ്‍ഫറന്‍സ് സെറ്റ് അപ്പ ചെയ്യാന്‍ കഴിയില്ല."</string>
+    <string name="vowifi_conf_invite_failed">"പങ്കാളിയെ ക്ഷണിക്കുന്നതില്‍ പരാജയപ്പെട്ടു:"</string>
+    <string name="vowifi_conf_kick_failed">"പങ്കാളിയെ റിമൂവ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു"</string>
+    <string name="vowifi_conf_none_participant">"പങ്കാളിയില്ലാത്തതിനാല്‍ കോള്‍ അവസാനിപ്പിക്കുക."</string>
+    <string name="vowifi_conf_do_not_support">"ഈ ആക്ഷന്‍ ഇപ്പോള്‍ സപ്പോര്‍ട്ട് ചെയ്യില്ല."</string>
+</resources>

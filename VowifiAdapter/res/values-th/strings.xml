@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"คู่สนทนาขอให้อัพเกรด"</string>
+<string name="vowifi_request_upgrade_text">"มีคำขอให้อัพเกรดการโทรปัจจุบันเป็นการโทรโดยใช้วิดีโอ โปรดเลือกว่าจะยอมรับหรือปฏิเสธ"</string>
+<string name="vowifi_request_downgrade_title">"คู่สนทนาขอให้ดาวน์เกรด"</string>
+<string name="vowifi_request_downgrade_text">"มีคำขอให้ดาวน์เกรดการโทรปัจจุบันเป็นการโทรด้วยเสียง โปรดเลือกว่าจะยอมรับหรือปฏิเสธ"</string>
+<string name="vowifi_add_video_failed">"คู่สนทนาปฏิเสธคำขอ"</string>
+<string name="vowifi_add_video_success">"คู่สนทนายอมรับคำขอ"</string>
+<string name="vowifi_remove_video_failed">"ไม่สามารถลบวิดีโอได้"</string>
+<string name="vowifi_remove_video_success">"เปลี่ยนไปใช้การโทรด้วยเสียง"</string>
+<string name="vowifi_hold_success">"พักสายเรียบร้อย"</string>
+<string name="vowifi_hold_fail">"ไม่สามารถพักสาย"</string>
+<string name="vowifi_resume_success">"เรียกสายคืนแล้ว"</string>
+<string name="vowifi_resume_fail">"ไม่สามารถเรียกสายคืน"</string>
+<string name="vowifi_call_retry">"โปรดลองใหม่ในอีกสักครู่"</string>
+<string name="vowifi_call_is_focus">"เพิ่มเข้าในการประชุมสาย"</string>
+<string name="vowifi_conf_connect_timeout">"หมดเวลาการเชื่อมต่อกับเซิร์ฟเวอร์การประชุมสาย"</string>
+<string name="vowifi_conf_disconnect">"ไม่สามารถสร้างการประชุมสาย"</string>
+<string name="vowifi_conf_finished">"การประชุมสายเสร็จสิ้น"</string>
+<string name="vowifi_conf_invite_request_failed">"ไม่สามารถส่งคำขอการเชิญ"</string>
+<string name="vowifi_conf_invite_failed">"ไม่สามารถเชิญผู้เข้าร่วม"</string>
+<string name="vowifi_conf_kick_failed">"ไม่สามารถลบผู้เข้าร่วม"</string>
+<string name="vowifi_conf_none_participant">"ไม่มีผู้เข้าร่วม สิ้นสุดการโทร"</string>
+<string name="vowifi_conf_do_not_support">"ไม่รองรับการดำเนินการนี้ในขณะนี้"</string>
+<string name="vowifi_conf_can_not_invite_more">"ไม่สามารถเชิญผู้เข้าร่วมรายอื่นให้เข้าร่วมประชุมสายได้เนื่องจากมีผู้เข้าร่วมครบ 6 รายแล้ว"</string>
+    <string name="vowifi_request_update_failed">"ปฏิเสธการร้องขอจากระยะไกล"</string>
+     <string name="vowifi_request_update_success">"ยอมรับการร้องขอจากระยะไกล"</string>
+     <string name="vowifi_update_to_rx_success">"การรับวิดีโอเท่านั้น"</string>
+     <string name="vowifi_update_to_tx_success">"การส่งวิดีโอเท่านั้น"</string>
+     <string name="vowifi_hold_received">"โทรขึ้น"</string>
+     <string name="vowifi_resume_received">"เรียกคืนข้อมูลการโทร"</string>
+
+</resources>

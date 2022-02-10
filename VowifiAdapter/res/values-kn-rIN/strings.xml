@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"ರಿಮೋಟ್ ವಿನಂತಿಯನ್ನು ತಿರಸ್ಕರಿಸುತ್ತದೆ."</string>
+    <string name="vowifi_request_update_success">"ರಿಮೋಟ್ ಸ್ವೀಕೃತಿ ವಿನಂತಿ."</string>
+    <string name="vowifi_remove_video_success">"ವೀಡಿಯೊ ಕರೆ ಫಾಲ್-ಬ್ಯಾಕ್."</string>
+
+    <string name="vowifi_hold_success">"ಯಶಸ್ಸು ಹೋಲ್ಡ್"</string>
+    <string name="vowifi_hold_fail">"ಹೋಲ್ಡ್ ವಿಫಲಗೊಳ್ಳುತ್ತದೆ"</string>
+    <string name="vowifi_resume_success">"ಯಶಸ್ಸು ಪುನರಾರಂಭಿಸು"</string>
+    <string name="vowifi_resume_fail">"ಪುನರಾರಂಭಿಸು ವಿಫಲವಾಗಿದೆ"</string>
+
+    <string name="vowifi_call_retry">"ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+    <string name="vowifi_call_is_focus">"ಕಾನ್ಫರೆನ್ಸ್ಗೆ ಸೇರಿಸು"</string>
+    <string name="vowifi_conf_disconnect">"ಸೆಟಪ್ ಕಾನ್ಫರೆನ್ಸ್ ವಿಫಲವಾಗಿದೆ"</string>
+    <string name="vowifi_conf_finished">"ಕಾನ್ಫರೆನ್ಸ್ ಮುಗಿದಿದೆ"</string>
+    <string name="vowifi_conf_invite_request_failed">"ಆಮಂತ್ರಣ ವಿನಂತಿಯನ್ನು ಕಳುಹಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ. ಕಾನ್ಫರೆನ್ಸ್ ಅನ್ನು ಹೊಂದಿಸಲಾಗುವುದಿಲ್ಲ."</string>
+    <string name="vowifi_conf_invite_failed">"ಪಾಲ್ಗೊಳ್ಳುವವರನ್ನು ಆಹ್ವಾನಿಸುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ:"</string>
+    <string name="vowifi_conf_kick_failed">"ಪಾಲ್ಗೊಳ್ಳುವವರನ್ನು ತೆಗೆದುಹಾಕಲು ವಿಫಲವಾಗಿದೆ"</string>
+    <string name="vowifi_conf_none_participant">"ಯಾವುದೇ ಪಾಲ್ಗೊಳ್ಳುವವರು ಇಲ್ಲ, ಕರೆ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ."</string>
+    <string name="vowifi_conf_do_not_support">"ಈಗ ಈ ಕ್ರಮವನ್ನು ಬೆಂಬಲಿಸಬೇಡಿ."</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Remote permintaan untuk meng-upgrade"</string>
+<string name="vowifi_request_upgrade_text">"Permintaan untuk meningkatkan versi panggilan saat ini ke panggilan video, silahkan pilih menerima atau menolak."</string>
+<string name="vowifi_request_downgrade_title">"Remote permintaan untuk melemahkan versi"</string>
+<string name="vowifi_request_downgrade_text">"Permintaan untuk melemahkan versi panggilan saat ini ke panggilan suara, silahkan pilih menerima atau tolak."</string>
+<string name="vowifi_add_video_failed">"Tolak permintaan dari jarak jauh"</string>
+<string name="vowifi_add_video_success">"Terima permintaan dari jarak jauh"</string>
+<string name="vowifi_remove_video_failed">"Gagal menghapus video"</string>
+<string name="vowifi_remove_video_success">"Penurunan kualitas panggilan video"</string>
+<string name="vowifi_hold_success">"Menahan telepon berhasil"</string>
+<string name="vowifi_hold_fail">"Menahan telepon gagal"</string>
+<string name="vowifi_resume_success">"Melanjutkan telepon berhasil"</string>
+<string name="vowifi_resume_fail">"Melanjutkan telepon gagal"</string>
+<string name="vowifi_call_retry">"Silahkan ulangi kembali setelah sesaat"</string>
+<string name="vowifi_call_is_focus">"Tambahkan ke konferensi"</string>
+<string name="vowifi_conf_connect_timeout">"Waktu sambungan ke server konferensi habis"</string>
+<string name="vowifi_conf_disconnect">"Gagal untuk mengatur konferensi"</string>
+<string name="vowifi_conf_finished">"Konferensi selesai"</string>
+<string name="vowifi_conf_invite_request_failed">"Gagal mengirim permintaan undangan"</string>
+<string name="vowifi_conf_invite_failed">"Gagal untuk mengundang peserta:"</string>
+<string name="vowifi_conf_kick_failed">"Gagal untuk menghapus peserta"</string>
+<string name="vowifi_conf_none_participant">"Tidak terdapat peserta, akhiri panggilan"</string>
+<string name="vowifi_conf_do_not_support">"Tindakan ini saat ini tidak didukung"</string>
+<string name="vowifi_conf_can_not_invite_more">"Tidak bisa mengundang peserta lain ke konferensi karena sudah terisi 6 peserta"</string>
+    <string name="vowifi_request_update_failed">"Tolak permintaan dari jarak jauh"</string>
+     <string name="vowifi_request_update_success">"Terima permintaan dari jarak jauh"</string>
+     <string name="vowifi_update_to_rx_success">"Hanya penerimaan video"</string>
+     <string name="vowifi_update_to_tx_success">"Hanya pengiriman video"</string>
+     <string name="vowifi_hold_received">"Panggilan diadakan"</string>
+     <string name="vowifi_resume_received">"Panggilan diaktifkan"</string>
+
+</resources>

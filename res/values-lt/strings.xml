@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Nustatomas vaizdo pokalbis"</string>
+<string name="videophone_failcause_1000">"Paskutinis vaizdo skambutis nebuvo normaliai baigtas, po kurio laiko bandykite dar kartą"</string>
+<string name="videophone_failcause_1">"Numeris, kuriuo skambinate yra už ryšio ribų"</string>
+<string name="videophone_failcause_3">"Vartotojas yra nepasiekiamas"</string>
+<string name="videophone_failcause_8">"Skambutis blokuotas"</string>
+<string name="videophone_failcause_17">"Vartotojas užimtas"</string>
+<string name="videophone_failcause_19">"Vartotojas, kuriam skambinate, užimtas"</string>
+<string name="videophone_failcause_27">"Vartotojas nepasiekiamas"</string>
+<string name="videophone_failcause_34">"Ryšys nutrūko"</string>
+<string name="videophone_failcause_63_modify">"Negalima nustatyti vaizdo telefono"</string>
+<string name="videophone_failcause_79">"Vaizdo telefono funkcija nepalaikoma"</string>
+<string name="videophone_failcause_47">"Atsiprašome, vaizdo skambutis negalimas"</string>
+<string name="videophone_failcause_50">"Vaizdo telefono funkcija nepalaikoma"</string>
+<string name="videophone_failcause_57_remote">"Numeris, kuriuo skambinate, nepalaiko vaizdo telefono funkcijos"</string>
+<string name="videophone_failcause_58">"Vaizdo telefono funkcija nepalaikoma"</string>
+<string name="videophone_failcause_157">"Mobilusis telefonas dar neturi vaizdo skambinimo funkcijos"</string>
+<string name="videophone_failcause_88">"Vartotojas renkasi balso skambutį"</string>
+<string name="videophone_failcause_minus_1">"3G paslauga negalima"</string>
+<string name="videophone_failcause_default">"Vartotojas yra nepasiekiamas"</string>
+<string name="net_connection_disconnect">"Tinklo ryšio nutrūkimas"</string>
+<string name="no_vt_service">"Nagalima naudotis vaizdo skambučiais"</string>
+<string name="remote_request_change">"Nuotolinis medijos pakeitimo prašymas"</string>
+<string name="choose_accept_reject">"Prašom pasirinkti \'priimti\' arba \'atmesti\'"</string>
+<string name="remote_request_change_accept">"Priimti"</string>
+<string name="remote_request_change_reject">"Atmesti"</string>
+<string name="remote_reject_request">"Nuotolinis prašymas atmestas"</string>
+<string name="remote_accept_request">"Nuotolinis prašymas priimtas"</string>
+<string name="callFailed_fdn_only">"Išeinantys skambučiai yra ribojami FDN"</string>
+    <string name="camera_open_fail">"Nepavyko įjunti kameros"</string>
+     <string name="ims_switch_failed">"Tinklo klaida, bandykite dar kartą"</string>
+     <string name="videophone_fallback_menu_videocall">"Vaizdo sk."</string>
+     <string name="videophone_fallback_menu_voicecall">Balso skambutis</string>
+     <string name="videophone_fallback_menu_cancel">"Atšaukti"</string>
+     <string name="videophone_fallback_question">"Ką jūs norite daryti?"</string>
+     <string name="low_battery_warning_media_alert_message">"Jūsų baterijos lygis yra žemiau 15%.Prašome pasirinkti - priimti ar atmesti."</string>
+     <string name="low_battery_warning_title">"Perspėjimas apie išsikraunančią bateriją"</string>
+     <string name="low_battery_warning_message">"Jūsų baterijos lygis yra žemiau 15%.Ar norite tęsti vaizdinį skambutį ar pakeisti į balso skambutį?"</string>
+     <string name="low_battery_continue_video_call">"Taip"</string>
+     <string name="low_battery_convert_to_voice_call">"Pakeisti"</string>
+
+</resources>

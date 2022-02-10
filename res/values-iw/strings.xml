@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"ברירת מחדל לשיחת וידאו"</string>
+<string name="videophone_failcause_1000">שיחת וידאו האחרונה לא הסתיימה נורמלית, אנא נסה שוב אחרי כמה זמן</string>
+<string name="videophone_failcause_1">"המספר שחייגתם אינו בשימוש"</string>
+<string name="videophone_failcause_3">המשתמש אינו זמין</string>
+<string name="videophone_failcause_8">שיחה מסורגת</string>
+<string name="videophone_failcause_17">המשתמש תפוס</string>
+<string name="videophone_failcause_19">אין מענה מצד המשתמש</string>
+<string name="videophone_failcause_27">"לא ניתן לתפוס את המשתמש"</string>
+<string name="videophone_failcause_34">הקשר התנתק</string>
+<string name="videophone_failcause_63_modify">"לא ניתן לקיים טלפון וידאו"</string>
+<string name="videophone_failcause_79">המשתמש אינו תומך בשיחת וידאו</string>
+<string name="videophone_failcause_47">סליחה, שיחת וידיאו אינה זמינה</string>
+<string name="videophone_failcause_50">"טלפון וידאו אינו נתמך"</string>
+<string name="videophone_failcause_57_remote">"המספר אליו חייגתם אינו תומך בטלפון וידאו"</string>
+<string name="videophone_failcause_58">המשתמש אינו תומך בשיחת וידאו</string>
+<string name="videophone_failcause_157">"הטלפון הנייד לא הפעיל את שירותי טלפון הווידאו"</string>
+<string name="videophone_failcause_88">המשתמש בחר בשיחה קולית</string>
+<string name="videophone_failcause_minus_1">שירותי דור שלישי אינם זמינים</string>
+<string name="videophone_failcause_default">המשתמש אינו זמין</string>
+<string name="net_connection_disconnect">"חיבור רשת מנותק"</string>
+<string name="no_vt_service">"לא ניתן לבצע שיחות וידאו"</string>
+<string name="remote_request_change">בקשה מרחוק לשינוי מדיה</string>
+<string name="choose_accept_reject">בבקשה בחרו האם לקבל או לדחות</string>
+<string name="remote_request_change_accept">"קבל"</string>
+<string name="remote_request_change_reject">"נדחה"</string>
+<string name="remote_reject_request">"בקשה מרחוק נדחתה"</string>
+<string name="remote_accept_request">"בקשה מרחוק התקבלה"</string>
+<string name="callFailed_fdn_only">"שיחות יוצאות מוגבלות על ידי FDN"</string>
+
+    <string name="camera_open_fail">"פתיחת המצלמה נכשלה"</string>
+     <string name="ims_switch_failed">"שגיאת רשת, בבקשה נסו שוב מאוחר יותר"</string>
+     <string name="videophone_fallback_menu_videocall">שיחת וידיאו</string>
+     <string name="videophone_fallback_menu_voicecall">שיחה קולית</string>
+     <string name="videophone_fallback_menu_cancel">"בטל"</string>
+     <string name="videophone_fallback_question">מה הינכם מעוניינים לעשות?</string>
+     <string name="low_battery_warning_media_alert_message">"רמת הסוללה שלך היא מתחת ל-15%. נא בחר אישור או ביטול"</string>
+     <string name="low_battery_warning_title">"אזהרת סוללה חלשה"</string>
+     <string name="low_battery_warning_message">"רמת הסוללה שלך היא מתחת ל-15%  האם ברצונך להמשיך עם שיחת הוידאו או לעבור לשיחה קולית בלבד?"</string>
+     <string name="low_battery_continue_video_call">"כן"</string>
+     <string name="low_battery_convert_to_voice_call">"להמיר"</string>
+</resources>

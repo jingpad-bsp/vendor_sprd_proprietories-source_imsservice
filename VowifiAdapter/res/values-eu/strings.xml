@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">Urruneko baztertze-eskaera</string>
+<string name="vowifi_request_update_success">Urruneko onarpen-eskaera</string>
+<string name="vowifi_remove_video_success">Larrialdiko bideo-deia</string>
+<string name="vowifi_update_to_rx_success">Bideoa hartzea bakarrik</string>
+<string name="vowifi_update_to_tx_success">Bideoa igortzea bakarrik</string>
+<string name="vowifi_hold_success">Zain geratu da</string>
+<string name="vowifi_hold_fail">Ezin izan da zain utzi</string>
+<string name="vowifi_resume_success">"Deia berreskuratu"</string>
+<string name="vowifi_resume_fail">Ezin izan da berrabiarazi</string>
+<string name="vowifi_hold_received">"Deia zain izan"</string>
+<string name="vowifi_resume_received">"Deia berreskuratu"</string>
+<string name="vowifi_call_retry">Mesedez, saiatu berriro geroago</string>
+<string name="vowifi_call_is_focus">Gehitu konferentzian</string>
+<string name="vowifi_conf_connect_timeout">Konektatu bilera-zerbitzariaren denbora-mugara</string>
+<string name="vowifi_conf_disconnect">Ezin izan da bilera konfiguratu</string>
+<string name="vowifi_conf_finished">Bilera amaitu da</string>
+<string name="vowifi_conf_invite_request_failed">Ezin izan da gonbidapen eskaera bidali</string>
+<string name="vowifi_conf_invite_failed">Ezin izan da parte-hartzailea gonbidatu:</string>
+<string name="vowifi_conf_kick_failed">Ezin izan da parte-hartzailea ezabatu</string>
+<string name="vowifi_conf_none_participant">Ez dago parte-hartzailerik, amaitu deia</string>
+<string name="vowifi_conf_do_not_support">Ez du ekintza hau orain onartzen</string>
+<string name="vowifi_conf_can_not_invite_more">Ezin da gonbidatu beste parte-hartzaile bat bilerara, dagoeneko 6 parte-hartzaile daudelako</string>
+</resources>

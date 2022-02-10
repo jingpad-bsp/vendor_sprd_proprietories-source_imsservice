@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"വീഡിയോ കോള്‍ ഫാള്‍ ബാക്ക്"</string>
+<string name="videophone_failcause_1000">"അവസാന വീഡിയോ കോള്‍ സാധാരണപോലെയല്ല അവസാനിച്ചത്, അല്പസമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക"</string>
+<string name="videophone_failcause_1">"താങ്കള്‍ ഡയല്‍ ചെയ്ത നമ്പര്‍ സേവനത്തിലില്ല"</string>
+<string name="videophone_failcause_3">"ഉപയോക്താവ് ലഭ്യമല്ല"</string>
+<string name="videophone_failcause_8">"കോള്‍ വെളിപ്പെടുത്തി"</string>
+<string name="videophone_failcause_17">"ഉപയോക്താവ് തിരക്കിലാണ്"</string>
+<string name="videophone_failcause_19">"താങ്കള്‍ ഡയല്‍ ചെയ്ത ഉപയോക്താവ് പ്രതികരിക്കുന്നില്ല"</string>
+<string name="videophone_failcause_27">"ഉപയോക്താവിനെ നേടാനായില്ല"</string>
+<string name="videophone_failcause_34">"കണക്ഷന്‍ വിച്ഛേദിക്കപ്പെട്ടു"</string>
+<string name="videophone_failcause_63_modify">"വീഡിയോ ഫോണ്‍ സ്ഥാപിക്കാനായില്ല"</string>
+<string name="videophone_failcause_79">"VT അപരന്‍ പിന്തുണയ്ക്കുന്നില്ല "</string>
+<string name="videophone_failcause_47">"ക്ഷമിക്കുക, വീഡിയോ കോള്‍ ലഭ്യമല്ല"</string>
+<string name="videophone_failcause_50">"VT പിന്തുണയ്ക്കുന്നില്ല"</string>
+<string name="videophone_failcause_57_remote">"താങ്കള്‍ ഡയല്‍ ചെയ്ത് നമ്പര്‍ VT പിന്തുണയ്ക്കുന്നില്ല"</string>
+<string name="videophone_failcause_58">"VT അപരന്‍ പിന്തുണയ്ക്കുന്നില്ല "</string>
+<string name="videophone_failcause_157">"മൊബൈല്‍ സര്‍വ്വീസ് VT സര്‍വ്വീസ് ആരംഭിച്ചിട്ടില്ല"</string>
+<string name="videophone_failcause_88">"ഉപയോക്താവ് ശബ്ദ കോള്‍ തെരഞ്ഞെടുക്കുന്നു"</string>
+<string name="videophone_failcause_minus_1">"3G സേവനം ലഭ്യമല്ല"</string>
+<string name="videophone_failcause_default">"ഉപയോക്താവ് ലഭ്യമല്ല"</string>
+<string name="net_connection_disconnect">"നെറ്റ് കണക്ഷന്‍ വിച്ഛേദിച്ചു"</string>
+<string name="no_vt_service">"വീഡിയോ കോള്‍ ചെയ്യാനാവുന്നില്ല"</string>
+<string name="remote_request_change">"റിമോട്ട് റിക്വസ്റ്റ് മീഡിയ ചെയ്ഞ്ച്"</string>
+<string name="choose_accept_reject">"ദയവായി സ്വീകരിക്കുക അല്ലെങ്കില്‍ നിരാകരിക്കുക സെലക്ട് ചെയ്യുക</string>
+<string name="remote_request_change_accept">"സ്വീകരിക്കുക"</string>
+<string name="remote_request_change_reject">"നിരസിക്കുക"</string>
+<string name="remote_reject_request">"റിമോട്ട് റിക്വസ്റ്റ് നിരസിച്ചു"</string>
+<string name="remote_accept_request">"റിമോട്ട് റിക്വസ്റ്റ് സ്വീകരിച്ചു"</string>
+<string name="callFailed_fdn_only">"പുറത്തേക്ക് പോകുന്ന കോളുകൾ എഫ് ഡിഎൻ മുഖേനെ നിയന്ത്രിക്കപ്പെടുന്നു"</string>
+    <string name="camera_open_fail">"ക്യാമറ  തുറക്കുന്നതിൽ പരാചയപ്പെട്ടു"</string>
+     <string name="ims_switch_failed">"നെറ്റ്‌വർക്ക് തകരാർ, അല്പസമയത്തിനു ശേഷം വീണ്ടും ശ്രമിക്കുക"</string>
+     <string name="videophone_fallback_menu_videocall">"വീഡിയോ കോള്‍"</string>
+     <string name="videophone_fallback_menu_voicecall">"വോയ്സ് കോള്‍"</string>
+     <string name="videophone_fallback_menu_cancel">"റദ്ദാക്കുക"</string>
+     <string name="videophone_fallback_question">"താങ്കള്‍ എന്താണ് ചെയ്യാനുദ്ദേശിക്കുന്നത്?"</string>
+     <string name="low_battery_warning_media_alert_message">"നിങ്ങളുടെ ബാറ്ററി 15 %-ത്തിലും കുറവ്. ദയവായി സ്വീകരിക്കുകയോ നിരസിക്കുകയോ തെരഞ്ഞെടുക്കുക"</string>
+     <string name="low_battery_warning_title">"ബാറ്ററി കുറവ് മുന്നറിയിപ്പ്" </string>
+     <string name="low_battery_warning_message">"നിങ്ങളുടെ ബാറ്ററി 15%-ത്തിലും കുറവാണ്. ഈ വീഡിയോ കോൾ നിങ്ങൾക്ക് തുടരണമെന്നുണ്ടോ അതോ വോയ്‌സ് കോളിലേക്ക് മാറ്റട്ടെ?" </string>
+     <string name="low_battery_continue_video_call">"അതെ"</string>
+     <string name="low_battery_convert_to_voice_call">"മാറ്റൂ"</string>
+
+    <string name="vowifi_attation">"Vowifi അറ്റൻഷൻ"</string>
+     <string name="vowifi_regist_fail_content">"നെറ്റ്വർക്ക് vowifi സപ്പോർട്ട് ചെയ്യുന്നില്ല"</string>
+</resources>

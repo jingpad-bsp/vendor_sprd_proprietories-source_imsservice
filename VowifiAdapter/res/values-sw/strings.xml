@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Ombi la kuboresha"</string>
+<string name="vowifi_request_upgrade_text">"Ombi la kuboresha hali ya kupiga simu kutoka kwa sauti hadi video, tafadhali chagua kukubali au kukataa."</string>
+<string name="vowifi_request_downgrade_title">"Ombi la kupungua"</string>
+<string name="vowifi_request_downgrade_text">"Ombi la kupungua hali ya kupiga simu hadi sauti, tafadhali chagua kukubali au kukataa."</string>
+<string name="vowifi_add_video_failed">"Kukubali agizo la mbali"</string>
+<string name="vowifi_add_video_success">"Kukataa agizo la mbali"</string>
+<string name="vowifi_remove_video_failed">"Haijafaulu kuondoa video"</string>
+<string name="vowifi_remove_video_success">"Simu ya video haijafaulu na imerudishwa kwa simu ya kawaida"</string>
+<string name="vowifi_hold_success">"Kuhairisha kumefanikiwa"</string>
+<string name="vowifi_hold_fail">"Kuhairisha kumefeli"</string>
+<string name="vowifi_resume_success">"Kuhairisha kumefeli"</string>
+<string name="vowifi_resume_fail">"Kuendelea kumefeli"</string>
+<string name="vowifi_call_retry">"Tafadhali jaribu tena baada ya muda"</string>
+<string name="vowifi_call_is_focus">"Ongeza kwenye simu ya pamoja"</string>
+<string name="vowifi_conf_connect_timeout">"Muda wa kuunganisha kwenye seva ya mkutano umekwisha"</string>
+<string name="vowifi_conf_disconnect">"Kuanzisha simu ya pamoja imefeli"</string>
+<string name="vowifi_conf_finished">"Simu ya pamoja imeisha"</string>
+<string name="vowifi_conf_invite_request_failed">"Haijafaulu kutuma agizo la mwaliko"</string>
+<string name="vowifi_conf_invite_failed">"Imefeli kualika mshiriki:"</string>
+<string name="vowifi_conf_kick_failed">"Imefeli kuondoa mshiriki"</string>
+<string name="vowifi_conf_none_participant">"Hakuna mshiriki yoyote, kata simu"</string>
+<string name="vowifi_conf_do_not_support">"Usikubali hatua hii sasa hivi"</string>
+<string name="vowifi_conf_can_not_invite_more">"Huwezi kualika mshiriki mwingine kwenye mkutano kwani tayari una washiki 6"</string>
+    <string name="vowifi_request_update_failed">"Kukubali agizo la mbali"</string>
+     <string name="vowifi_request_update_success">"Kukataa agizo la mbali"</string>
+     <string name="vowifi_update_to_rx_success">"Upokeaji wa video pekee"</string>
+     <string name="vowifi_update_to_tx_success">"Urushaji wa video pekee"</string>
+     <string name="vowifi_hold_received">"Simu imesimamishwa"</string>
+     <string name="vowifi_resume_received">"Simu imerudishwa"</string>
+
+</resources>

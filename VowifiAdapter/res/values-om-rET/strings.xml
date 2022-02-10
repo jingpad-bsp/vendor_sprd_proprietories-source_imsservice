@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Gaaffii deenyummaauu fagoo"</string>
+<string name="vowifi_request_update_success">"Gaaffii simannaa fagoo"</string>
+<string name="vowifi_remove_video_success">"Bilbiila veenyummaaiiyoo duubaatti kufu"</string>
+<string name="vowifi_update_to_rx_success">"Simannaa vieenyummaaiyoo qofa"</string>
+<string name="vowifi_update_to_tx_success">"Tamsasa vieenyummaaiyoo qofa"</string>
+<string name="vowifi_hold_success">"Qabuun milkaa\'e"</string>
+<string name="vowifi_hold_fail">"Qabuun kufe"</string>
+<string name="vowifi_resume_success">"Itti fufun milkaa\'era"</string>
+<string name="vowifi_resume_fail">"Itti fufuun kufe"</string>
+<string name="vowifi_call_retry">"Maaloo, yeroo xiqqoo booda yaalaa"</string>
+<string name="vowifi_call_is_focus">"Conferaansiitti dabali Ummatatii dabali"</string>
+<string name="vowifi_conf_connect_timeout">"Dhuma yeroo serverii konferaansitti qunnamsiisi"</string>
+<string name="vowifi_conf_disconnect">"Konferaansii qopheessuu hindandeenye"</string>
+<string name="vowifi_conf_finished">"Konferaansiin xumurame"</string>
+<string name="vowifi_conf_invite_request_failed">"Gaaffii affeerraa erguu hindandeenye"</string>
+<string name="vowifi_conf_invite_failed">"hirmaataa affeeruun hindandaahamne."</string>
+<string name="vowifi_conf_kick_failed">"Hirmaataa addaan kutuuhindandaahamne."</string>
+<string name="vowifi_conf_none_participant">"Hirmaataan kamuu hinjiru, waamicha kuti"</string>
+<string name="vowifi_conf_do_not_support">"Amma gocha kana hindeggeru"</string>
+<string name="vowifi_conf_can_not_invite_more">"Hirmaataa garabiraa konferaansieenyummaahaaf hinafferu sababa hirmaattota 6 qabuuf"</string>
+</resources>

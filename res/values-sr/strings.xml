@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Видео позив пада назад"</string>
+<string name="videophone_failcause_1000">"Последњи видео позив се није нормално завршио, молимо покушајте поново након неког времена"</string>
+<string name="videophone_failcause_1">"Број који сте бирали није у служби"</string>
+<string name="videophone_failcause_3">"Корисник је недоступан"</string>
+<string name="videophone_failcause_8">"Позив је забрањен"</string>
+<string name="videophone_failcause_17">"Корисник је заузет"</string>
+<string name="videophone_failcause_19">"Корисник којег сте бирали не одговара"</string>
+<string name="videophone_failcause_27">"Корисник је недоступан"</string>
+<string name="videophone_failcause_34">"Конекција је прекинута"</string>
+<string name="videophone_failcause_63_modify">"Видео позив се не може успоставити"</string>
+<string name="videophone_failcause_79">"Телефон друге особе не подржава видео позиве"</string>
+<string name="videophone_failcause_47">"Опростите, видео позив није доступан"</string>
+<string name="videophone_failcause_50">"Видео потив није подржан"</string>
+<string name="videophone_failcause_57_remote">"Број који сте бирали не подржава видео позиве"</string>
+<string name="videophone_failcause_58">"Телефон друге особе не подржава видео позиве"</string>
+<string name="videophone_failcause_157">"Мобилни телефон није покренуо услугу видео позива"</string>
+<string name="videophone_failcause_88">"Корисник бира гласовни позив"</string>
+<string name="videophone_failcause_minus_1">"3Г услуга није доступна"</string>
+<string name="videophone_failcause_default">"Корисник је недоступан"</string>
+<string name="net_connection_disconnect">"Искључена је интернет конекција"</string>
+<string name="no_vt_service">"Не можемо остварити видео позив"</string>
+<string name="remote_request_change">"Удаљени захтев за променом медија."</string>
+<string name="choose_accept_reject">"Молимо одаберите прихватање или одбацивање."</string>
+<string name="remote_request_change_accept">"Прихвати"</string>
+<string name="remote_request_change_reject">"Одбијте"</string>
+<string name="remote_reject_request">"Даљински захтев је одбијен"</string>
+<string name="remote_accept_request">"Даљински захтев је прихваћен"</string>
+<string name="callFailed_fdn_only">"Одлазећи повици су ограничени од FDN"</string>
+    <string name="camera_open_fail">"Неуспешно отварање камере"</string>
+     <string name="ims_switch_failed">"Мрежна грешка, молимо вас покушајте поново касније"</string>
+     <string name="videophone_fallback_menu_videocall">"Видео поз."</string>
+     <string name="videophone_fallback_menu_voicecall">Гласовни позив</string>
+     <string name="videophone_fallback_menu_cancel">"Откажи"</string>
+     <string name="videophone_fallback_question">"Шта желите урадити?"</string>
+     <string name="low_battery_warning_media_alert_message">"Ниво ваше батерије је испод 15%.Молимо вас изаберите прихвати или одбаци."</string>
+     <string name="low_battery_warning_title">"Упозорење о слабој батерији"</string>
+     <string name="low_battery_warning_message">"Ниво ваше батерије је испод 15%.Да ли желите да продужите  са видео позивом или да га претворите у гласовни позив?"</string>
+     <string name="low_battery_continue_video_call">"Да"</string>
+     <string name="low_battery_convert_to_voice_call">"Конвертирај"</string>
+
+</resources>

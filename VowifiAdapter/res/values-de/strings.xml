@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Remote-Ablehnung der Anforderung"</string>
+<string name="vowifi_request_update_success">"Remote-Annahme der Anforderung"</string>
+<string name="vowifi_remove_video_success">"Videoanruf-Fallback"</string>
+<string name="vowifi_update_to_rx_success">"Nur Videoempfang"</string>
+<string name="vowifi_update_to_tx_success">"Nur Videoübertragung"</string>
+<string name="vowifi_hold_success">"Halten erfolgreich"</string>
+<string name="vowifi_hold_fail">"Halten fehlgeschlagen"</string>
+<string name="vowifi_resume_success">"Erfolg fortsetzen"</string>
+<string name="vowifi_resume_fail">"Fortsetzen fehlschlagen"</string>
+<string name="vowifi_call_retry">"Bitte wiederholen Sie nach einem Moment"</string>
+<string name="vowifi_call_is_focus">"Zur Konferenz hinzufügen"</string>
+<string name="vowifi_conf_connect_timeout">"Timeout der Verbindung zum Konferenzserver"</string>
+<string name="vowifi_conf_disconnect">"Konferenz konnte nicht eingerichtet werden"</string>
+<string name="vowifi_conf_finished">"Konferenz beendet"</string>
+<string name="vowifi_conf_invite_request_failed">"Senden der Einladungsanforderung fehlgeschlagen"</string>
+<string name="vowifi_conf_invite_failed">"Der Teilnehmer wurde nicht eingeladen:"</string>
+<string name="vowifi_conf_kick_failed">"Der Teilnehmer wurde nicht entfernt"</string>
+<string name="vowifi_conf_none_participant">"Kein Teilnehmer vorhanden, Anruf beenden"</string>
+<string name="vowifi_conf_do_not_support">"Unterstützen Sie diese Aktion jetzt nicht"</string>
+<string name="vowifi_conf_can_not_invite_more">"Ein weitere Teilnehmer kann nicht zur Konferenz eingeladen werden, da sie bereits 6 Teilnehmer umfasst"</string>
+    <string name="vowifi_hold_received">"Anruf gehalten"</string>
+     <string name="vowifi_resume_received">"Anruf wiederhergestellt"</string>
+
+</resources>

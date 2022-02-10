@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Tolak permintaan jauh"</string>
+<string name="vowifi_request_update_success">"Terima permintaan jauh"</string>
+<string name="vowifi_remove_video_success">"Kembali ke panggilan video"</string>
+<string name="vowifi_update_to_rx_success">"Penerimaan video sahaja"</string>
+<string name="vowifi_update_to_tx_success">"Penghantaran video sahaja"</string>
+<string name="vowifi_hold_success">"Berjaya menahan"</string>
+<string name="vowifi_hold_fail">"Gagal menahan"</string>
+<string name="vowifi_resume_success">"Panggilan semula"</string>
+<string name="vowifi_resume_fail">"Gagal meneruskan"</string>
+<string name="vowifi_hold_received">"Panggilan ditangguh"</string>
+<string name="vowifi_resume_received">"Panggilan semula"</string>
+<string name="vowifi_call_retry">"Sila cuba semula sebentar lagi"</string>
+<string name="vowifi_call_is_focus">"Tambah ke persidangan"</string>
+<string name="vowifi_conf_connect_timeout">"Tamat masa menyambung kepada pelayan persidangan"</string>
+<string name="vowifi_conf_disconnect">"Gagal untuk menetapkan persidangan"</string>
+<string name="vowifi_conf_finished">"Persidangan selesai"</string>
+<string name="vowifi_conf_invite_request_failed">"Gagal menghantar permintaan jemputan"</string>
+<string name="vowifi_conf_invite_failed">"Gagal untuk menjemput peserta:"</string>
+<string name="vowifi_conf_kick_failed">"Gagal untuk mengalihkan peserta"</string>
+<string name="vowifi_conf_none_participant">"Tiada sebarang peserta, tamatkan panggilan"</string>
+<string name="vowifi_conf_do_not_support">"Jangan sokong tindakan ini sekarang"</string>
+<string name="vowifi_conf_can_not_invite_more">"Tidak boleh menjemput peserta lain ke persidangan kerana ia sudah mengandungi 6 peserta"</string>
+</resources>

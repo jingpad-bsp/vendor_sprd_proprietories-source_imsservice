@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"දුරස්ථ ප්‍රතික්ෂේප ඉල්ලීම"</string>
+<string name="vowifi_request_update_success">"දුරස්ථ පිළිගැනීමේ ඉල්ලීම"</string>
+<string name="vowifi_remove_video_success">"වීඩියෝ ඇමතුම් පහලට වැටීම"</string>
+<string name="vowifi_update_to_rx_success">"ප්‍රතිග්‍රහණ සම්ප්‍රේෂණය පමණි"</string>
+<string name="vowifi_update_to_tx_success">"වීඩියෝ සම්ප්‍රේෂණය පමණි "</string>
+<string name="vowifi_hold_success">"රැඳවුම සාර්ථකයි"</string>
+<string name="vowifi_hold_fail">"රඳා සිටීම සාර්ථකයි"</string>
+<string name="vowifi_resume_success">"යලි ඇරඹුම සාර්ථකයි"</string>
+<string name="vowifi_resume_fail">"යලි ඇරඹුම අසාර්ථකයි"</string>
+<string name="vowifi_call_retry">"කරුණාකර මොහොතකින් පසු උත්සාහ කරන්න"</string>
+<string name="vowifi_call_is_focus">"සම්මන්ත්‍රණයට එකතු කරන්න"</string>
+<string name="vowifi_conf_connect_timeout">"සම්මන්ත්‍රණ සේවාදායක කාලච්චේදනයට සම්බන්ධ වන්න"</string>
+<string name="vowifi_conf_disconnect">"සම්මන්ත්‍රණය පිහිටුවීමට නොහැකි විය"</string>
+<string name="vowifi_conf_finished">"සම්මන්ත්‍රණය අවසන්"</string>
+<string name="vowifi_conf_invite_request_failed">"සහභාගිකයාට ආරාධනාව යැවීමට නොහැකි විය"</string>
+<string name="vowifi_conf_invite_failed">"සහභාගිකයාට ආරාධනා කිරීමට නොහැකි විය:"</string>
+<string name="vowifi_conf_kick_failed">"සහභාගිකයා ඉවත් කිරීමට නොහැකි විය"</string>
+<string name="vowifi_conf_none_participant">"සහභාගිකයින් කිසිවෙක් නොමැත, ඇමතුම අවසන් කරන්න"</string>
+<string name="vowifi_conf_do_not_support">"මෙම අවස්ථාවේ මෙම ක්‍රියාවට උපකාරී නොවන්න"</string>
+<string name="vowifi_conf_can_not_invite_more">"සම්මන්ත්‍රණය සඳහා සහභාගිවන්නන් 6 දෙනෙකු සිටින බැවින් තව සහභාගිවන්නකුට ආරාධනා කළ නොහැකිය."</string>
+</resources>

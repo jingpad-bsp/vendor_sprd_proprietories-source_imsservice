@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"रिमोटक अस्वीकार करबाक आग्रह।"</string>
+    <string name="vowifi_request_update_success">"रिमोटक स्वीकार करबाक आग्रह।"</string>
+    <string name="vowifi_remove_video_success">"विडियो-काँल पाछु हटि गेल।"</string>
+
+    <string name="vowifi_hold_success">"पकडब सफल भेल"</string>
+    <string name="vowifi_hold_fail">"पकडब असफल भेल"</string>
+    <string name="vowifi_resume_success">"फेरसँ शुरु करब सफल भेल"</string>
+    <string name="vowifi_resume_fail">"फेरसँ शुरु करब असफल भेल"</string>
+
+    <string name="vowifi_call_retry">"कृपाकय बादमे पुन: प्रयास करू"</string>
+    <string name="vowifi_call_is_focus">"सम्मेलनसँ जोड़ू"</string>
+    <string name="vowifi_conf_connect_timeout">"सम्मेलन सर्वरक काँल समापनसँ जोड़ू।"</string>
+    <string name="vowifi_conf_disconnect">"सम्मेलन लगेवामे असफल भेल"</string>
+    <string name="vowifi_conf_finished">"सम्मेलन समाप्त भेल"</string>
+    <string name="vowifi_conf_invite_request_failed">"आमंत्रन आग्रह पठेवामे असफल भेल। सम्मेलन नहि लगाओल जा सकैत अछि।"</string>
+    <string name="vowifi_conf_invite_failed">"सहभागी केर आमंत्रन करबामे असफल भेल:"</string>
+    <string name="vowifi_conf_kick_failed">"सहभागी हटेबामे असफल भेल"</string>
+    <string name="vowifi_conf_none_participant">"एतय कोनो सहभागी नहि अछि, काँल समाप्त करू।"</string>
+    <string name="vowifi_conf_do_not_support">"एखन एहि क्रिया केर समर्थन नहि करू।"</string>
+</resources>

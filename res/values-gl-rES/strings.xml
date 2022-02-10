@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">Erro pola chamada de vídeo de volta</string>
+<string name="videophone_failcause_1000">"A última vídeo-chamada no finalizou correctamente, volva a inténtalo un pouco máis tarde"</string>
+<string name="videophone_failcause_1">O número que marcou non está en servizo</string>
+<string name="videophone_failcause_3">Usuario non dispoñible</string>
+<string name="videophone_failcause_8">Chamada limitada</string>
+<string name="videophone_failcause_17">Usuario ocupado</string>
+<string name="videophone_failcause_19">"O usuario marcado non contesta"</string>
+<string name="videophone_failcause_27">O usuario non pode ser alcanzado</string>
+<string name="videophone_failcause_34">Conexión desconectada</string>
+<string name="videophone_failcause_63_modify">Non se pudo establecer a video-chamada</string>
+<string name="videophone_failcause_79">VT non soportado por outros</string>
+<string name="videophone_failcause_47">Chamada de vídeo non dispoñible</string>
+<string name="videophone_failcause_50">VT non soportado</string>
+<string name="videophone_failcause_57_remote">O número que marcoi non soporta VT</string>
+<string name="videophone_failcause_58">VT non soportado por outros</string>
+<string name="videophone_failcause_157">"O teléfono non iniciou o servizo VT"</string>
+<string name="videophone_failcause_88">O usuario elixe a chamada por voz</string>
+<string name="videophone_failcause_minus_1">Servizo 3G non dispoñible</string>
+<string name="videophone_failcause_default">Usuario non dispoñible</string>
+<string name="net_connection_disconnect">Desconecte a conexión de rede</string>
+<string name="no_vt_service">"Non pode facer chamadas de vídeo"</string>
+<string name="remote_request_change">"Cambio de medios de solicitude por control remoto"</string>
+<string name="choose_accept_reject">"Elixa aceptar ou reixetar"</string>
+<string name="remote_request_change_accept">Aceptar</string>
+<string name="remote_request_change_reject">Rexeitar</string>
+<string name="remote_reject_request">"Solicitude externa rexeitada"</string>
+<string name="remote_accept_request">"Solicitude externa aceptada"</string>
+<string name="callFailed_fdn_only">"As chamadas saínter están restrinxidas por FDN"</string>
+    <string name="camera_open_fail">"Error de apertura de cámara"</string>
+     <string name="ims_switch_failed">"Erro de rede, volva a inténtalo máis tarde"</string>
+     <string name="videophone_fallback_menu_videocall">VÍDEOCHAMADA</string>
+     <string name="videophone_fallback_menu_voicecall">Chamada de voz</string>
+     <string name="videophone_fallback_menu_cancel">cancelar</string>
+     <string name="videophone_fallback_question">¿Que quere facer?</string>
+     <string name="low_battery_warning_media_alert_message">"O nivel da batería é inferior ó 15%. Elixa aceptar ou eliminar."</string>
+     <string name="low_battery_warning_title">"Advertenza de batería baixa"</string>
+     <string name="low_battery_warning_message">""O nivel da súa batería é inferior 15%. ¿Desexa continuar coa chamada de vídeo o converter a chamada de voz?"</string>
+     <string name="low_battery_continue_video_call">Sí</string>
+     <string name="low_battery_convert_to_voice_call">"Converter"</string>
+
+</resources>

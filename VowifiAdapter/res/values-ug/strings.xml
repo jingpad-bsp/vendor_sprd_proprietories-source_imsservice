@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"يىراق مۇساپىلىق رەت قىلىش تەلىپى"</string>
+    <string name="vowifi_request_update_success">"يىراق مۇساپىلىق قۇبۇللاش تەلىپى"</string>
+    <string name="vowifi_remove_video_success">".سىنلىق سۆزلىشىشنىڭ دەرىجىسى تۆۋەنلىدى"</string>
+
+    <string name="vowifi_hold_success">"سۆزلىشىشنى ساقلاش ئۇتۇقلۇق بولدى"</string>
+    <string name="vowifi_hold_fail">"سۆزلىشىشنى ساقلاش مەغلۇپ بولدى"</string>
+    <string name="vowifi_resume_success">"سۆزلىشىشنى ئەسلىگە كەلتۈرۈش ئۇتۇقلۇق بولدى"</string>
+    <string name="vowifi_resume_fail">"سۆزلىشىشنى ئەسلىگە كەلتۈرۈش مەغلۇپ بولدى"</string>
+
+    <string name="vowifi_call_retry">".بىر ئازدىن كېيىن قايتا سىناڭ"</string>
+    <string name="vowifi_call_is_focus">"يىغىنغا قاتنىشىش"</string>
+    <string name="vowifi_conf_connect_timeout">".يىغىن مۇلازىمىتىرىغا ئۇلاش ۋاقتى چەكتىن ئېشىپ كەتتى"</string>
+    <string name="vowifi_conf_disconnect">"يىغىن قۇرۇش مەغلۇپ بولدى"</string>
+    <string name="vowifi_conf_finished">"يىغىن ئاخىرلاشتى"</string>
+    <string name="vowifi_conf_invite_request_failed">".تەكلىپ قىلىش تەلىپىنى يوللاش مەغلۇپ بولدى، يىغىننى قۇرالمايدۇ"</string>
+    <string name="vowifi_conf_invite_failed">"قاتناشقۇچى...نى تەكلىپ قىلىش مەغلۇپ بولدى"</string>
+    <string name="vowifi_conf_kick_failed">"قاتناشقۇچى...نى يۆتكىۋېتىش مەغلۇپ بولدى"</string>
+    <string name="vowifi_conf_none_participant">".ھېچقانداق قاتناشقۇچى يوق، يىغىننى ئاخىرلاشتۇرۇڭ"</string>
+    <string name="vowifi_conf_do_not_support">".بۇ مەشغۇلاتنى قوللىمايدۇ"</string>
+</resources>

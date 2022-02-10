@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Serveri në distancë refuzoi kërkesën"</string>
+<string name="vowifi_request_update_success">"Serveri në distancë pranoi kërkesën"</string>
+<string name="vowifi_remove_video_success">"Tërheqje e thirrjes video"</string>
+<string name="vowifi_update_to_rx_success">"Vetëm marrje video"</string>
+<string name="vowifi_update_to_tx_success">"Vetëm transmetim video"</string>
+<string name="vowifi_hold_success">"Vendosja në pritje me sukses"</string>
+<string name="vowifi_hold_fail">"Vendosja në pritje dështoi"</string>
+<string name="vowifi_resume_success">Telefonata u rikuperua</string>
+<string name="vowifi_resume_fail">"Vazhdimi dështoi"</string>
+<string name="vowifi_hold_received">Telefonata në pritje</string>
+<string name="vowifi_resume_received">Telefonata u rikuperua</string>
+<string name="vowifi_call_retry">"Provoje përsëri pas një momenti"</string>
+<string name="vowifi_call_is_focus">"Shto te konferenca"</string>
+<string name="vowifi_conf_connect_timeout">"Koha e pritjes për lidhjen në serverin e konferencës mbaroi"</string>
+<string name="vowifi_conf_disconnect">"Nuk e konfiguroi dot thirrjen konferencë"</string>
+<string name="vowifi_conf_finished">"Konferenca përfundoi"</string>
+<string name="vowifi_conf_invite_request_failed">"Nuk e dërgoi dot kërkesën e ftesës"</string>
+<string name="vowifi_conf_invite_failed">"Nuk e ftoi dot pjesëmarrësin:"</string>
+<string name="vowifi_conf_kick_failed">"Nuk e hoqi dot pjesëmarrësin"</string>
+<string name="vowifi_conf_none_participant">"Nuk ka asnjë pjesëmarrës, përfundo thirrjen"</string>
+<string name="vowifi_conf_do_not_support">"Nuk e mbështet këtë veprim tani"</string>
+<string name="vowifi_conf_can_not_invite_more">"Nuk mund të ftohet pjesëmarrës tjetër në konferencë, sepse ajo tashmë ka 6 pjesëmarrës"</string>
+</resources>

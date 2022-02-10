@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Solicitação de controlo remoto rejeitado"</string>
+<string name="vowifi_request_update_success">"Solicitação de controlo remoto aceite"</string>
+<string name="vowifi_remove_video_success">"Videochamada de contingência"</string>
+<string name="vowifi_update_to_rx_success">"Apenas recepção de vídeo"</string>
+<string name="vowifi_update_to_tx_success">"Apenas transmissão de vídeo"</string>
+<string name="vowifi_hold_success">"Segure atender"</string>
+<string name="vowifi_hold_fail">"Segure recusar"</string>
+<string name="vowifi_resume_success">"Retomar a chamada"</string>
+<string name="vowifi_resume_fail">"Encerrar a chamada"</string>
+<string name="vowifi_call_retry">"Tente novamente mais tarde"</string>
+<string name="vowifi_call_is_focus">"Adicionar à conferência"</string>
+<string name="vowifi_conf_connect_timeout">"Tempo limite de ligação ao servidor da conferência"</string>
+<string name="vowifi_conf_disconnect">"Não foi possível criar a conferência"</string>
+<string name="vowifi_conf_finished">"A conferência terminou"</string>
+<string name="vowifi_conf_invite_request_failed">"Falha ao enviar a solicitação de convite"</string>
+<string name="vowifi_conf_invite_failed">"Não foi possível convidar o participante:"</string>
+<string name="vowifi_conf_kick_failed">"Não foi possível remover o participante"</string>
+<string name="vowifi_conf_none_participant">"Não está presente nenhum participante, terminar a chamada"</string>
+<string name="vowifi_conf_do_not_support">"Ação não suportada no momento"</string>
+<string name="vowifi_conf_can_not_invite_more">"Não é possível convidar outro participante para a conferência, visto já estarem presentes 6 participantes"</string>
+    <string name="vowifi_hold_received">"Chamada em espera"</string>
+     <string name="vowifi_resume_received">"Chamada recuperada"</string>
+     <string name="vowifi_call_forwarded">"Encaminhando chamada"</string>
+
+</resources>

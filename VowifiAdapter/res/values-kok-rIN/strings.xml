@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"रिमोट विनंती अस्विकार."</string>
+    <string name="vowifi_request_update_success">"रिमोट विनंती स्विकार."</string>
+    <string name="vowifi_remove_video_success">"व्हिडियो कॉल फॉल-बॅक."</string>
+
+    <string name="vowifi_hold_success">"हॉल्ड यशस्वी"</string>
+    <string name="vowifi_hold_fail">"हॉल्ड अपेशी"</string>
+    <string name="vowifi_resume_success">"परत सुरू यशस्वी"</string>
+    <string name="vowifi_resume_fail">"परत सुरू अपेशी"</string>
+
+    <string name="vowifi_call_retry">"उपकार करुन उपरांत परतून यत्न करात."</string>
+    <string name="vowifi_call_is_focus">"कॉन्फरन्सात घालात"</string>
+    <string name="vowifi_conf_connect_timeout">"कॉन्फरन्स सर्वराक जोडपाचो वेळ सोंपलो."</string>
+    <string name="vowifi_conf_disconnect">"कॉन्फरन्स कॉल सेटअप करुंक अपेशी"</string>
+    <string name="vowifi_conf_finished">"कॉन्फरन्स सोंपले"</string>
+    <string name="vowifi_conf_invite_request_failed">"आपोवणें विनंती धाडूंक अपेशी. कॉन्फरन्स सेटअप करुंक जायना."</string>
+    <string name="vowifi_conf_invite_failed">"वांटेकार जाल्ल्यांक आपोवणें धाडूंक अपेशी:"</string>
+    <string name="vowifi_conf_kick_failed">"वांटेकार जाल्ल्यांक काडूंक अपेशी"</string>
+    <string name="vowifi_conf_none_participant">"थंय कोणच वांटेकार ना, कॉल सोपयात."</string>
+    <string name="vowifi_conf_do_not_support">"हे कृतीक आतां तेंको दिनाकात."</string>
+</resources>

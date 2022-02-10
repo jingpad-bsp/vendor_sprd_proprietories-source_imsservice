@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"ვიდეო ზარის სიჩქარის შემცირება"</string>
+<string name="videophone_failcause_1000">"ბოლო ვიდეო ზარი ნორმალურად არ დასრულებულა, გთხოვთ, ხელახლა სცადოთ, ცოტა ხნის შემდეგ"</string>
+<string name="videophone_failcause_1">"თქვენ მიერ აკრეფილი ნომერი მომსახურებაში არ არის"</string>
+<string name="videophone_failcause_3">"მომხმარებელი მიუწვდომელია"</string>
+<string name="videophone_failcause_8">"ზარი შეფერხებულია"</string>
+<string name="videophone_failcause_17">"მომხმარებელი დაკავებულია"</string>
+<string name="videophone_failcause_19">"თქვენ მიერ აკრეფილი მომხმარებელი არ პასუხობს"</string>
+<string name="videophone_failcause_27">"მომხმარებელთან დაკავშირება შეუძლებელია"</string>
+<string name="videophone_failcause_34">"კავშირი შეწყვეტილია"</string>
+<string name="videophone_failcause_63_modify">"ვიდეო ტელეფონის დაყენება შეუძლებელია"</string>
+<string name="videophone_failcause_79">"VT არ არის მხარდაჭერილი სხვის მიერ"</string>
+<string name="videophone_failcause_47">"სამწუხაროდ, ვიდეო ზარი მიუწვდომელია"</string>
+<string name="videophone_failcause_50">"VT არ არის მხარდაჭერილი"</string>
+<string name="videophone_failcause_57_remote">"თქვენ მიერ აკრეფილი ნომერი მხარს არ უჭერს VT-ს"</string>
+<string name="videophone_failcause_58">"VT არ არის მხარდაჭერილი სხვის მიერ"</string>
+<string name="videophone_failcause_157">"მობილურ ტელეფონს არ დაუწყია VT მომსახურება"</string>
+<string name="videophone_failcause_88">"მომხმარებელი ირჩევს ხმოვან ზარს"</string>
+<string name="videophone_failcause_minus_1">"3G მომსახურება ხელმისაწვდომი არ არის"</string>
+<string name="videophone_failcause_default">"მომხმარებელი მიუწვდომელია"</string>
+<string name="net_connection_disconnect">"ქსელის კავშირი გაწყვეტილია"</string>
+<string name="no_vt_service">"არ შეუძლია ვიდეო ზარების განხორციელება"</string>
+<string name="remote_request_change">"დისტანციური მოთხოვნის მედიის ცვლილება"</string>
+<string name="choose_accept_reject">"გთხოვთ, აირჩიოთ მიღება ან უარყოფა"</string>
+<string name="remote_request_change_accept">"მიღება"</string>
+<string name="remote_request_change_reject">"უარყოფა"</string>
+<string name="remote_reject_request">"დისტანციური მოთხოვნა უარყოფილია"</string>
+<string name="remote_accept_request">"დისტანციური მოთხოვნა მიღებულია"</string>
+<string name="callFailed_fdn_only">"გამავალი ზარები შეზღუდულია FDN-ის მიერ"</string>
+    <string name="camera_open_fail">"კამერის გახსნა ვერ მოხერხდა"</string>
+     <string name="ims_switch_failed">"ქსელის შეცდომა, გთხოვთ, სცადეთ ისევ მოგვიანებით"</string>
+     <string name="videophone_fallback_menu_videocall">"ვიდეოზარი"</string>
+     <string name="videophone_fallback_menu_voicecall">"ხმოვანი ზარი"</string>
+     <string name="videophone_fallback_menu_cancel">"გაუქმება"</string>
+     <string name="videophone_fallback_question">"რისი გაკეთება გსურთ?"</string>
+     <string name="low_battery_warning_media_alert_message">"თქვენი აკუმულატორის დონე 15%-ზე დაბალია.გთხოვთ, აირჩიეთ მიღება ან უარყოფა."</string>
+     <string name="low_battery_warning_title">"გაფრთხილება აკუმულატორის დაცლის შესახებ"</string>
+     <string name="low_battery_warning_message">"თქვენი აკუმულატორის დონე 15%-ზე ნაკლებია.გსურთ ვიდეო ზარის გაგრძელება ან ხმოვან ზარზე კონვერტირება?"</string>
+     <string name="low_battery_continue_video_call">"დიახ"</string>
+     <string name="low_battery_convert_to_voice_call">"კონვერტირება"</string>
+
+</resources>

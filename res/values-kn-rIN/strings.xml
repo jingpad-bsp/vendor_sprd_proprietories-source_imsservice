@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"ವಿಡಿಯೋ ಕರೆ ಪಫಾಲ್ ಬ್ಯಾಕ್"</string>
+<string name="videophone_failcause_1000">"ಕೊನೆಯ ವಿಡಿಯೋ ಕರೆ ಸಾಮಾನ್ಯವಾಗಿ ಮುಕ್ತಾಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="videophone_failcause_1">"ನೀವು ಡಯಲ್ ಮಾಡಿರುವ ನಂಬರ್ ಸರ್ವೀಸ್ಯಲ್ಲಿಲ್ಲ"</string>
+<string name="videophone_failcause_3">"ಯುಸರ್ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="videophone_failcause_8">"ಕರೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
+<string name="videophone_failcause_17">"ಯುಸರ್ ಕಾರ್ಯನಿರತನಾಗಿದ್ದಾರೆ"</string>
+<string name="videophone_failcause_19">"ನೀವು ಡಯಲ್ ಮಾಡಿರುವ ಯುಸರ್ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡುತ್ತಿಲ್ಲ"</string>
+<string name="videophone_failcause_27">"ಯುಸರ್ರನ್ನು ತಲಪಲು ಸಾಧ್ಯವಾಗಿತ್ತಿಲ್ಲ"</string>
+<string name="videophone_failcause_34">"ಸಂಪರ್ಕ ಕಡಿದುಹೋಗಿದೆ"</string>
+<string name="videophone_failcause_63_modify">ರಿಮೋಟ್ ಕ್ಯಾಮೆರಾ ಮುಚ್ಚಿದಾಗ ಸ್ಟ್ಯಾಟಿಕ್ ಇಮೆಜ್ ತೋರಿಸಿ"</string>
+<string name="videophone_failcause_79">"VT ಇತರರಿಂದ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"</string>
+<string name="videophone_failcause_47">"ಕ್ಷಮಿಸಿ, ವಿಡಿಯೋ ಕರೆ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="videophone_failcause_50">"VT ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"</string>
+<string name="videophone_failcause_57_remote">"ನೀವು ಡಯಲ ಮಾಡಿದ ಸಂಖ್ಯೆ VT ಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"</string>
+<string name="videophone_failcause_58">"VT ಇತರರಿಂದ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"</string>
+<string name="videophone_failcause_157">"ಮೊಬೈಲ್ ಫೋನ್ VT ಸರ್ವೀಸ್ಯನ್ನು ಆರಂಭಿಸಿಲ್ಲ"</string>
+<string name="videophone_failcause_88">"ಯುಸರ್ ಧ್ವನಿ ಕರೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತಾರೆ"</string>
+<string name="videophone_failcause_minus_1">"3G ಸರ್ವೀಸ್ಯು ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="videophone_failcause_default">"ಯುಸರ್ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="net_connection_disconnect">ನೆಟ್ ಸಂಪರ್ಕ ಕಡಿದುಹಾಕಿ"</string>
+<string name="no_vt_service">"ವಿಡಿಯೋ ಕರೆ ಮಾಡಲಾಗುತ್ತಿಲ್ಲ"</string>
+<string name="remote_request_change">"ರಿಮೋಟ್ ಕೋರಿಕೆ ಮಾಧ್ಯಮ ಬದಲಾವಣೆ"</string>
+<string name="choose_accept_reject">"ದಯವಿಟ್ಟು ಸ್ವೀಕರಿಸಿ ಅಥವಾ ನಿರಾಕರಿಸಿ"</string>
+<string name="remote_request_change_accept">"ಸ್ವೀಕರಿಸಿ"</string>
+<string name="remote_request_change_reject">"ತಿರಸ್ಕರಿಸು"</string>
+<string name="remote_reject_request">"ರಿಮೋಟ್ ಬೇಡಿಕೆ ತಿರಸ್ಕೃತಗೊಂಡಿದೆ"</string>
+<string name="remote_accept_request">"ರಿಮೋಟ್ ಬೇಡಿಕೆ ಸ್ವೀಕೃತಗೊಂಡಿದೆ"</string>
+<string name="callFailed_fdn_only">"ಎಫ್ ಡಿ ಎನ್ ನಿಂದ ಹೊರಹೋಗುವ ಕರೆಗಳು ನಿರ್ಬಂಧಿತಗೊಂಡಿವೆ"</string>
+    <string name="camera_open_fail">"ಕ್ಯಾಮರಾ ಓಪನ್ ಮಾಡುವಲ್ಲಿ ವಿಫಲ"</string>
+     <string name="ims_switch_failed">"ನೆಟ್ವರ್ಕ್ ದೋಷ, ದಯವಿಟ್ಟು ನಂತರದಲ್ಲಿ ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+     <string name="videophone_fallback_menu_videocall">"ವಿಡಿಯೋ ಕರೆ"</string>
+     <string name="videophone_fallback_menu_voicecall">"ವಾಯ್ಸ್ ಕರೆ."</string>
+     <string name="videophone_fallback_menu_cancel">"ರದ್ದು"</string>
+     <string name="videophone_fallback_question">ನಿವಿ ಏನು ಮಾಡಬಯಸುವಿರಿ?"</string>
+     <string name="low_battery_warning_media_alert_message">"ನಿಮ್ಮ ಬ್ಯಾಟರಿ(ಮಿಂತಿಣಿ)ಮಟ್ಟ 15% ಗಿ೦ತ ಕಡಿಮೆ ಇದೆ.ದಯವಿಟ್ಟು ಸ್ವೀಕರಿಸು ಅಥವಾ ತಿರಸ್ಕರಿಸು  ಆರಿಸಿ"</string>
+     <string name="low_battery_warning_title">"ಕಡಿಮೆ ಬ್ಯಾಟರಿ (ವಿದ್ಯುತ್ಕೋಶ)ಎಚ್ಚರಿಕೆ(ಮುನ್ಸೂಚನೆ)"</string>
+     <string name="low_battery_warning_message">"ನಿಮ್ಮ ಬ್ಯಾಟರಿ ಮಟ್ಟ 15% ಗಿ೦ತ ಕಡಿಮೆ ಇದೆ.ನೀವು ವಿಡಿಯೋ(ದೃಶ್ಯ)ಕರೆಯ ಜೊತೆ ಮು೦ದುವರಿಯುವಿರಾ ಅಥವಾ ಧ್ವನಿಕರೆಗೆ ಪರಿವರ್ತಿತರಾಗುವಿರಾ?"</string>
+     <string name="low_battery_continue_video_call">"ಹೌದು"</string>
+     <string name="low_battery_convert_to_voice_call">"ಪರಿವರ್ತಿಸು"</string>
+
+    <string name="vowifi_attation">"Vowifi ಗಮನ"</string>
+     <string name="vowifi_regist_fail_content">"ನೆಟ್ವರ್ಕ್ vowifi ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"</string>
+</resources>

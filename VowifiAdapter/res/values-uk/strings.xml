@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Дистанційний запит на підвищення статусу"</string>
+<string name="vowifi_request_upgrade_text">"Запит на підвищення статусу поточного виклику до відеовиклику. Виберіть, прийняти чи відхилити."</string>
+<string name="vowifi_request_downgrade_title">"Дистанційний запит на зниження статусу"</string>
+<string name="vowifi_request_downgrade_text">"Запит на зниження статусу поточного виклику до голосового виклику. Виберіть, прийняти чи відхилити."</string>
+<string name="vowifi_add_video_failed">"Дистанційне відхиляння запиту"</string>
+<string name="vowifi_add_video_success">"Дистанційне підтвердження запиту"</string>
+<string name="vowifi_remove_video_failed">"Помилка видалення відео"</string>
+<string name="vowifi_remove_video_success">"Збій відеовиклику"</string>
+<string name="vowifi_hold_success">"Успішне утримання"</string>
+<string name="vowifi_hold_fail">"Помилка утримання"</string>
+<string name="vowifi_resume_success">"Успішне відновлення"</string>
+<string name="vowifi_resume_fail">"Помилка відновлення"</string>
+<string name="vowifi_call_retry">"Повторіть спробу через секунду"</string>
+<string name="vowifi_call_is_focus">"Додати до конференц-виклику"</string>
+<string name="vowifi_conf_connect_timeout">"Перевищення часу з\'єднання з сервером конференц-зв\'язку"</string>
+<string name="vowifi_conf_disconnect">"Помилка під час встановлення конференц-зв\'язку"</string>
+<string name="vowifi_conf_finished">"Конференц-виклик завершено"</string>
+<string name="vowifi_conf_invite_request_failed">"Помилка під час надсилання запиту із запрошенням"</string>
+<string name="vowifi_conf_invite_failed">"Помилка запрошення для учасника:"</string>
+<string name="vowifi_conf_kick_failed">"Помилка видалення учасника"</string>
+<string name="vowifi_conf_none_participant">"Немає жодного учасника, завершення виклику"</string>
+<string name="vowifi_conf_do_not_support">"Ця дія наразі не підтримується"</string>
+<string name="vowifi_conf_can_not_invite_more">"Неможливо запросити ще одного учасника приєднатися до конференц-виклику, оскільки вже є 6 учасників"</string>
+    <string name="vowifi_request_update_failed">"Дистанційне відхиляння запиту"</string>
+     <string name="vowifi_request_update_success">"Дистанційне підтвердження запиту"</string>
+     <string name="vowifi_update_to_rx_success">"Тільки прийом відео"</string>
+     <string name="vowifi_update_to_tx_success">"Тільки передача відео"</string>
+     <string name="vowifi_hold_received">"утримання виклику"</string>
+     <string name="vowifi_resume_received">"Виклик видправлено"</string>
+
+</resources>

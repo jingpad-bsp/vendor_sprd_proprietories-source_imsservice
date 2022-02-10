@@ -1,0 +1,43 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spreadtrum.ims"
+    coreApp="true"
+    android:sharedUserId="android.uid.phone" >
+
+    <protected-broadcast android:name="com.spreadtrum.ims.VOLTE_REGISTED" />
+
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.spreadtrum.vowifi.permission.ACCESS_CONFIGURATION" />
+    <uses-permission android:name="android.permission.READ_PRECISE_PHONE_STATE" />
+
+    <application
+        android:name="ImsApp"
+        android:allowBackup="false"
+        android:process="com.android.phone"
+        android:defaultToDeviceProtectedStorage="true"
+        android:directBootAware="true">
+
+        <service
+            android:name=".ImsService"
+            android:permission="android.permission.BIND_IMS_SERVICE"
+            android:enabled="true"
+            android:exported="true"
+            android:process="com.android.phone">
+            <meta-data android:name="android.telephony.ims.MMTEL_FEATURE" android:value="true" />
+            <meta-data android:name="android.telephony.ims.EMERGENCY_MMTEL_FEATURE" android:value="true" />
+             <intent-filter>
+                 <action android:name="android.telephony.ims.ImsService" />
+             </intent-filter>
+        </service>
+
+        <service android:name=".IwlanNetworkService"
+            android:permission="android.permission.BIND_TELEPHONY_NETWORK_SERVICE" >
+            <intent-filter>
+                <action android:name="android.telephony.NetworkService" />
+            </intent-filter>
+        </service>
+
+        <service android:name=".vowifi.ImsDozeManagerService" android:exported="true" />
+    </application>
+
+</manifest>

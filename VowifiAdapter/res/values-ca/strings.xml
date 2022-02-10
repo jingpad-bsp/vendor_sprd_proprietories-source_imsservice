@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Sol·licitud de rebuig remot"</string>
+<string name="vowifi_request_update_success">"Sol·licitud d\'acceptació remota"</string>
+<string name="vowifi_remove_video_success">"Vídeotrucada alternativa"</string>
+<string name="vowifi_update_to_rx_success">"Només recepció de vídeo"</string>
+<string name="vowifi_update_to_tx_success">"Només transmissió de vídeo"</string>
+<string name="vowifi_hold_success">"La retenció s\'ha realitzat correctament"</string>
+<string name="vowifi_hold_fail">"La retenció ha fallat"</string>
+<string name="vowifi_resume_success">"S\'ha reprès correctament"</string>
+<string name="vowifi_resume_fail">"No s\'ha pogut reprendre"</string>
+<string name="vowifi_call_retry">"Torneu-ho a provar després d\'un moment"</string>
+<string name="vowifi_call_is_focus">"Afegeix a la conferència"</string>
+<string name="vowifi_conf_connect_timeout">"Connecta al temps d\'espera del servidor de conferències"</string>
+<string name="vowifi_conf_disconnect">"No s\'ha pogut configurar una conferència"</string>
+<string name="vowifi_conf_finished">"La conferència ha acabat"</string>
+<string name="vowifi_conf_invite_request_failed">"No s\'ha pogut enviar la sol·licitud d\'invitació"</string>
+<string name="vowifi_conf_invite_failed">"No s\'ha pogut convidar el participant:"</string>
+<string name="vowifi_conf_kick_failed">"No s\'ha pogut eliminar el participant"</string>
+<string name="vowifi_conf_none_participant">"No hi ha cap participant, finalitzeu la trucada"</string>
+<string name="vowifi_conf_do_not_support">"Actualment no és compatible amb aquesta acció"</string>
+<string name="vowifi_conf_can_not_invite_more">"No podeu convidar un altre participant a la conferència perquè ja conté 6 participants"</string>
+    <string name="vowifi_hold_received">"Trucada retinguda"</string>
+     <string name="vowifi_resume_received">Trucada recuperada</string>
+
+</resources>

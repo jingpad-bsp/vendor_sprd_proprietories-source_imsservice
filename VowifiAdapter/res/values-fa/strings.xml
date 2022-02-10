@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">درخواست از راه دور برای ارتقاء</string>
+<string name="vowifi_request_upgrade_text">درخواست برای ارتقاء تماس فعلی به تماس ویدئویی، لطفاً پذیرفتن یا رد را انتخاب کنید</string>
+<string name="vowifi_request_downgrade_title">درخواست از راه دور برای تنزیل</string>
+<string name="vowifi_request_downgrade_text">درخواست برای تنزیل تماس فعلی به تماس صوتی، لطفاً پذیرفتن یا رد را انتخاب کنید</string>
+<string name="vowifi_add_video_failed">"درخواست رد از راه دور"</string>
+<string name="vowifi_add_video_success">"درخواست پذیرش از راه دور"</string>
+<string name="vowifi_remove_video_failed">""حذف ویدئو" انجام نشد"</string>
+<string name="vowifi_remove_video_success">"برگشت تماس ویدئویی"</string>
+<string name="vowifi_hold_success">نگه داشتن موفق بود</string>
+<string name="vowifi_hold_fail">نگه داشتن ناموفق بود</string>
+<string name="vowifi_resume_success">ادامه موفق بود</string>
+<string name="vowifi_resume_fail">ادامه ناموفق بود</string>
+<string name="vowifi_call_retry">لطفاً پس از چند لحظه دوباره امتحان کنید</string>
+<string name="vowifi_call_is_focus">افزودن به کنفرانس</string>
+<string name="vowifi_conf_connect_timeout">"مهلت اتصال به سرور کنفرانس به پایان رسید"</string>
+<string name="vowifi_conf_disconnect">تنظیم کنفرانس ناموفق بود</string>
+<string name="vowifi_conf_finished">کنفرانس به پایان رسید</string>
+<string name="vowifi_conf_invite_request_failed">"ارسال درخواست دعوت ناموفق بود"</string>
+<string name="vowifi_conf_invite_failed">دعوت از مخاطب ناموفق بود:</string>
+<string name="vowifi_conf_kick_failed">حذف مخاطب ناموفق بود:</string>
+<string name="vowifi_conf_none_participant">"هیچ شرکت‌کننده‌ای وجود ندارد، به تماس خاتمه بدهید"</string>
+<string name="vowifi_conf_do_not_support">"در حال حاضر از این اقدام پشتیبانی نمی‌شود"</string>
+<string name="vowifi_conf_can_not_invite_more">"نمی‌توان یک شرکت‌کننده دیگر را به کنفرانس دعوت کرد، زیرا در حال حاضر ۶ شرکت‌کننده وجود دارد"</string>
+    <string name="vowifi_request_update_failed">"درخواست رد از راه دور"</string>
+     <string name="vowifi_request_update_success">"درخواست پذیرش از راه دور"</string>
+     <string name="vowifi_update_to_rx_success">"فقط دریافت ویدئو"</string>
+     <string name="vowifi_update_to_tx_success">"فقط ارسال ویدئو"</string>
+     <string name="vowifi_hold_received">"تماس نگه داشته شد"</string>
+     <string name="vowifi_resume_received">"تماس بازیابی شد"</string>
+
+</resources>

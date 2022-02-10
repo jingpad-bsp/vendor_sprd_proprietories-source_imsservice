@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Pád videohovoru zpět"</string>
+<string name="videophone_failcause_1000">"Poslední videohovor nebyl normálně ukončen, prosím zkuste to znova za chvíli"</string>
+<string name="videophone_failcause_1">"Číslo, které jste vytočili, není ve službě"</string>
+<string name="videophone_failcause_3">"Uživatel není dostupný"</string>
+<string name="videophone_failcause_8">"Hovor zamezen"</string>
+<string name="videophone_failcause_17">"Uživatel je zaneprázdněný"</string>
+<string name="videophone_failcause_19">"Uživatel neodpovídá"</string>
+<string name="videophone_failcause_27">"Uživatele není možné zastihnout"</string>
+<string name="videophone_failcause_34">"Připojení je odpojeno"</string>
+<string name="videophone_failcause_63_modify">"Videotelefon nebylo možné zřídit"</string>
+<string name="videophone_failcause_79">"VT není podporováno jiným"</string>
+<string name="videophone_failcause_47">"Litujeme, videohovor není dostupný"</string>
+<string name="videophone_failcause_50">"VT není podporováno"</string>
+<string name="videophone_failcause_57_remote">"Číslo, které jste vytočili, nepodporuje VT"</string>
+<string name="videophone_failcause_58">"VT není podporováno jiným"</string>
+<string name="videophone_failcause_157">"Mobilní telefon nespustil službu VT"</string>
+<string name="videophone_failcause_88">"Uživatel si zvolil hlasový hovor"</string>
+<string name="videophone_failcause_minus_1">"3G služba není dostupná"</string>
+<string name="videophone_failcause_default">"Uživatel není dostupný"</string>
+<string name="net_connection_disconnect">"Síťové připojení je odpojené"</string>
+<string name="no_vt_service">"Není možné dělat videohovory"</string>
+<string name="remote_request_change">"Změna médií vzdáleného požadavku"</string>
+<string name="choose_accept_reject">"Prosím, zvolte přijmout anebo odmítnout"</string>
+<string name="remote_request_change_accept">"Příjmout"</string>
+<string name="remote_request_change_reject">"Odmítnout"</string>
+<string name="remote_reject_request">"Vzdáelný požadavek byl zamítnutý"</string>
+<string name="remote_accept_request">"Vzdáelný požadavek byl přijatý"</string>
+<string name="callFailed_fdn_only">"Odchozí hovory jsou omezeny na povolená čísla (FDN)"</string>
+    <string name="camera_open_fail">"Otevírání fotoaparátu se nepovedlo"</string>
+     <string name="ims_switch_failed">"Chyba sítě, prosím, zkuste znovu později"</string>
+     <string name="videophone_fallback_menu_videocall">Videohovor</string>
+     <string name="videophone_fallback_menu_voicecall">Hlasový hovor</string>
+     <string name="videophone_fallback_menu_cancel">Zrušit</string>
+     <string name="videophone_fallback_question">"Co chcete dělat?"</string>
+     <string name="low_battery_warning_media_alert_message">"Vaše úroveň baterie je pod 15 %. Prosím vyberte přijmout nebo odmítnout."</string>
+     <string name="low_battery_warning_title">"Upozornění na nízký stav baterie"</string>
+     <string name="low_battery_warning_message">"Stav vaší baterie je nižší než 15 %. Chcete pokračovat ve video hovoru nebo přejít na hlasový hovor?"</string>
+     <string name="low_battery_continue_video_call">"Ano"</string>
+     <string name="low_battery_convert_to_voice_call">"Přejít"</string>
+
+</resources>

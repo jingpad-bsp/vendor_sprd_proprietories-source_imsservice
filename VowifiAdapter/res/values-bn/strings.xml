@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"দুরবর্তী বাতিল অনুরোধ"</string>
+<string name="vowifi_request_update_success">"দূরবর্তী গ্রহন অনুরোধ"</string>
+<string name="vowifi_remove_video_success">"ভিডিও কল পিছিয়ে গেল"</string>
+<string name="vowifi_update_to_rx_success">"শুধু ভিডিও গ্রহণ"</string>
+<string name="vowifi_update_to_tx_success">"শুধু ভিডিও প্রেরণ"</string>
+<string name="vowifi_hold_success">"সাফল্য ধরে রাখুন"</string>
+<string name="vowifi_hold_fail">"ব্যর্থ ধরে রাখুন"</string>
+<string name="vowifi_resume_success">"কল উদ্ধৃত হয়েছে"</string>
+<string name="vowifi_resume_fail">"পুনরারম্ভ ব্যর্থ"</string>
+<string name="vowifi_hold_received">"কল্ ধরে রাখা হয়েছে"      </string>
+<string name="vowifi_resume_received">"কল উদ্ধৃত হয়েছে"</string>
+<string name="vowifi_call_retry">"একটু পর আবার চেষ্টা করুন"</string>
+<string name="vowifi_call_is_focus">"কনফারেন্স-এ যুক্ত করুন"</string>
+<string name="vowifi_conf_connect_timeout">"কনফারেন্স সারভার টাইমআউটের সঙ্গে সংযোগ করুন"</string>
+<string name="vowifi_conf_disconnect">"কনফারেন্স সেটআপ করতে ব্যর্থ"</string>
+<string name="vowifi_conf_finished">"চনফারেন্স শেষ"</string>
+<string name="vowifi_conf_invite_request_failed">"আমন্ত্রণ অনুরোধ পাঠাতে অসমর্থ"</string>
+<string name="vowifi_conf_invite_failed">"অংশগ্রহণকারীদের আমন্ত্রণ জানাতে ব্যর্থঃ"</string>
+<string name="vowifi_conf_kick_failed">"অংশগ্রহণকারীদের সরাতে ব্যর্থ"</string>
+<string name="vowifi_conf_none_participant">"এখানে কোন অংশগ্রহণকারী নেই, কলটি কেটে দিন"</string>
+<string name="vowifi_conf_do_not_support">"এই কাজটিকে এখন সমর্থন করবেন না"  </string>
+<string name="vowifi_conf_can_not_invite_more">"কনফারেন্সে অন্যান্য অংশগ্রহণকারীদের আমন্ত্রণ জানাতে পারবো না কারণ এটিতে আগে থেকেই 6 জন অংশগ্রহণকারীকে যোগ করা হয়েছে"  </string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">Видео разговор провален.</string>
+<string name="videophone_failcause_1000">Последният видео разговор не завърши нормално, моля опитайте пак.</string>
+<string name="videophone_failcause_1">Номерът, който избрахте е неактивен.</string>
+<string name="videophone_failcause_3">Потребителят е недостъпен.</string>
+<string name="videophone_failcause_8">Повикването забранено.</string>
+<string name="videophone_failcause_17">Потребителят е зает.</string>
+<string name="videophone_failcause_19">Потребителят, който избрахте не отговаря.</string>
+<string name="videophone_failcause_27">Потребителят не може да бъде намерен.</string>
+<string name="videophone_failcause_34">Връзката е прекъсната.</string>
+<string name="videophone_failcause_63_modify">Не може да бъде установен видео разговор.</string>
+<string name="videophone_failcause_79">Другата страна не поддържа видео разговор.</string>
+<string name="videophone_failcause_47">Съжаляваме, видео разговор невъзможен.</string>
+<string name="videophone_failcause_50">Видео разговор не се поддържа.</string>
+<string name="videophone_failcause_57_remote">Другата страна не е приела видео разговора.</string>
+<string name="videophone_failcause_58">Другата страна не поддържа видео разговор.</string>
+<string name="videophone_failcause_157">Устройството не е активирало услуги за видео разговор.</string>
+<string name="videophone_failcause_88">Потребителят избра гласово повикване.</string>
+<string name="videophone_failcause_minus_1">Няма налична 3G мрежа</string>
+<string name="videophone_failcause_default">Потребителят е недостъпен.</string>
+<string name="net_connection_disconnect">Интернет връзката е прекъсната.</string>
+<string name="no_vt_service">Невъзможно провеждането на видео разговор.</string>
+<string name="remote_request_change">Дистанцонна заявка за промяна на медия</string>
+<string name="choose_accept_reject">Моля приемете или отхвърлете.</string>
+<string name="remote_request_change_accept">"Приеми"</string>
+<string name="remote_request_change_reject">"Отхвърли"</string>
+<string name="remote_reject_request">"Отхвърлена отдалечена заявка "</string>
+<string name="remote_accept_request">"Приета отдалечена заявка"</string>
+<string name="callFailed_fdn_only">"Изходящите повиквания са ограничени от FDN"</string>
+    <string name="camera_open_fail">"Неуспешно стартиране на камера"</string>
+     <string name="ims_switch_failed">"Грешка в мрежата, моля опитайте пак по-късно"</string>
+     <string name="videophone_fallback_menu_videocall">"Видеообаждане"</string>
+     <string name="videophone_fallback_menu_voicecall">Гласово обаждане</string>
+     <string name="videophone_fallback_menu_cancel">"Отказ"</string>
+     <string name="videophone_fallback_question">Какво желаете да направите?</string>
+     <string name="low_battery_warning_media_alert_message">"Нивото на батерията е под 15%.Моля изберете Приемам или Отказ."</string>
+     <string name="low_battery_warning_title">"Предупреждение за слаба батерия"</string>
+     <string name="low_battery_warning_message">"Нивото на батерията ви е под 15%. Желаете ли да продължите видео разговорър или да се конвертира в аудио повикване?"</string>
+     <string name="low_battery_continue_video_call">"Да"</string>
+     <string name="low_battery_convert_to_voice_call">"Конвертирай"</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"རེ་འདུན་གོང་སྤེལ་ཟློག"</string>
+    <string name="vowifi_request_update_success">"གོང་དུ་སྤེལ་ནས་བརྙན་ཟློས་ཁ་པར་སྒྱུར།"</string>
+    <string name="vowifi_remove_video_success">"མར་འབེབ་ནས་སྒྲ་ཟློས་ཁ་པར་སྒྱུར།"</string>
+
+    <string name="vowifi_hold_success">"ཁ་བརྡ་རྒྱུན་མཐུད་བྱེད།"</string>
+    <string name="vowifi_hold_fail">"རྒྱུན་མཐུད་བྱེད་མ་ཐུབ།"</string>
+    <string name="vowifi_resume_success">"ཁ་བརྡ་སོར་ཆུད་བྱས།"</string>
+    <string name="vowifi_resume_fail">"ཁ་བརྡ་སོར་ཆུད་བྱེད་མ་ཐུབ།"</string>
+
+    <string name="vowifi_call_retry">"ཅུང་ཙམ་གྱི་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད།"</string>
+    <string name="vowifi_call_is_focus">"གྲོས་ཚོགས་སུ་ཞུགས།"</string>
+    <string name="vowifi_conf_connect_timeout">"གྲོས་ཚོགས་ལྟེ་གནས་ལ་སྦྲེལ་བ་དུས་ལས་འདས།"</string>
+    <string name="vowifi_conf_disconnect">"གྲོས་ཚོགས་འཛུགས་མ་ཐུབ།"</string>
+    <string name="vowifi_conf_finished">"གྲོས་ཚོགས་ཁ་པར་གྱི་མཇུག་རྫོགས།"</string>
+    <string name="vowifi_conf_invite_request_failed">"ཞུགས་མཁན་གདན་ཞུ་བྱེད་མ་ཐུབ། གྲོས་ཚོགས་འཛུགས་མ་ཐུབ།"</string>
+    <string name="vowifi_conf_invite_failed">"ཞུགས་མཁན་གདན་ཞུ་བྱེད་མ་ཐུབ།"</string>
+    <string name="vowifi_conf_kick_failed">"ཞུགས་མཁན་སུབ་མ་ཐུབ།"</string>
+    <string name="vowifi_conf_none_participant">"ཞུགས་མཁན་སུ་ཡང་མི་འདུག ཁ་བརྡའི་མཇུག་རྫོགས།"</string>
+    <string name="vowifi_conf_do_not_support">"མཐེབ་གཅིག་གིས་ཁ་བརྡ་སློང་བར་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+</resources>

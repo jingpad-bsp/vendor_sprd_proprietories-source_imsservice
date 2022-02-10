@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"ਅਸਵੀਕਾਰ ਕਰਨ ਲਈ ਰਿਮੋਟ ਬੇਨਤੀ।"</string>
+    <string name="vowifi_request_update_success">"ਸਵੀਕਾਰ ਕਰਨ ਲਈ ਰਿਮੋਟ ਬੇਨਤੀ।"</string>
+    <string name="vowifi_remove_video_success">"ਵੀਡੀਓ ਕਾਲ ਬੰਦ ਹੋ ਗਈ ਹੈ।"</string>
+
+    <string name="vowifi_hold_success">"ਹੋਲਡ ਕਰਨ ਵਿੱਚ ਸਫਲ ਰਿਹਾ ਹੈ"</string>
+    <string name="vowifi_hold_fail">"ਹੋਲਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+    <string name="vowifi_resume_success">"ਮੁੜ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਸਫਲ ਰਿਹਾ ਹੈ"</string>
+    <string name="vowifi_resume_fail">"ਮੁੜ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+
+    <string name="vowifi_call_retry">"ਕਿਰਪਾ ਕਰਕੇ ਕੁੱਝ ਦੇਰ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"</string>
+    <string name="vowifi_call_is_focus">"ਕਾਨਫਰੰਸ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"</string>
+    <string name="vowifi_conf_disconnect">"ਕਨਫਰੰਸ ਸਥਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+    <string name="vowifi_conf_finished">"ਕਾਨਫਰੰਸ ਖ਼ਤਮ ਹੋ ਗਈ ਹੈ"</string>
+    <string name="vowifi_conf_invite_request_failed">"ਸੱਦਾ ਭੇਜਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ। ਕਾਨਫਰੰਸ ਸਥਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"</string>
+    <string name="vowifi_conf_invite_failed">"ਭਾਗੀਦਾਰ ਨੂੰ ਸੱਦਾ ਦੇਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ:"</string>
+    <string name="vowifi_conf_kick_failed">"ਭਾਗੀਦਾਰ ਨੂੰ ਹਟਾਉਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+    <string name="vowifi_conf_none_participant">"ਅਜੇ ਕੋਈ ਵੀ ਭਾਗੀਦਾਰ ਨਹੀਂ ਹੈ, ਕਾਲ ਨੂੰ ਬੰਦ ਕਰ ਦਿਓ।"</string>
+    <string name="vowifi_conf_do_not_support">"ਹੁਣੇ ਇਸ ਕਿਰਿਆ ਦਾ ਸਮਰਥਨ ਨਾ ਕਰੋ।"</string>
+</resources>

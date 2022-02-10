@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">Remote reject request</string>
+    <string name="vowifi_request_update_success">Remote accept request</string>
+    <string name="vowifi_remove_video_success">Video call fall-back</string>
+    <string name="vowifi_update_to_rx_success">Video reception only</string>
+    <string name="vowifi_update_to_tx_success">Video transmission only</string>
+
+    <string name="vowifi_hold_success">Hold success</string>
+    <string name="vowifi_hold_fail">Hold fail</string>
+    <string name="vowifi_resume_success">Call retrieved</string>
+    <string name="vowifi_resume_fail">Resume fail</string>
+    <string name="vowifi_hold_received">Call held</string>
+    <string name="vowifi_resume_received">Call retrieved</string>
+    <string name="vowifi_call_forwarded">Call forwarded</string>
+    <string name="vowifi_call_failure">Call failure</string>
+    <string name="vowifi_call_waiting">Call waiting</string>
+
+    <string name="vowifi_call_retry">Please retry after a moment</string>
+    <string name="vowifi_call_is_focus">Conference call</string>
+    <string name="vowifi_conf_connect_timeout">Connect to conference server timeout</string>
+    <string name="vowifi_conf_disconnect">Failed to setup conference</string>
+    <string name="vowifi_conf_finished">Conference finished</string>
+    <string name="vowifi_conf_invite_request_failed">Failed to send the invite request</string>
+    <string name="vowifi_conf_invite_failed">Failed to invite the participant: </string>
+    <string name="vowifi_conf_kick_failed">Failed to remove the participant</string>
+    <string name="vowifi_conf_none_participant">"There isn't any participant, end the call"</string>
+    <string name="vowifi_conf_do_not_support">Do not support this action now</string>
+    <string name="vowifi_conf_can_not_invite_more">Can not invite another participant to the conference as it already contains 6 participants</string>
+</resources>

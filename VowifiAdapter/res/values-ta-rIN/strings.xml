@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"தொலைதூர நிராகரிப்புக் கோரிக்கை."</string>
+    <string name="vowifi_request_update_success">"தொலைதூர ஏற்புக் கோரிக்கை."</string>
+    <string name="vowifi_remove_video_success">"வீடியோ அழைப்பு பின்னோக்கு."</string>
+
+    <string name="vowifi_hold_success">"தக்கவைப்பு வெற்றி"</string>
+    <string name="vowifi_hold_fail">"தக்கவைப்பு தோல்வி"</string>
+    <string name="vowifi_resume_success">"மீள்துவக்கல் வெற்றி"</string>
+    <string name="vowifi_resume_fail">"மீள்துவக்கல் தோல்வி"</string>
+
+    <string name="vowifi_call_retry">"சற்று நேரத்திற்குப் பின் மீண்டும் முயற்சியுங்கள்"</string>
+    <string name="vowifi_call_is_focus">"குழுவில் சேர்"</string>
+    <string name="vowifi_conf_disconnect">"குழுவை அமைப்பது தோல்வியுற்றது"</string>
+    <string name="vowifi_conf_finished">"குழு முடிவுற்றது"</string>
+    <string name="vowifi_conf_invite_request_failed">"அழைப்புக் கோரிக்கையை அனுப்புவது தோல்வியுற்றது. குழுவை அமைக்க முடியாது."</string>
+    <string name="vowifi_conf_invite_failed">"பங்கேற்பாளருக்கு அழைப்பு விடுப்பது தோல்வியுற்றது:"</string>
+    <string name="vowifi_conf_kick_failed">"பங்கேற்பாளரை அகற்றுவது தோல்வியுற்றது"</string>
+    <string name="vowifi_conf_none_participant">"பங்கேற்பாளர் எவருமில்லை, அழைப்பை முடி."</string>
+    <string name="vowifi_conf_do_not_support">"இப்போது இச்செயலை ஆதரிக்காதே."</string>
+    <string name="vowifi_conf_connect_timeout">"கான்பரன்ஸ் சர்வருடனான இணைப்பு நேரம் முடிந்து விட்டது"</string>
+    <string name="vowifi_conf_can_not_invite_more">"ஏற்கெனவே 6 பேர் இணைந்திருப்பதால், இந்த கான்பரன்ஸ் அழைப்பில் இன்னொருவரை வரவேற்க இயலாது"</string>
+</resources>

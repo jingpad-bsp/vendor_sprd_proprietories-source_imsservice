@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"साङ्गिञ नेहोर ओसिकार।"</string>
+    <string name="vowifi_request_update_success">"साङ्गिञ नेहोर सिकार।"</string>
+    <string name="vowifi_remove_video_success">"वीडियो कॉल ञुर रुवाड़ेना।"</string>
+
+    <string name="vowifi_hold_success">"नापाय ते साबमे"</string>
+    <string name="vowifi_hold_fail">"साप् बाङ गानलेना"</string>
+    <string name="vowifi_resume_success">"सोफोलोक् दोहड़ा ते एहोब मे"</string>
+    <string name="vowifi_resume_fail">"दोहड़ा एहोप् बाङगान"</string>
+
+    <string name="vowifi_call_retry">"दायाकादे तायोम ते लेगाय मे।"</string>
+    <string name="vowifi_call_is_focus">"सेमलेत् को जोड़ावमे"</string>
+    <string name="vowifi_conf_connect_timeout">"सेमलेत् स्रवर ओकते बारे ते जोगाजोगमे"</string>
+    <string name="vowifi_conf_disconnect">"सेमलेत् सेटअप रे बाङ गान"</string>
+    <string name="vowifi_conf_finished">"सेमलेत् पुरावेना"</string>
+    <string name="vowifi_conf_invite_request_failed">"नेवता नेहोर कोल रे बाङ गान। सेमलेत् सेटअप बाङ गान ओचो दाड़ेयाकआ।"</string>
+    <string name="vowifi_conf_invite_failed">"सेलेदोक् को नेवता लागित् ते ओसोफोल:"</string>
+    <string name="vowifi_conf_kick_failed">"ओकोय हे सेलेदोक् बानुक् कोवा, कॉल चाबायेना"</string>
+    <string name="vowifi_conf_none_participant">"ओकोय गे सेलेदोक् को बानुक् कोवा, कॉल मुचाद मे।"</string>
+    <string name="vowifi_conf_do_not_support">"नित् नोवा कामी रेयाक् बाय हेंसारीयाक् काना।"</string>
+</resources>

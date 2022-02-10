@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Returnare apel video"</string>
+<string name="videophone_failcause_1000">"Ultimul apel video nu s-a încheiat normal, vă rugăm să încercaţi din nou după un timp"</string>
+<string name="videophone_failcause_1">"Numărul apelat nu este în serviciu"</string>
+<string name="videophone_failcause_3">"Utilizatorul nu este disponibil"</string>
+<string name="videophone_failcause_8">"Apel restricţionat"</string>
+<string name="videophone_failcause_17">"Utilizator ocupat"</string>
+<string name="videophone_failcause_19">"Utilizatorul apelat nu răspunde"</string>
+<string name="videophone_failcause_27">"Utilizatorul nu poate fi contactat"</string>
+<string name="videophone_failcause_34">"Conexiune deconectată"</string>
+<string name="videophone_failcause_63_modify">"Apelul video nu a putut fi stabilit"</string>
+<string name="videophone_failcause_79">"VT nesuportat de către cealaltă parte"</string>
+<string name="videophone_failcause_47">"Ne pare rău, apelul video nu este disponibil"</string>
+<string name="videophone_failcause_50">"VT nu este suportat"</string>
+<string name="videophone_failcause_57_remote">"Numărul apelat nu suportă VT"</string>
+<string name="videophone_failcause_58">"VT nesuportat de către cealaltă parte"</string>
+<string name="videophone_failcause_157">telefonul mobil nu a pornit serviciul VT </string>
+<string name="videophone_failcause_88">"Utilizatorul alege apel vocal"</string>
+<string name="videophone_failcause_minus_1">"Serviciul 3G nu este disponibil"</string>
+<string name="videophone_failcause_default">"Utilizatorul nu este disponibil"</string>
+<string name="net_connection_disconnect">conectarea deconectarea net </string>
+<string name="no_vt_service">"Nu se pot efectua apeluri video"</string>
+<string name="remote_request_change">"Cerere de la distanță de modificare media"</string>
+<string name="choose_accept_reject">"Acceptați sau respingeți"</string>
+<string name="remote_request_change_accept">"Acceptă"</string>
+<string name="remote_request_change_reject">"Respins"</string>
+<string name="remote_reject_request">"Cererea de la distanță a fost respinsă"</string>
+<string name="remote_accept_request">"Cererea de la distanță a fost acceptată"</string>
+<string name="callFailed_fdn_only">"Apelurile formate sunt restricționate de către FDN"</string>
+    <string name="camera_open_fail">"Deschidere cameră eșuată"</string>
+     <string name="ims_switch_failed">"Eroare de rețea, reîncercați mai târziu"</string>
+     <string name="videophone_fallback_menu_videocall">Apel video</string>
+     <string name="videophone_fallback_menu_voicecall">Apel voce</string>
+     <string name="videophone_fallback_menu_cancel">Anulare</string>
+     <string name="videophone_fallback_question">"Ce doriţi să faceţi?"</string>
+     <string name="low_battery_warning_media_alert_message">"Nivelul bateriei este sub 15%. Acceptați sau respingeți."</string>
+     <string name="low_battery_warning_title">"Avertizare nivel redus baterie"</string>
+     <string name="low_battery_warning_message">"Nivelul bateriei este sub 15%. Continuați apelul video sau convertiți la apel vocal?"</string>
+     <string name="low_battery_continue_video_call">"Da"</string>
+     <string name="low_battery_convert_to_voice_call">"Convertire"</string>
+
+</resources>

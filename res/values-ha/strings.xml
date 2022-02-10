@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Kiran bidiyo ya ja baya"</string>
+<string name="videophone_failcause_1000">"Kiran bidiyo na karshe bai kare yadda aka saba ba, ka sake bayan dan lokaci"</string>
+<string name="videophone_failcause_1">"Lambar da ka kira ba ta cikin sabis"</string>
+<string name="videophone_failcause_3">"Mai amfani da ba shi nan"</string>
+<string name="videophone_failcause_8">"An kore kira"</string>
+<string name="videophone_failcause_17">"Mai amfani da yana cushe"</string>
+<string name="videophone_failcause_19">"Mai amfani da da ka kira bai martani"</string>
+<string name="videophone_failcause_27">"Ba za a riski mai amfani da ba"</string>
+<string name="videophone_failcause_34">"An cire mahadin"</string>
+<string name="videophone_failcause_63_modify">"Bidiyon wayar ba a iya tabbatarwa ba"</string>
+<string name="videophone_failcause_79">"Ba a goyon bayan VT"</string>
+<string name="videophone_failcause_47">"Kiran bidiyo babu shi"</string>
+<string name="videophone_failcause_50">"VT ba a aiki da shi"</string>
+<string name="videophone_failcause_57_remote">"Lambar da ka buga bai aiki da VT"</string>
+<string name="videophone_failcause_58">"Ba a goyon bayan VT"</string>
+<string name="videophone_failcause_157">Wayar salular ba ta kunna yanayin sadarwar VT ba</string>
+<string name="videophone_failcause_88">"Mai amfani da ya zabi kiran murya"</string>
+<string name="videophone_failcause_minus_1">"Sabis na 3G babu shi"</string>
+<string name="videophone_failcause_default">"Mai amfani da ba shi nan"</string>
+<string name="net_connection_disconnect">"Mahadin intanet an yanke"</string>
+<string name="no_vt_service">"Ba zai iya yin kiran bidiyo ba"</string>
+<string name="remote_request_change">"Bukatar canza matattarar sauti daga nesa"</string>
+<string name="choose_accept_reject">"Ka zabi karba ko watsi"</string>
+<string name="remote_request_change_accept">"Accept"</string>
+<string name="remote_request_change_reject">"Ki karba"</string>
+<string name="remote_reject_request">"An ki karbar bukatar nesa"</string>
+<string name="remote_accept_request">"An karbi bukatar nesa"</string>
+<string name="callFailed_fdn_only">"FDN yana takaice kira da suke fita"</string>
+    <string name="camera_open_fail">"kyamara ba ta budu ba"</string>
+     <string name="ims_switch_failed">"Matsalar netwok, a sake jarrabawa nan gaba"</string>
+     <string name="videophone_fallback_menu_videocall">"Kiran bidiyo"</string>
+     <string name="videophone_fallback_menu_voicecall">"Kiran murya"</string>
+     <string name="videophone_fallback_menu_cancel">"Soke"</string>
+     <string name="videophone_fallback_question">"Me kake so ka yi?"</string>
+     <string name="low_battery_warning_media_alert_message">"Batirinka ya yi kasa da  15%.Ka zabi yarda ko rashin yarda."</string>
+     <string name="low_battery_warning_title">"Gargadin karancin batiri"</string>
+     <string name="low_battery_warning_message">"Batirinka ya yi kasa da 15%.Kana son ka ci gaba da kiran bidiyon ko a sauya zuwa kiran murya?"</string>
+     <string name="low_battery_continue_video_call">"E"</string>
+     <string name="low_battery_convert_to_voice_call">"A sauya"</string>
+
+</resources>

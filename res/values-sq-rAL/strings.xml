@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">Telefonata video u rrëzua</string>
+<string name="videophone_failcause_1000">Telefonata e fundit video normalisht nuk ka mbaruar, ju lutem provoni përsëri më vonë</string>
+<string name="videophone_failcause_1">Numri që keni thirrur nuk është në shërbim</string>
+<string name="videophone_failcause_3">Përdoruesi është i padisponueshëm</string>
+<string name="videophone_failcause_8">Thirrja e mbrojtur</string>
+<string name="videophone_failcause_17">Përdoruesi i zënë</string>
+<string name="videophone_failcause_19">Përdoruesi që thirrët nuk përgjigjet</string>
+<string name="videophone_failcause_27">Përdoruesi nuk mund të kontaktohet</string>
+<string name="videophone_failcause_34">Lidhja u shkëput</string>
+<string name="videophone_failcause_63_modify">Telefonata video nuk mund të krijohet</string>
+<string name="videophone_failcause_79">VT i pasuportuar nga tjetri</string>
+<string name="videophone_failcause_47">Na vjen keq, telefonata video e padisponueshme</string>
+<string name="videophone_failcause_50">VT nuk suportohet</string>
+<string name="videophone_failcause_57_remote">Numri që thirrët nuk suporton VT</string>
+<string name="videophone_failcause_58">VT i pasuportuar nga tjetri</string>
+<string name="videophone_failcause_157">Telefoni celular nuk ka filluar shërbimin VT</string>
+<string name="videophone_failcause_88">Përdoruesi zgjedh telefonatë zanore</string>
+<string name="videophone_failcause_minus_1">Shërbimi 3G i padisponueshëm</string>
+<string name="videophone_failcause_default">Përdoruesi është i padisponueshëm</string>
+<string name="net_connection_disconnect">Shkëputje e lidhjes Net</string>
+<string name="no_vt_service">Nuk mund të bëjë telefonata video</string>
+<string name="remote_request_change">"Kërkesë në distancë për ndryshimin e medias"</string>
+<string name="choose_accept_reject">"Ju lutem zgjidhni prano ose refuzo"</string>
+<string name="remote_request_change_accept">Prano</string>
+<string name="remote_request_change_reject">Refuzo</string>
+<string name="remote_reject_request">"Kërkesa në distancë u refuzua"</string>
+<string name="remote_accept_request">"Kërkesa në distancë u pranua"</string>
+<string name="callFailed_fdn_only">"Telefonatat dalëse ndalohen nga FDN"</string>
+    <string name="camera_open_fail">"Hapja e kamerës dështoi"</string>
+     <string name="ims_switch_failed">"Gabim rrjeti, ju lutem provoni përsëri më vonë"</string>
+     <string name="videophone_fallback_menu_videocall">Telefonatë video</string>
+     <string name="videophone_fallback_menu_voicecall">Telefonatë me zë</string>
+     <string name="videophone_fallback_menu_cancel">Anulo</string>
+     <string name="videophone_fallback_question">Çfarë doni të bëni?</string>
+     <string name="low_battery_warning_media_alert_message">"Niveli i baterisë është nën 15%. Ju lutem zgjidhni nëse doni të pranoni ose refuzoni."</string>
+     <string name="low_battery_warning_title">"Paralajmërim i baterisë së ulët"</string>
+     <string name="low_battery_warning_message">"Niveli i baterisë është nën 15%. Doni që të vazhdoni me telefonatën video apo ta konvertoni në telefonatë me zë?"</string>
+     <string name="low_battery_continue_video_call">Po</string>
+     <string name="low_battery_convert_to_voice_call">"Konverto"</string>
+
+</resources>

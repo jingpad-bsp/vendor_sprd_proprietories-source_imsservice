@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_upgrade_title">Solicitud remota para actualizar</string>
+    <string name="vowifi_request_upgrade_text">Solicitud para actualizar la llamada actual a vídeollamada, por favor elija aceptar o rechazar.</string>
+    <string name="vowifi_request_downgrade_title">Solicitud remota de degradación</string>
+    <string name="vowifi_request_downgrade_text">Solicitud de degradación de la llamada actual a llamada de voz, elija aceptar o rechazar.</string>
+    <string name="vowifi_add_video_failed">"Solicitud de petición remota"</string>
+    <string name="vowifi_add_video_success">"Solicitud de aceptación remota"</string>
+    <string name="vowifi_remove_video_failed">"Error al eliminar el vídeo"</string>
+    <string name="vowifi_remove_video_success">"Reversión de videollamada"</string>
+
+    <string name="vowifi_hold_success">Retención exitosa</string>
+    <string name="vowifi_hold_fail">Retención fallida</string>
+    <string name="vowifi_resume_success">"Llamada recuperada"</string>
+    <string name="vowifi_resume_fail">No se pudo reanudar</string>
+    <string name="vowifi_hold_received">"Llamada en espera"</string>
+    <string name="vowifi_resume_received">"Llamada recuperada"</string>
+    <string name="vowifi_call_forwarded">"Llamada desviada"</string>
+
+    <string name="vowifi_call_retry">Por favor, vuelva a intentarlo después de un momento</string>
+    <string name="vowifi_call_is_focus">"Conferencia"</string>
+    <string name="vowifi_conf_connect_timeout">"Se ha superado el tiempo de espera de la conexión al servidor de la conferencia"</string>
+    <string name="vowifi_conf_disconnect">Error al configurar la conferencia</string>
+    <string name="vowifi_conf_finished">Conferencia terminada</string>
+    <string name="vowifi_conf_invite_request_failed">"Error al enviar la solicitud de invitación"</string>
+    <string name="vowifi_conf_invite_failed">No se pudo invitar al participante:</string>
+    <string name="vowifi_conf_kick_failed">No se pudo eliminar el participante</string>
+    <string name="vowifi_conf_none_participant">"No hay ningún participante, llamada finalizada."</string>
+    <string name="vowifi_conf_do_not_support">"Esta acción no se admite ahora"</string>
+    <string name="vowifi_conf_can_not_invite_more">"No se puede invitar a más participantes a la conferencia, porque ya contiene seis"</string>
+</resources>

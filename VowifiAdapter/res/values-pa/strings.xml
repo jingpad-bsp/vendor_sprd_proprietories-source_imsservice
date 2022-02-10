@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"ਰਿਮੋਟ ਰੱਦ ਬੇਨਤੀ"</string>
+<string name="vowifi_request_update_success">"ਰਿਮੋਟ ਮਨਜ਼ੂਰ ਬੇਨਤੀ"</string>
+<string name="vowifi_remove_video_success">"ਵੀਡੀਓ ਕਾਲ ਫਾਲ-ਬੈਕ"</string>
+<string name="vowifi_update_to_rx_success">"ਕੇਵਲ ਵੀਡੀਓ ਪ੍ਰਾਪਤ ਕਰੋ"</string>
+<string name="vowifi_update_to_tx_success">"ਕੇਵਲ ਵੀਡੀਓ ਭੇਜੋ"</string>
+<string name="vowifi_hold_success">"ਹੋਲਡ ਕਰਨ ਵਿੱਚ ਸਫਲ ਰਿਹਾ ਹੈ"</string>
+<string name="vowifi_hold_fail">"ਹੋਲਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+<string name="vowifi_resume_success">ਕਾੱਲ ਪੁਨਰ ਪ੍ਰਾਪਤ ਕੀਤੀ ਗਈ</string>
+<string name="vowifi_resume_fail">"ਮੁੜ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+<string name="vowifi_hold_received">"ਕਾਲ ਹੋਲਡ ਕੀਤੀ"</string>
+<string name="vowifi_resume_received">ਕਾੱਲ ਪੁਨਰ ਪ੍ਰਾਪਤ ਕੀਤੀ ਗਈ</string>
+<string name="vowifi_call_retry">"ਕਿਰਪਾ ਕਰਕੇ ਕੁੱਝ ਦੇਰ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"</string>
+<string name="vowifi_call_is_focus">"ਕਾਨਫਰੰਸ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"</string>
+<string name="vowifi_conf_connect_timeout">"ਕਾਨਫਰੰਸ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੀ ਸਮਾਂ ਸੀਮਾ ਲੰਘ ਗਈ ਹੈ"</string>
+<string name="vowifi_conf_disconnect">"ਕਨਫਰੰਸ ਸਥਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+<string name="vowifi_conf_finished">"ਕਾਨਫਰੰਸ ਖ਼ਤਮ ਹੋ ਗਈ ਹੈ"</string>
+<string name="vowifi_conf_invite_request_failed">"ਇਨਵਾਈਟ ਰਿਕੁਐਸਟ ਭੇਜਣ ਵਿੱਚ ਅਸਫ਼ਲ"</string>
+<string name="vowifi_conf_invite_failed">"ਭਾਗੀਦਾਰ ਨੂੰ ਸੱਦਾ ਦੇਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ:"</string>
+<string name="vowifi_conf_kick_failed">"ਭਾਗੀਦਾਰ ਨੂੰ ਹਟਾਉਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ"</string>
+<string name="vowifi_conf_none_participant">"ਕੋਈ ਵੀ ਭਾਗੀਦਾਰ ਨਹੀਂ ਹੈ, ਕਾਲ ਬੰਦ ਕਰੋ"</string>
+<string name="vowifi_conf_do_not_support">"ਹੁਣ ਇਸ ਕਾਰਵਾਈ ਦਾ ਸਮਰਥਨ ਨਾ ਕਰੋ"</string>
+<string name="vowifi_conf_can_not_invite_more">"ਕਿਸੇ ਹੋਰ ਭਾਗੀਦਾਰ ਨੂੰ ਕਾਨਫਰੰਸ ਵਿੱਚ ਸ਼ਾਮਿਲ ਨਹੀਂ ਕਰ ਸਕਦਾ ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਪਹਿਲਾਂ ਹੀ 6 ਭਾਗੀਦਾਰ ਹਨ"</string>
+</resources>

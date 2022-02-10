@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"對端拒絕請求"</string>
+<string name="vowifi_request_update_success">"對端接受請求"</string>
+<string name="vowifi_remove_video_success">"視像通話中斷"</string>
+<string name="vowifi_update_to_rx_success">"僅接收影片"</string>
+<string name="vowifi_update_to_tx_success">"僅發送影片"</string>
+<string name="vowifi_hold_success">"保持通話成功"</string>
+<string name="vowifi_hold_fail">"保持通話失敗"</string>
+<string name="vowifi_resume_success">"撥打被啟動"</string>
+<string name="vowifi_resume_fail">"恢復通話失敗"</string>
+<string name="vowifi_hold_received">"撥打被阻塞"</string>
+<string name="vowifi_resume_received">"撥打被啟動"</string>
+<string name="vowifi_call_retry">"請稍後再試"</string>
+<string name="vowifi_call_is_focus">"加入會議"</string>
+<string name="vowifi_conf_connect_timeout">"連接會議伺服器逾時"</string>
+<string name="vowifi_conf_disconnect">"建立會議失敗"</string>
+<string name="vowifi_conf_finished">"會議結束"</string>
+<string name="vowifi_conf_invite_request_failed">"發送參加者邀請要求失敗"</string>
+<string name="vowifi_conf_invite_failed">"無法邀請參加者："</string>
+<string name="vowifi_conf_kick_failed">"移除參加者失敗"</string>
+<string name="vowifi_conf_none_participant">"無任何參與者，結束通話"</string>
+<string name="vowifi_conf_do_not_support">"目前不支援此功能"</string>
+<string name="vowifi_conf_can_not_invite_more">"由於已有6名參加者，不能邀請其他參加者參與會議"</string>
+</resources>

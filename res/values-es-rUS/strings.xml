@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Repliegue de videollamada"</string>
+<string name="videophone_failcause_1000">"La última llamada de video no termino con normalidad, por favor reeintente en un momento"</string>
+<string name="videophone_failcause_1">"El número al que está llamado no está en servicio"</string>
+<string name="videophone_failcause_3">"El usuario no está disponible"</string>
+<string name="videophone_failcause_8">"Llamada restringida"</string>
+<string name="videophone_failcause_17">"Usuario ocupado"</string>
+<string name="videophone_failcause_19">"El usuario a quien llamó no está respondiendo"</string>
+<string name="videophone_failcause_27">"El usuario no puede ser localizado"</string>
+<string name="videophone_failcause_34">"La conexión se ha interrumpido"</string>
+<string name="videophone_failcause_63_modify">"La videollamada no pudo ser establecida"</string>
+<string name="videophone_failcause_79">"VT no soportado por el otro usuario"</string>
+<string name="videophone_failcause_47">"Lo lamentamos, videollamada no disponible"</string>
+<string name="videophone_failcause_50">"VT no está soportado"</string>
+<string name="videophone_failcause_57_remote">"El número al cual llamó no soporta VT"</string>
+<string name="videophone_failcause_58">"VT no soportado por el otro usuario"</string>
+<string name="videophone_failcause_157">"El teléfono no ha iniciado el servicio VT"</string>
+<string name="videophone_failcause_88">"El usuario ha preferido usar llamada de voz"</string>
+<string name="videophone_failcause_minus_1">"El servicio 3G no está disponible"</string>
+<string name="videophone_failcause_default">"El usuario no está disponible"</string>
+<string name="net_connection_disconnect">"La conexión de red se ha interrumpido"</string>
+<string name="no_vt_service">"No se pueden realizar llamadas de video"</string>
+<string name="remote_request_change">"Solicitud remota de cambio de multimedia"</string>
+<string name="choose_accept_reject">"Por favor seleccione aceptar o cancelar"</string>
+<string name="remote_request_change_accept">"Aceptar"</string>
+<string name="remote_request_change_reject">"Rechazo"</string>
+<string name="remote_reject_request">"Solicitud remota rechazada"</string>
+<string name="remote_accept_request">"Solicitud remota aceptada"</string>
+<string name="callFailed_fdn_only">"Las llamadas salientes están restringidas por los NMF"</string>
+    <string name="camera_open_fail">"Falla en abrir la cámara"</string>
+     <string name="ims_switch_failed">"Error de la red, por favor trate nuevamente más tarde"</string>
+     <string name="videophone_fallback_menu_videocall">"Videollamada"</string>
+     <string name="videophone_fallback_menu_voicecall">"Llamada de voz"</string>
+     <string name="videophone_fallback_menu_cancel">"Cancelar"</string>
+     <string name="videophone_fallback_question">"¿Qué desea hacer?"</string>
+     <string name="low_battery_warning_media_alert_message">"El nivel de la batería está por debajo del 15%. Por favor, elija aceptar o rechazar."</string>
+     <string name="low_battery_warning_title">"Advertencia de Batería Baja"</string>
+     <string name="low_battery_warning_message">"El nivel de su batería está por debajo del 15%. ¿Desea continuar con la videollamada o convertirla en llamada de voz?"</string>
+     <string name="low_battery_continue_video_call">"Sí"</string>
+     <string name="low_battery_convert_to_voice_call">"Convertir"</string>
+
+    <string name="handover_to_volte_success">"Cambiar a VoLTE para obtener una mejor calidad de voz"</string>
+     <string name="vowifi_attation">"Atención Vowifi"</string>
+     <string name="vowifi_regist_fail_content">"La red no admite vowifi"</string>
+     <string name="vowifi_connected_title">"Llamadas de emergencia a través de llamadas vía wifi"</string>
+     <string name="vowifi_connected_continue">"Continuar"</string>
+     <string name="vowifi_connected_disable">"Inhabilitar"</string>
+     <string name="vowifi_connected_checkbox_text">"No volver a mostrar"</string>
+     <string name="vowifi_connected_message">"Las llamadas de emergencia no se pueden realizar a través de llamadas vía wifi. El dispositivo cambia automáticamente a una red celular (2G/3G) para realizar una llamada de ese tipo. ¿Desea continuar con el servicio de llamada vía wifi o desea desactivarlo?"</string>
+    <string name="request_of_upgrade_vt_call_timeout">"Se agotó el tiempo para la solicitud de actualización de llamada de video"</string>
+
+</resources>

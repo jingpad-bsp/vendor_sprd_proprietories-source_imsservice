@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"রিমোট লৌদনবা হায়জবা."</string>
+    <string name="vowifi_request_update_success">"রিমোট লৌশিন্নবা হায়জবা."</string>
+    <string name="vowifi_remove_video_success">"ভিদিও কোল ফোল-বেক."</string>
+
+    <string name="vowifi_hold_success">"পায়বা মায় পাক্লে"</string>
+    <string name="vowifi_hold_fail">"পায়বা ঙমদ্রে"</string>
+    <string name="vowifi_resume_success">"হন্না হৌবা মায় পাক্লে"</string>
+    <string name="vowifi_resume_fail">"হন্না হৌবা ঙমদ্রে"</string>
+
+    <string name="vowifi_call_retry">"কোন্না হন্না হোৎনরিব্রা."</string>
+    <string name="vowifi_call_is_focus">"কনফরেন্স তা হাপচিল্লু"</string>
+    <string name="vowifi_conf_connect_timeout">"কনফরেন্স সার্ভর টাইমআওট তা শম্নৌ."</string>
+    <string name="vowifi_conf_disconnect">"কনফরেন্স সেট অপ তৌবা ঙমদে"</string>
+    <string name="vowifi_conf_finished">"কনফরেন্স লোইরে"</string>
+    <string name="vowifi_conf_invite_request_failed">"বার্তন তৌনবগী হায়জবা থাবা ঙমদে. কনফরেন্স সেট অপ তৌবা য়াদে."</string>
+    <string name="vowifi_conf_invite_failed">"শরুক য়াবা মী অদু বার্তন তৌবা ঙমদে:"</string>
+    <string name="vowifi_conf_kick_failed">"শরুক য়াবা মী অদু লৌথোকপা ঙমদে"</string>
+    <string name="vowifi_conf_none_participant">"শরুক য়াবা মী অমত্তা লৈতে, কোল অদু লোইশিল্লু."</string>
+    <string name="vowifi_conf_do_not_support">"এক্সন অসি হৌজিক সপোর্ট তৌগনু."</string>
+</resources>

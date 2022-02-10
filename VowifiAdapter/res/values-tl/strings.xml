@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Remote naghiling na baguhin"</string>
+<string name="vowifi_request_upgrade_text">"Humiling na baguhin ang kasalukuyang tawag sa tawag na bidyo, mangyari piliin ang tanggapin o tanggihan."</string>
+<string name="vowifi_request_downgrade_title">"Remote naghiling na ipababa"</string>
+<string name="vowifi_request_downgrade_text">"Humiling na ipababa ang kasalukuyang tawag sa tawag na boses, mangyari piliin ang tanggapin o tanggihan."</string>
+<string name="vowifi_add_video_failed">"Malayuang tanggihan ang kahilingan"</string>
+<string name="vowifi_add_video_success">"Malayuang tanggapin ang kahilingan"</string>
+<string name="vowifi_remove_video_failed">"Hindi naalis ang video"</string>
+<string name="vowifi_remove_video_success">"Fall-back ng video call"</string>
+<string name="vowifi_hold_success">"Pagpigil tagumpay"</string>
+<string name="vowifi_hold_fail">"Pagpigil bigo"</string>
+<string name="vowifi_resume_success">"Pagbabalik tagumpay"</string>
+<string name="vowifi_resume_fail">"Pagbabalik bigo"</string>
+<string name="vowifi_call_retry">"Mangyari subukan-muli matapos ang ilang sandali"</string>
+<string name="vowifi_call_is_focus">"Idagdag sa kumperensya"</string>
+<string name="vowifi_conf_connect_timeout">"Kumonekta sa conference nag-timeout ang server"</string>
+<string name="vowifi_conf_disconnect">"Bigo ang pagtakda ng kumperensya"</string>
+<string name="vowifi_conf_finished">"Kumperensya tapos na"</string>
+<string name="vowifi_conf_invite_request_failed">"Hindi naipadala ang kahilingang mag-imbita"</string>
+<string name="vowifi_conf_invite_failed">"Bigo na anyayahan ang kalahok"</string>
+<string name="vowifi_conf_kick_failed">"Bigo na alisin ang kalahok"</string>
+<string name="vowifi_conf_none_participant">"Walang sinumang kalahok, tapusin ang tawag"</string>
+<string name="vowifi_conf_do_not_support">"Hindi sinusuportahan ang pagkilos na ito ngayon"</string>
+<string name="vowifi_conf_can_not_invite_more">"Hindi maaaring mag-imbita ng isa pang kalahok sa conference dahil may 6 na kalahok na ito"</string>
+    <string name="vowifi_request_update_failed">"Malayuang tanggihan ang kahilingan"</string>
+     <string name="vowifi_request_update_success">"Malayuang tanggapin ang kahilingan"</string>
+     <string name="vowifi_update_to_rx_success">"Reception ng video lang"</string>
+     <string name="vowifi_update_to_tx_success">"Transmission ng video lang"</string>
+     <string name="vowifi_hold_received">"Tawag ay pinigilan"</string>
+     <string name="vowifi_resume_received">"Tawag na nabawi"</string>
+
+</resources>

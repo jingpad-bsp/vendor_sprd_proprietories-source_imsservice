@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"Extern verzoek weigeren"</string>
+    <string name="vowifi_request_update_success">"Extern verzoek accepteren"</string>
+    <string name="vowifi_remove_video_success">"Terugval videogesprek"</string>
+    <string name="vowifi_update_to_rx_success">"Alleen video-ontvangst"</string>
+    <string name="vowifi_update_to_tx_success">"Alleen video-transmissie"</string>
+    <string name="vowifi_hold_success">"In wacht plaatsen geslaagd"</string>
+    <string name="vowifi_hold_fail">"In wacht plaatsen mislukt"</string>
+    <string name="vowifi_resume_success">"Oproep opgehaald"</string>
+    <string name="vowifi_resume_fail">"Hervatten mislukt"</string>
+    <string name="vowifi_hold_received">"Oproep vastgezet"</string>
+    <string name="vowifi_resume_received">"Oproep opgehaald"</string>
+    <string name="vowifi_call_retry">"Wacht even en probeer het opnieuw"</string>
+    <string name="vowifi_call_is_focus">"Toevoegen aan vergadergesprek"</string>
+    <string name="vowifi_conf_connect_timeout">"Time-out tijdens verbinding met vergadergesprekserver"</string>
+    <string name="vowifi_conf_disconnect">"Kan vergadergesprek niet instellen"</string>
+    <string name="vowifi_conf_finished">"Vergadergesprek voltooid"</string>
+    <string name="vowifi_conf_invite_request_failed">"Kan het uitnodigingsverzoek niet verzenden"</string>
+    <string name="vowifi_conf_invite_failed">"Kan de deelnemer niet uitnodigen:"</string>
+    <string name="vowifi_conf_kick_failed">"Kan de deelnemer niet verwijderen"</string>
+    <string name="vowifi_conf_none_participant">"Er zijn geen deelnemers. Beëindig het gesprek."</string>
+    <string name="vowifi_conf_do_not_support">"Deze actie wordt nu niet ondersteund"</string>
+    <string name="vowifi_conf_can_not_invite_more">"Een andere deelnemer uitnodigen voor het vergadergesprek is niet mogelijk omdat er al 6 deelnemers zijn"</string>
+</resources>

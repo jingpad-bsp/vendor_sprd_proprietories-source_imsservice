@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"ৰিম’ট বাতিলৰ অনুৰোধ৷"</string>
+    <string name="vowifi_request_update_success">"ৰিম’ট গ্ৰহণৰ অনুৰোধ৷"</string>
+    <string name="vowifi_remove_video_success">"ভিডিঅ’ কল ফল-বেক হৈছে৷"</string>
+
+    <string name="vowifi_hold_success">"হোল্ড সফল হৈছে৷"</string>
+    <string name="vowifi_hold_fail">"হোল্ড ব্যৰ্থ হৈছে৷"</string>
+    <string name="vowifi_resume_success">"ৰিজিউম সফল হৈছে৷"</string>
+    <string name="vowifi_resume_fail">"ৰিজিউম ব্যৰ্থ হৈছে৷"</string>
+
+    <string name="vowifi_call_retry">"অনুগ্ৰহ কৰি কিছুসময় পিছত চেষ্টা কৰক৷"</string>
+    <string name="vowifi_call_is_focus">"কনফাৰেন্সত যোগ কৰক৷"</string>
+    <string name="vowifi_conf_disconnect">"কনফাৰেন্স ছেট-আপ কৰাত ব্যৰ্থ হৈছে৷"</string>
+    <string name="vowifi_conf_finished">"কনফাৰেন্স সম্পন্ন হৈছে৷"</string>
+    <string name="vowifi_conf_invite_request_failed">"আমন্ত্ৰণ অনুৰোধ প্ৰেৰণ ব্যৰ্থ হৈছে৷ কনফাৰেন্স ছেট-আপ কৰিব পৰা নাযায়৷"</string>
+    <string name="vowifi_conf_invite_failed">"অংশগ্ৰহণকাৰীক আমন্ত্ৰণ কৰাত ব্যৰ্থ হৈছে:"</string>
+    <string name="vowifi_conf_kick_failed">"অংশগ্ৰহণকাৰী আঁতৰোৱাত ব্যৰ্থ হৈছে৷"</string>
+    <string name="vowifi_conf_none_participant">"কোনো অংশগ্ৰহণকাৰী নাই, কলটো শেষ কৰক৷"</string>
+    <string name="vowifi_conf_do_not_support">"এই কাৰ্য এতিয়া সমৰ্থন নকৰিব৷"</string>
+    <string name="vowifi_update_to_rx_success">"কেৱল ভিডিঅ’ পৰিবহন" </string>
+     <string name="vowifi_update_to_tx_success">"কেৱল ভিডিঅ’ ট্ৰান্সমিছন"</string>
+     <string name="vowifi_hold_received">"কল ধৰা হৈছে"</string>
+     <string name="vowifi_resume_received">"কল পুনৰুদ্ধাৰ কৰা হৈছে"</string>
+     <string name="vowifi_conf_connect_timeout">"কনফাৰেন্স চাৰ্ভাৰ টাইমআউটলৈ সংযোগ কৰক"</string>
+     <string name="vowifi_conf_can_not_invite_more">"অন্য এজন অংশগ্ৰহনকাৰীক নিমন্ত্ৰণ দিব নোৱাৰি, যিহেতুকে ইতিমধ্যে 6 জন অংশগ্ৰহণকাৰীসকল আছে"</string>
+
+</resources>

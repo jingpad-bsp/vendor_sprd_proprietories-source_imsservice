@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">" ریموٹ رد عاجزی۔"</string>
+    <string name="vowifi_request_update_success">" ریموٹ راضی عاجزی۔"</string>
+    <string name="vowifi_remove_video_success">" ویڈیو کال آۓ واپس۔"</string>
+
+    <string name="vowifi_hold_success">" تھاف تھاون گۓ کامیاب"</string>
+    <string name="vowifi_hold_fail">" تھاف تھاون گۓ ناکام"</string>
+    <string name="vowifi_resume_success">" بۓ شروع کرن گو کامیاب"</string>
+    <string name="vowifi_resume_fail">" بۓ شروع کرن گو ناکام"</string>
+
+    <string name="vowifi_call_retry">مهرباني كریتھ کرییو پت پہن کوشش کریو.</string>
+    <string name="vowifi_call_is_focus">" ہرایو کانفرنسء سیتھ"</string>
+    <string name="vowifi_conf_connect_timeout">" کانفرنس سرورس سیتھ رلنک وقت مکلیاو۔"</string>
+    <string name="vowifi_conf_disconnect">" کانفرنس سیٹ اپ تھاون گو ناکام"</string>
+    <string name="vowifi_conf_finished">" کانفرنس مکلیاو"</string>
+    <string name="vowifi_conf_invite_request_failed">"  دعوت ہنز عاجزی سوزین گے ناکام۔ کانفرنس ہیکو نء سیٹ اپ کریتھ۔."</string>
+    <string name="vowifi_conf_invite_failed">" شرکت کرن والس وعوت سوزن گۓ ناکام:"</string>
+    <string name="vowifi_conf_kick_failed">" شرکت کرن وال ہٹاون گۓ ناکام"</string>
+    <string name="vowifi_conf_none_participant">" اتء چھنء کہان تء شرکت کرن وول، ژٹیو کال۔"</string>
+    <string name="vowifi_conf_do_not_support">" یتھ کامء مء دییو ساتھ ونی۔"</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"ریموٹ ردّ درخواست"</string>
+<string name="vowifi_request_update_success">"ریموٹ قبول درخواست"</string>
+<string name="vowifi_remove_video_success">" ویڈیو کال پیچھے چلا گیا ہے"</string>
+<string name="vowifi_update_to_rx_success">"صرف ویڈیو استقبال کے لئے"</string>
+<string name="vowifi_update_to_tx_success">"صرف ویڈیو ٹرانسمیشن کے لئے"</string>
+<string name="vowifi_hold_success">"سکسیس دبائيں"</string>
+<string name="vowifi_hold_fail">"فیل دبائيں"</string>
+<string name="vowifi_resume_success">دوبارہ ملائی گیٔ کال</string>
+<string name="vowifi_resume_fail">"فیل دوبارہ شروع کریں"</string>
+<string name="vowifi_hold_received">کال ہیلڈ</string>
+<string name="vowifi_resume_received">دوبارہ ملائی گیٔ کال</string>
+<string name="vowifi_call_retry">" براہ مہربانی ایک لمحے کے بعد دوبارہ کوشش کریں "</string>
+<string name="vowifi_call_is_focus">"کانفرنس میں شامل کریں "</string>
+<string name="vowifi_conf_connect_timeout">"کانفرنس خدمت ٹائم آؤٹ سے رابطہ کریں"</string>
+<string name="vowifi_conf_disconnect">"کانفرنس قائم کرنے میں ناکام"</string>
+<string name="vowifi_conf_finished">"کانفرنس ختم"</string>
+<string name="vowifi_conf_invite_request_failed">" انوائٹ کرنے کی درخواست بھیجنے میں ناکام"</string>
+<string name="vowifi_conf_invite_failed">"مندوبین کو دعوت دینے میں ناکام"</string>
+<string name="vowifi_conf_kick_failed">"مندوبین کو ہٹانے مین ناکام "</string>
+<string name="vowifi_conf_none_participant">" یہاں کوئی شرکاء موجود نہیں ہے، کال ختم کریں"</string>
+<string name="vowifi_conf_do_not_support">" ابھی اس ایکشن سپورٹ نہیں کرتا"</string>
+<string name="vowifi_conf_can_not_invite_more">"کانفرنس میں دوسرے لوگوں کو نہیں بلایا جا سکتا کیونکہ اس میں پہلے سے ہی 6 شرکاء موجود ہیں"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"गोथौ जायगानि नेवसिनाय खावलायनाय।"</string>
+    <string name="vowifi_request_update_success">"गोथौ जायगानि गनायथिनाय खावलायनाय।"</string>
+    <string name="vowifi_remove_video_success">"भिडिअ\' कला गोग्लैफिनबाय।"</string>
+
+    <string name="vowifi_hold_success">"दोनथनाया जाफुंबाय"</string>
+    <string name="vowifi_hold_fail">"दोनथनाया जायासै"</string>
+    <string name="vowifi_resume_success">"रिजुमा जाफुंबाय"</string>
+    <string name="vowifi_resume_fail">"रिजुमा जायासै"</string>
+
+    <string name="vowifi_call_retry">"अननानै उनाव नाजाफिन।"</string>
+    <string name="vowifi_call_is_focus">"कनफारेन्साव दाजाब"</string>
+    <string name="vowifi_conf_connect_timeout">"कनफारेन्स सार्भार टाइमआउटआव फोनांजाब।"</string>
+    <string name="vowifi_conf_disconnect">"कनफारेन्सखौ दानाया फेलें जाबाय"</string>
+    <string name="vowifi_conf_finished">"कनफारेन्सआ जोबबाय"</string>
+    <string name="vowifi_conf_invite_request_failed">"हांख्रायनाय खावलायनायखौ दैथायहरनाया फेलें जाबाय। कनफारेन्सा दानो हाया।"</string>
+    <string name="vowifi_conf_invite_failed">"बाहागो लाग्राखौ हांख्रायनाया फेलें जाबाय:"</string>
+    <string name="vowifi_conf_kick_failed">"बाहागो लाग्राखौ बोखारनो नागिरनाया फेलें जाबाय"</string>
+    <string name="vowifi_conf_none_participant">"रावबो बाहागो लाग्रा गैया, कलखौ फोजोबदो।"</string>
+    <string name="vowifi_conf_do_not_support">"बे खामानिखौ दायो मददथि दाहो"</string>
+</resources>

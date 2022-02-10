@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"အပ္ဂရိတ္လုပ္ရန္ ေတာင္းဆို"</string>
+<string name="vowifi_request_upgrade_text">"ဗြီဒီယိုဖုန္းသို ့ အပ္ဂရိတ္လုပ္ရန္ ေတာင္းဆို, ေက်းဇူးျပဳ၍ လက္ခံ သို ့မဟုတ္ ျငင္းပယ္ ေရြးခ်ယ္ပါ."</string>
+<string name="vowifi_request_downgrade_title">"ေဒါင္းဂရိတ္ရန္ ေတာင္းဆို"</string>
+<string name="vowifi_request_downgrade_text">"ဗြီဒီယိုဖုန္းသို ့ ေဒါင္းဂရိတ္လုပ္ရန္ ေတာင္းဆို, ေက်းဇူးျပဳ၍ လက္ခံ သို ့မဟုတ္ ျငင္းပယ္ ေရြးခ်ယ္ပါ."</string>
+<string name="vowifi_add_video_failed">"အေဝးမွ ျငင္းပယ္ရန္ ေတာင္းဆိုမႈ"</string>
+<string name="vowifi_add_video_success">"အေဝးမွ လက္ခံရန္ ေတာင္းဆိုမႈ"</string>
+<string name="vowifi_remove_video_failed">"ဗီဒီယိုကို ဖယ္ရွားရန္ မေအာင္ျမင္ခဲ့ပါ"</string>
+<string name="vowifi_remove_video_success">"ဗီဒီယိုဖုန္းေခၚျခင္း ျပန္က်သြားသည္"</string>
+<string name="vowifi_hold_success">"ဖုန္းကိုင္ျပီး"</string>
+<string name="vowifi_hold_fail">"ဖုန္းမရ"</string>
+<string name="vowifi_resume_success">"ျပန္လုပ္ ေအာင္ျမင္"</string>
+<string name="vowifi_resume_fail">"ျပန္လုပ္ မေအာင္ျမင္"</string>
+<string name="vowifi_call_retry">"ေက်းဇူးျပဳ၍ ခဏေနမွ ျပန္ျကိုးစားပါ"</string>
+<string name="vowifi_call_is_focus">"ကြန္ဖရင့္သို ့ထည့္ပါ"</string>
+<string name="vowifi_conf_connect_timeout">"အစည္းအေဝးဖုန္းေခၚသည့္ ဆာဗာသို႔ ခ်ိတ္ဆက္ခ်ိန္ ကုန္သြားပါၿပီ"</string>
+<string name="vowifi_conf_disconnect">"ကြန္ဖရင့္ ဆက္တင္မရ"</string>
+<string name="vowifi_conf_finished">"ကြန္ဖရင့္ ျပီးျပီ"</string>
+<string name="vowifi_conf_invite_request_failed">"ဖိတ္ေခၚရန္ ေတာင္းဆိုမႈကို ပို႔ရန္ မေအာင္ျမင္ခဲ့ပါ"</string>
+<string name="vowifi_conf_invite_failed">"ပါ၀င္သူ ဖိတ္မရ:"</string>
+<string name="vowifi_conf_kick_failed">"ပါ၀င္သူ ဖယ္မရ"</string>
+<string name="vowifi_conf_none_participant">"ပါဝင္တက္ေရာက္သူ မရွိပါ၊ ဖုန္းခ်ပါ"</string>
+<string name="vowifi_conf_do_not_support">"ဤလုပ္ေဆာင္ခ်က္ကို ယခု ပံ့ပိုးမေပးပါ"</string>
+<string name="vowifi_conf_can_not_invite_more">"ပါဝင္တက္ေရာက္သူ 6 ဦး ျပည့္ၿပီးျဖစ္၍ အစည္းအေဝးသို႔ အျခားတက္ေရာက္သူ ဖိတ္ေခၚ၍ မရပါ။"</string>
+    <string name="vowifi_request_update_failed">"အေဝးမွ ျငင္းပယ္ရန္ ေတာင္းဆိုမႈ"</string>
+     <string name="vowifi_request_update_success">"အေဝးမွ လက္ခံရန္ ေတာင္းဆိုမႈ"</string>
+     <string name="vowifi_update_to_rx_success">"ဗီဒီယို လက္ခံျခင္းအတြက္သာ"</string>
+     <string name="vowifi_update_to_tx_success">"ဗီဒီယို လႊင့္ထုတ္ျခင္းအတြက္သာ"</string>
+     <string name="vowifi_hold_received">"ဖုန္းကိုင္ပါ"</string>
+     <string name="vowifi_resume_received">"ဖုန္းေခၚဆိုမႈျပန္လည္ရယူျပီး"</string>
+
+</resources>

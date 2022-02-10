@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"रिमोट अस्विकार विनंती."</string>
+    <string name="vowifi_request_update_success">" "रिमोट स्विकार विनंती.""</string>
+    <string name="vowifi_remove_video_success">"व्हिडियो कॉल मागे-जा."</string>
+
+    <string name="vowifi_hold_success">"होल्ड यशस्वी"</string>
+    <string name="vowifi_hold_fail">" "होल्ड विफल""</string>
+    <string name="vowifi_resume_success">" "रिझ्यूम यशस्वी" "</string>
+    <string name="vowifi_resume_fail">" "रिझ्यूम विफल""</string>
+
+    <string name="vowifi_call_retry">"कृपया अल्प वेळेनंतर पुन्हा प्रयास करा"</string>
+    <string name="vowifi_call_is_focus">"कॉन्फरन्सला जोडा"</string>
+    <string name="vowifi_conf_disconnect">""कॉन्फरन्स सेटअप करण्यास विफल" "</string>
+    <string name="vowifi_conf_finished">"कॉन्फरन्स संपली"</string>
+    <string name="vowifi_conf_invite_request_failed">"निमंत्रण विनंती पाठवण्यास विफल. कॉन्फरन्स सेट अप होऊ शकत नाही."</string>
+    <string name="vowifi_conf_invite_failed">"सहभागीला निमंत्रित करण्यास विफल."</string>
+    <string name="vowifi_conf_kick_failed">"सहभागीला काढून टाकण्यास विफल."</string>
+    <string name="vowifi_conf_none_participant">"एकही सहभागी नाही आहे, कॉल संपवा."</string>
+    <string name="vowifi_conf_do_not_support">"या कृतीला आत्ता होऊ देऊ नका"</string>
+</resources>

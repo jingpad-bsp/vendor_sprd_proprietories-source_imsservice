@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Video-opkald falder tilbage"</string>
+<string name="videophone_failcause_1000">"Sidste video-opkald sluttede ikke normalt,prøv igen efter lidt tid."</string>
+<string name="videophone_failcause_1">"Det nummer du har ringet op til er ikke i drift"</string>
+<string name="videophone_failcause_3">"Bruger er ikke tilgængelig"</string>
+<string name="videophone_failcause_8">"Spærret opkald"</string>
+<string name="videophone_failcause_17">"Bruger optaget"</string>
+<string name="videophone_failcause_19">"Bruger du har ringet til svarer ikke"</string>
+<string name="videophone_failcause_27">"Bruger kan ikke nås"</string>
+<string name="videophone_failcause_34">"Forbindelsen afbrudt"</string>
+<string name="videophone_failcause_63_modify">"Video telefon kunne ikke oprettes"</string>
+<string name="videophone_failcause_79">"VT ikke understøttet af den anden"</string>
+<string name="videophone_failcause_47">"Beklager, vide opkald ikke tilgængelig"</string>
+<string name="videophone_failcause_50">"VT er ikke understøttet"</string>
+<string name="videophone_failcause_57_remote">"Nummeret du har tastet understøtter ikke VT"</string>
+<string name="videophone_failcause_58">"VT ikke understøttet af den anden"</string>
+<string name="videophone_failcause_157">"Mobiltelefonen har ikke påbegyndt VT service"</string>
+<string name="videophone_failcause_88">"Bruger vælger taleopkald"</string>
+<string name="videophone_failcause_minus_1">"3G service ikke tilgængelig"</string>
+<string name="videophone_failcause_default">"Bruger er ikke tilgængelig"</string>
+<string name="net_connection_disconnect">"Afbryd netforbindelse"</string>
+<string name="no_vt_service">"Kan ikke foretage videoopkald"</string>
+<string name="remote_request_change">"Fjernanmodning om skift af medie"</string>
+<string name="choose_accept_reject">"Vælg venligst Godkend eller Afvis"</string>
+<string name="remote_request_change_accept">"Acceptér"</string>
+<string name="remote_request_change_reject">"Afvis"</string>
+<string name="remote_reject_request">"Fjernanmodning afvist"</string>
+<string name="remote_accept_request">"Fjernanmodning godkendt"</string>
+<string name="callFailed_fdn_only">"Udgående opkald er begrænset af listen begrænset nummer"</string>
+    <string name="camera_open_fail">"Kunne ikke åbne kameraet"</string>
+     <string name="ims_switch_failed">"Netværksfejl. Prøv igen senere"</string>
+     <string name="videophone_fallback_menu_videocall">Videoopkald</string>
+     <string name="videophone_fallback_menu_voicecall">Taleopkald</string>
+     <string name="videophone_fallback_menu_cancel">Annuller</string>
+     <string name="videophone_fallback_question">"Hvad ønsker du at gøre?"</string>
+     <string name="low_battery_warning_media_alert_message">"Batteriniveauet er under 15 %. Du skal acceptere eller afvise."</string>
+     <string name="low_battery_warning_title">"Advarsel om lav batteristand"</string>
+     <string name="low_battery_warning_message">"Dit batteriniveau er under 15 %. Ønsker du at fortsætte med videoopkaldet eller konvertere til taleopkald?"</string>
+     <string name="low_battery_continue_video_call">"Ja"</string>
+     <string name="low_battery_convert_to_voice_call">"Konvertér"</string>
+
+</resources>

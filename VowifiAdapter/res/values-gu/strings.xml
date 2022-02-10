@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"રિમોટ વિનંતીને નકારે છે"</string>
+<string name="vowifi_request_update_success">"રિમોટ વિનંતીને સ્વીકારે છે"</string>
+<string name="vowifi_remove_video_success">"વીડિયો કૉલ ફૉલ-બૅક"</string>
+<string name="vowifi_update_to_rx_success">"ફક્ત વિડિયો રિસિપ્શન"</string>
+<string name="vowifi_update_to_tx_success">"ફક્ત વિડિયો ટ્રાન્સમિશન"</string>
+<string name="vowifi_hold_success">"હોલ્ડ સફળ"</string>
+<string name="vowifi_hold_fail">"હોલ્ડ નિષ્ફળ"</string>
+<string name="vowifi_resume_success">"પુનઃપ્રાપ્ત થયેલ કોલ"</string>
+<string name="vowifi_resume_fail">"ફરી શરૂ કરવામાં નિષ્ફળ"</string>
+<string name="vowifi_hold_received">"કોલ હેલ્ડ થઇ ગયો છે. "</string>
+<string name="vowifi_resume_received">"પુનઃપ્રાપ્ત થયેલ કોલ"</string>
+<string name="vowifi_call_retry">"કૃપા કરી થોડી ક્ષણ બાદ ફરી પ્રયત્ન કરો"</string>
+<string name="vowifi_call_is_focus">"કોન્ફરન્સમાં ઉમેરો"</string>
+<string name="vowifi_conf_connect_timeout">"કોન્ફરન્સ સર્વર ટાઈમઆઉટ સાથે જોડો"</string>
+<string name="vowifi_conf_disconnect">"કોન્ફરન્સ સેટઅપ કરવામાં નિષ્ફળતા મળી છે"</string>
+<string name="vowifi_conf_finished">"કોન્ફરન્સ પૂર્ણ થઈ છે"</string>
+<string name="vowifi_conf_invite_request_failed">"આમંત્રણની વિનંતી મોકલી શકાઈ નથી"</string>
+<string name="vowifi_conf_invite_failed">"ભાગ લેનારાને આમંત્રણ આપવામાં નિષ્ફળતા મળી છે"</string>
+<string name="vowifi_conf_kick_failed">"ભાગ લેનારને દૂર કરવામાં નિષ્ફળતા મળી છે"</string>
+<string name="vowifi_conf_none_participant">"કોઈ સહભાગી નથી, કૉલને બંધ કરો"</string>
+<string name="vowifi_conf_do_not_support">"આ કાર્યવાહીને હમણાં સપોર્ટ કરશો નહીં"</string>
+<string name="vowifi_conf_can_not_invite_more">"અન્ય ભાગીદારને કોન્ફરન્સમાં આમંત્રિત કરી શકાય નહીં કારણ કે તે 6 ભાગીદારોથી અગાઉથી બનેલ છે"</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"ರಿಮೋಟ್ ತಿರಸ್ಕರಿಸುವ ವಿನಂತಿ"</string>
+<string name="vowifi_request_update_success">"ರಿಮೋಟ್ ಸ್ವೀಕರಿಸುವ ವಿನಂತಿ"</string>
+<string name="vowifi_remove_video_success">"ವೀಡಿಯೊ ಕರೆ ಫಾಲ್-ಬ್ಯಾಕ್"</string>
+<string name="vowifi_update_to_rx_success">"ವಿಡಿಯೊವನ್ನು ಮಾತ್ರ ಸ್ವೀಕರಿಸಿ"</string>
+<string name="vowifi_update_to_tx_success">"ವಿಡಿಯೊ ಪ್ರಸರಣ ಮಾತ್ರ"</string>
+<string name="vowifi_hold_success">"ಯಶಸ್ಸು ಹೋಲ್ಡ್"</string>
+<string name="vowifi_hold_fail">"ಹೋಲ್ಡ್ ವಿಫಲಗೊಳ್ಳುತ್ತದೆ"</string>
+<string name="vowifi_resume_success">"ಕರೆ ಮರುಪಡೆಯಲಾಗಿದೆ"</string>
+<string name="vowifi_resume_fail">"ಪುನರಾರಂಭಿಸು ವಿಫಲವಾಗಿದೆ"</string>
+<string name="vowifi_hold_received">"ಕರೆ ತಡೆಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="vowifi_resume_received">"ಕರೆ ಮರುಪಡೆಯಲಾಗಿದೆ"</string>
+<string name="vowifi_call_retry">"ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="vowifi_call_is_focus">"ಕಾನ್ಫರೆನ್ಸ್ಗೆ ಸೇರಿಸು"</string>
+<string name="vowifi_conf_connect_timeout">"ಕಾನ್ಫರೆನ್ಸ್ ಸರ್ವರ್ ಗೆ ಸಂಪರ್ಕ ಹೊಂದುವ ಕಾಲಾವಧಿ ಮುಕ್ತಾಯವಾಗಿದೆ"</string>
+<string name="vowifi_conf_disconnect">"ಸೆಟಪ್ ಕಾನ್ಫರೆನ್ಸ್ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="vowifi_conf_finished">"ಕಾನ್ಫರೆನ್ಸ್ ಮುಗಿದಿದೆ"</string>
+<string name="vowifi_conf_invite_request_failed">"ಆಮಂತ್ರಣ ವಿನಂತಿಯನ್ನು ಕಳುಹಿಸುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ"</string>
+<string name="vowifi_conf_invite_failed">"ಪಾಲ್ಗೊಳ್ಳುವವರನ್ನು ಆಹ್ವಾನಿಸುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ:"</string>
+<string name="vowifi_conf_kick_failed">"ಪಾಲ್ಗೊಳ್ಳುವವರನ್ನು ತೆಗೆದುಹಾಕಲು ವಿಫಲವಾಗಿದೆ"</string>
+<string name="vowifi_conf_none_participant">"ಯಾವುದೇ ಪಾಲ್ಗೊಳ್ಳುವವರೂ ಇಲ್ಲ, ಕರೆ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ"</string>
+<string name="vowifi_conf_do_not_support">"ಈಗ ಈ ಕ್ರಮವನ್ನು ಬೆಂಬಲಿಸಬೇಡಿ"</string>
+<string name="vowifi_conf_can_not_invite_more">"ಈ ಕಾನ್ಫರೆನ್ಸ್ ಕರೆಗೆ ಇನ್ನೊಬ್ಬರನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಈಗಾಗಲೇ 6 ಜನರು ಕಾನ್ಫರೆನ್ಸ್ ಕರೆಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ"</string>
+</resources>

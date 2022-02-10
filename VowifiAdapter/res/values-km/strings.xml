@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"សំណើសុំ​ច្រានចោល​ពីចម្ងាយ"</string>
+<string name="vowifi_request_update_success">"សំណើសុំ​ទទួលពី​ចម្ងាយ"</string>
+<string name="vowifi_remove_video_success">"ការ​វិល​មកវិញ​នៃមុខងារ​ហៅ​ជាវីដេអូ"</string>
+<string name="vowifi_update_to_rx_success">"តែការទទួលវីដេអូប៉ុណ្ណោះ"</string>
+<string name="vowifi_update_to_tx_success">"តែការបញ្ជូនវីដេអូប៉ុណ្ណោះ"</string>
+<string name="vowifi_hold_success">"ផ្អាកការហៅជោគជ័យ"</string>
+<string name="vowifi_hold_fail">"ផ្អាកការហៅបរាជ័យ"</string>
+<string name="vowifi_resume_success"> ត្រឡប់មកនិយាយទូរស័ព្ទវិញ</string>
+<string name="vowifi_resume_fail">"ការបន្តបានបរាជ័យ"</string>
+<string name="vowifi_hold_received">"ការហៅត្រូវបានផ្អាកសិន"</string>
+<string name="vowifi_resume_received"> ត្រឡប់មកនិយាយទូរស័ព្ទវិញ</string>
+<string name="vowifi_call_retry">"សូមសាកល្បម្តងទៀតបន្តិចទៀតនេះ"</string>
+<string name="vowifi_call_is_focus">"បន្ថែមទៅក្នុងការហៅតាមទូរស័ព្ទ"</string>
+<string name="vowifi_conf_connect_timeout">"ការអស់ពេល​នៃ​មុខងារ​ភ្ជាប់​ទៅ​ម៉ាស៊ីនមេ​ជាក្រុម"</string>
+<string name="vowifi_conf_disconnect">"បានបរាជ័យក្នុងការបង្កើតការប្រជុំតាមទូរស័ព្ទ"</string>
+<string name="vowifi_conf_finished">"ការប្រជុំតាមទូរស័ព្ទត្រូវបានបញ្ចប់"</string>
+<string name="vowifi_conf_invite_request_failed">"បាន​បរាជ័យ​ក្នុងការ​ផ្ញើ​សំណើ​អញ្ជើញ"</string>
+<string name="vowifi_conf_invite_failed">"បរាជ័យក្នុងការអញ្ជើញអ្នកចូលរួម"</string>
+<string name="vowifi_conf_kick_failed">"បរាជ័យក្នុងការលុបអ្នកចូលរួមចោល"</string>
+<string name="vowifi_conf_none_participant">"មិនមាន​អ្នក​ចូលរួម​ណាមួយ​ទេ សូម​បញ្ចប់​ការហៅ"</string>
+<string name="vowifi_conf_do_not_support">"មិន​ស្គាល់​សកម្មភាព​នេះទេ នៅ​ពេល​នេះ"</string>
+<string name="vowifi_conf_can_not_invite_more">"មិន​អាច​អញ្ជើញ​អ្នក​ចូលរួម​ទៅ​ក្នុង​ការ​ប្រជុំ​ជាក្រុម​បាន​ទេ ព្រោះថា​មាន​អ្នក​ចូលរួម 6 នាក់​រួ​ចហើយ"</string>
+</resources>

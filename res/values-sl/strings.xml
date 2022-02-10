@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Vrni video klic"</string>
+<string name="videophone_failcause_1000">"Zadnji video klic se ni končal kot običajno, čez nekaj časa poskusite ponovno"</string>
+<string name="videophone_failcause_1">"Številka, ki ste jo klicali, ni dosegljiva"</string>
+<string name="videophone_failcause_3">"Uporabnik ni dosegljiv"</string>
+<string name="videophone_failcause_8">"Klic je zaprt"</string>
+<string name="videophone_failcause_17">"Uporabnik zaseden"</string>
+<string name="videophone_failcause_19">"Uporabnik, ki ste ga klicali, se ne javlja"</string>
+<string name="videophone_failcause_27">"Uporabnik ni dosegljiv"</string>
+<string name="videophone_failcause_34">"Povezava prekinjena"</string>
+<string name="videophone_failcause_63_modify">"Video klic ni bil vzpostavljen"</string>
+<string name="videophone_failcause_79">"VT nepodprt na drugi strani"</string>
+<string name="videophone_failcause_47">"Oprostite, video klic ni na voljo"</string>
+<string name="videophone_failcause_50">"VT ni podprt"</string>
+<string name="videophone_failcause_57_remote">"Številka, ki jo kličete, ne podpira VT"</string>
+<string name="videophone_failcause_58">"VT nepodprt na drugi strani"</string>
+<string name="videophone_failcause_157">"Mobilni telefon nima zagnane storitve VT"</string>
+<string name="videophone_failcause_88">"Uporabnik izbere glasovni klic"</string>
+<string name="videophone_failcause_minus_1">"3G ni na voljo"</string>
+<string name="videophone_failcause_default">"Uporabnik ni dosegljiv"</string>
+<string name="net_connection_disconnect">"Omrežna povezava je bila prekinjena"</string>
+<string name="no_vt_service">"Video klic ni na voljo"</string>
+<string name="remote_request_change">"Oddaljena zahteva za spremembo medija"</string>
+<string name="choose_accept_reject">"Prosim, potrdite ali zavrnite"</string>
+<string name="remote_request_change_accept">"Sprejmi"</string>
+<string name="remote_request_change_reject">"Zavrni"</string>
+<string name="remote_reject_request">"Oddaljena zahteva je bila zavrnjena"</string>
+<string name="remote_accept_request">"Oddaljena zahteva je bila sprejeta"</string>
+<string name="callFailed_fdn_only">"Odhodne klice omejuje FDN"</string>
+    <string name="camera_open_fail">"Odpiranje fotoaparata ni uspelo"</string>
+     <string name="ims_switch_failed">"Napaka omrežja, poskusite ponovno kasneje"</string>
+     <string name="videophone_fallback_menu_videocall">Video klic</string>
+     <string name="videophone_fallback_menu_voicecall">Glasovni klici</string>
+     <string name="videophone_fallback_menu_cancel">Prekini</string>
+     <string name="videophone_fallback_question">"Kaj želite storiti?"</string>
+     <string name="low_battery_warning_media_alert_message">"Baterija ima manj kot 15 % energije. Sprejmite ali zavrnite."</string>
+     <string name="low_battery_warning_title">"Opozorilo o stanju baterije"</string>
+     <string name="low_battery_warning_message">"Vaša baterija ima manj kot 15 %. Želite nadaljevati video klic ali preklopiti na glasovni klic?"</string>
+     <string name="low_battery_continue_video_call">"Da"</string>
+     <string name="low_battery_convert_to_voice_call">"Preklopi"</string>
+
+</resources>

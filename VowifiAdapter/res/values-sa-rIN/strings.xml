@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"दूरस्था अस्वीकृताविनतिः।"</string>
+    <string name="vowifi_request_update_success">"दूरस्था स्वीकृताविनतिः।"</string>
+    <string name="vowifi_remove_video_success">"दृश्यचलितस्य विफलता।"</string>
+
+    <string name="vowifi_hold_success">"विरामः सफलः"</string>
+    <string name="vowifi_hold_fail">"विरामः विफलः"</string>
+    <string name="vowifi_resume_success">"सफलतां पुनःकरोतु"</string>
+    <string name="vowifi_resume_fail">"विफलतां पुनःकरोतु"</string>
+
+    <string name="vowifi_call_retry">"कृपया पश्चात् पुनः प्रयततु।"</string>
+    <string name="vowifi_call_is_focus">"सामूहिके योजयतु"</string>
+    <string name="vowifi_conf_connect_timeout">"सामूहिकवितकेण सह सम्पर्कस्य समयः समाप्तः।"</string>
+    <string name="vowifi_conf_disconnect">"सामूहिककरणे विफलः"</string>
+    <string name="vowifi_conf_finished">"सामूहिककरणं विफलम्"</string>
+    <string name="vowifi_conf_invite_request_failed">"आमन्त्रणविनतेः प्रेषणे विफलः। सामूहिकाह्वाहनं कर्तुं न प्रभवति।"</string>
+    <string name="vowifi_conf_invite_failed">"प्रतिभागिभ्यः आमन्त्रणदानं विफलम् :"</string>
+    <string name="vowifi_conf_kick_failed">"प्रतिभागिनां अपाकरणे विफलः"</string>
+    <string name="vowifi_conf_none_participant">"तत्र कोऽपि प्रतिभागी नास्ति, आह्वाहनं स्थगयतु।"</string>
+    <string name="vowifi_conf_do_not_support">"अधुना एनां प्रक्रियां मा समर्थयतु।"</string>
+</resources>

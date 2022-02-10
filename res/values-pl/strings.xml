@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Cofanie połączenia wideo"</string>
+<string name="videophone_failcause_1000">"Ostatnie połączenie wideo nie zostało zakończone w normalny sposób, spróbuj ponownie za chwilę"</string>
+<string name="videophone_failcause_1">"Wybrany numer jest nieczynny"</string>
+<string name="videophone_failcause_3">"Użytkownik nie jest dostępny"</string>
+<string name="videophone_failcause_8">"Połączenie zablokowane"</string>
+<string name="videophone_failcause_17">"Użytkownik zajęty"</string>
+<string name="videophone_failcause_19">"Wybrany użytkownik nie odpowiada"</string>
+<string name="videophone_failcause_27">"Nie można połączyć się z użytkownikiem"</string>
+<string name="videophone_failcause_34">"Połączenie zostało przerwane"</string>
+<string name="videophone_failcause_63_modify">"Połączenie wideo nie zostało nawiązane"</string>
+<string name="videophone_failcause_79">"Drugi użytkownik nie obsługuje VT"</string>
+<string name="videophone_failcause_47">"Przepraszamy, połączenie wideo nie jest dostępne"</string>
+<string name="videophone_failcause_50">"Brak wsparcia dla VT"</string>
+<string name="videophone_failcause_57_remote">"Nie jest możliwa trasmisja wideo z wybranym numerem"</string>
+<string name="videophone_failcause_58">"Drugi użytkownik nie obsługuje VT"</string>
+<string name="videophone_failcause_157">Telefon nie rozpoczął usługi VT</string>
+<string name="videophone_failcause_88">"Użytkownik wybrał połączenie głosowe"</string>
+<string name="videophone_failcause_minus_1">"Usługa 3G nie jest dostępna"</string>
+<string name="videophone_failcause_default">"Użytkownik nie jest dostępny"</string>
+<string name="net_connection_disconnect">"Rozłącz połączenie sieciowe"</string>
+<string name="no_vt_service">"Nie można wykonywać połączeń wideo"</string>
+<string name="remote_request_change">"Zdalne żądanie zmiany mediów"</string>
+<string name="choose_accept_reject">"Zaakceptuj lub odrzuć"</string>
+<string name="remote_request_change_accept">"Akceptuj"</string>
+<string name="remote_request_change_reject">"Odrzuć"</string>
+<string name="remote_reject_request">"Żądanie zdalne odrzucone"</string>
+<string name="remote_accept_request">"Żądanie zdalne zaakceptowane"</string>
+<string name="callFailed_fdn_only">"Połączenia wychodzące są ograniczone przez Wybieranie Ustalone"</string>
+    <string name="camera_open_fail">"Otwarcie aparatu nieudane"</string>
+     <string name="ims_switch_failed">"Błąd sieci, spróbuj ponownie pózniej"</string>
+     <string name="videophone_fallback_menu_videocall">Połączenie wideo</string>
+     <string name="videophone_fallback_menu_voicecall">Połączenie głosowe</string>
+     <string name="videophone_fallback_menu_cancel">Anuluj</string>
+     <string name="videophone_fallback_question">"Jaką czynność chcesz wykonać?"</string>
+     <string name="low_battery_warning_media_alert_message">"Poziom baterii jest mniejszy niż 15%. Wybierz proszę akceptuję lub odrzucam."</string>
+     <string name="low_battery_warning_title">"Ostrzeżenie Niskiego Poziomu Baterii"</string>
+     <string name="low_battery_warning_message">"Poziom naładowania baterii poniżej 15%.Czy chcesz kontynuować wideo-rozmowę czy przełączyć na rozmowę głosową?"</string>
+     <string name="low_battery_continue_video_call">"Tak"</string>
+     <string name="low_battery_convert_to_voice_call">"Przekształcić"</string>
+
+</resources>

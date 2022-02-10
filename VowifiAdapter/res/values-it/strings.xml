@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Richiesta di rifiuto remota"</string>
+<string name="vowifi_request_update_success">"Richiesta di accettazione remota"</string>
+<string name="vowifi_remove_video_success">"Fall-Back chiamata video"</string>
+<string name="vowifi_update_to_rx_success">"Solo ricezione video"</string>
+<string name="vowifi_update_to_tx_success">"Solo trasmissione video"</string>
+<string name="vowifi_hold_success">"Chiamata in attesa riuscita"</string>
+<string name="vowifi_hold_fail">"Chiamata in attesa non riuscita"</string>
+<string name="vowifi_resume_success">"Ripresa riuscita"</string>
+<string name="vowifi_resume_fail">"Ripresa non riuscita"</string>
+<string name="vowifi_call_retry">"Riprovare tra un momento"</string>
+<string name="vowifi_call_is_focus">"Aggiungi a conferenza"</string>
+<string name="vowifi_conf_connect_timeout">"Timeout connessione al server conferenze"</string>
+<string name="vowifi_conf_disconnect">"Impossibile impostare una conferenza"</string>
+<string name="vowifi_conf_finished">"Conferenza terminata"</string>
+<string name="vowifi_conf_invite_request_failed">"Impossibile inviare la richiesta di invito"</string>
+<string name="vowifi_conf_invite_failed">"Impossibile invitare partecipante:"</string>
+<string name="vowifi_conf_kick_failed">"Impossibile rimuovere partecipante"</string>
+<string name="vowifi_conf_none_participant">"Nessun partecipante, terminare la chiamata"</string>
+<string name="vowifi_conf_do_not_support">"Non supportare questa azione ora"</string>
+<string name="vowifi_conf_can_not_invite_more">"Impossibile invitare un altro partecipante alla conferenza in quanto contiene già 6 partecipanti"</string>
+    <string name="vowifi_hold_received">Chiamata trattenuta</string>
+     <string name="vowifi_resume_received">Recupo chiamata</string>
+
+</resources>

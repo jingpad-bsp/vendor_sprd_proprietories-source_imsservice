@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"रिमोट नां-मंजूर अनुरोध।"</string>
+    <string name="vowifi_request_update_success">"रिमोट मंजूर अनुरोध।"</string>
+    <string name="vowifi_remove_video_success">"वीडियो काल फाल-बैक।"</string>
+
+    <string name="vowifi_hold_success">"होल्ड सफलता"</string>
+    <string name="vowifi_hold_fail">"होल्ड असफल"</string>
+    <string name="vowifi_resume_success">""मुड़-शुरूआत सफलता" "</string>
+    <string name="vowifi_resume_fail">"मुड़-शुरूआत असफल"</string>
+
+    <string name="vowifi_call_retry">"किरपा करियै फ्ही कोशिश करेओ।"</string>
+    <string name="vowifi_call_is_focus">"कांफ्रेस च जोड़ो"</string>
+    <string name="vowifi_conf_connect_timeout">"कांफ्रेस सर्वर टाइमआट कन्नै कनेक्ट करो।"</string>
+    <string name="vowifi_conf_disconnect">"कांफ्रेस सेटअप करने च असफल"</string>
+    <string name="vowifi_conf_finished">"कांफ्रेस खत्म"</string>
+    <string name="vowifi_conf_invite_request_failed">"साद्दा अनुरोध भेजने च असफल। कांफ्रेस सेटअप नेईं कीता जाई सकदा ऐ।"</string>
+    <string name="vowifi_conf_invite_failed">"प्रतिभागी सद्दने च असफल:"</string>
+    <string name="vowifi_conf_kick_failed">"प्रतिभागी हटाने च असफल"</string>
+    <string name="vowifi_conf_none_participant">"कोई प्रतिभागी नेईं ऐ, काल खत्म करो।"</string>
+    <string name="vowifi_conf_do_not_support">"इसलै इस प्रक्रिया दा समर्थन नेईं करो।"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Uzaktan yükseltme isteği"</string>
+<string name="vowifi_request_upgrade_text">"Geçerli aramayı video aramasına yükseltme isteği var, lütfe kabul veya reddedin."</string>
+<string name="vowifi_request_downgrade_title">"Uzaktan indirme isteği"</string>
+<string name="vowifi_request_downgrade_text">"Geçerli aramayı ses aramasına indirme isteği var, lütfe kabul veya reddedin."</string>
+<string name="vowifi_add_video_failed">"Uzaktan reddetme isteği"</string>
+<string name="vowifi_add_video_success">"Uzaktan kabul etme isteği"</string>
+<string name="vowifi_remove_video_failed">"Videoyu kaldırma başarısız"</string>
+<string name="vowifi_remove_video_success">"Video arama geri çekme"</string>
+<string name="vowifi_hold_success">"Bekletme başarılı"</string>
+<string name="vowifi_hold_fail">"Bekletme başarısız"</string>
+<string name="vowifi_resume_success">"Yeniden başlatma başarılı"</string>
+<string name="vowifi_resume_fail">"Yeniden başlatma başarısız"</string>
+<string name="vowifi_call_retry">"Lütfen bir süre sonra yeniden deneyin"</string>
+<string name="vowifi_call_is_focus">"Konferansa ekle"</string>
+<string name="vowifi_conf_connect_timeout">"Konferans sunucusuna bağlanmada zaman aşımı"</string>
+<string name="vowifi_conf_disconnect">"Konferans oluşturma başarısız"</string>
+<string name="vowifi_conf_finished">"Konferans tamamlandı"</string>
+<string name="vowifi_conf_invite_request_failed">"Davet isteği gönderme başarısız"</string>
+<string name="vowifi_conf_invite_failed">"Katılımcı davet etme başarısız:"</string>
+<string name="vowifi_conf_kick_failed">"Katılımcı kaldırma başarısız"</string>
+<string name="vowifi_conf_none_participant">"Katılımcı yok, aramayı sonlandır"</string>
+<string name="vowifi_conf_do_not_support">"Bu eylem şu an desteklenmiyor"</string>
+<string name="vowifi_conf_can_not_invite_more">"Halen 6 katılımcı olduğundan konferansa başka bir katılımcı davet edilemiyor"</string>
+    <string name="vowifi_request_update_failed">"Uzaktan reddetme isteği"</string>
+     <string name="vowifi_request_update_success">"Uzaktan kabul etme isteği"</string>
+     <string name="vowifi_update_to_rx_success">"Sadece video alımı"</string>
+     <string name="vowifi_update_to_tx_success">"Sadece video gönderimi"</string>
+     <string name="vowifi_hold_received">"Çağrı bekletildi" </string>
+     <string name="vowifi_resume_received">"Alınan çağrı"</string>
+
+</resources>

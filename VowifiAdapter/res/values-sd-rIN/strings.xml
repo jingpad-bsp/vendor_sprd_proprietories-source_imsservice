@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"ڏور جي درخواست جي منسوخي"</string>
+    <string name="vowifi_request_update_success">"ڏور جي درخواست جي قبوليت"</string>
+    <string name="vowifi_remove_video_success">"ويڊيو ڪال واپس ٿي وئي."</string>
+
+    <string name="vowifi_hold_success">"ڪاميابي تي صبر رکو"</string>
+    <string name="vowifi_hold_fail">"ناڪامي تي صبر رکو"</string>
+    <string name="vowifi_resume_success">"ڪاميابي کي قائم رهڻ ڏيو"</string>
+    <string name="vowifi_resume_fail">"ناڪامي کي قائم رهڻ ڏيو"</string>
+
+    <string name="vowifi_call_retry">"مهرباني ڪري بعد ۾ ٻيهر ڪوشش ڪندا."</string>
+    <string name="vowifi_call_is_focus">"ڪانفرنس ۾ شامل ڪريو"</string>
+    <string name="vowifi_conf_connect_timeout">"ڪانفرنس سرور تي منسلڪ ٿيڻ جو وقت پورو ٿي ويو."</string>
+    <string name="vowifi_conf_disconnect">"ڪانفرنس جي ترڪيب ۾ ناڪامي ٿي وئي"</string>
+    <string name="vowifi_conf_finished">"ڪانفرنس ختم ٿي وئي"</string>
+    <string name="vowifi_conf_invite_request_failed">"دعوت جي درخواست ۾ ناڪامي ٿي وئي. ڪانفرنس جي ترڪيب نه ٿي ڪري سگهجي."</string>
+    <string name="vowifi_conf_invite_failed">"شريڪِ ڪار کي مدعو ڪرڻ ۾ ناڪامي ٿي وئي:"</string>
+    <string name="vowifi_conf_kick_failed">"شريڪِ ڪار کي هٽائڻ ۾ ناڪامي ٿي وئي"</string>
+    <string name="vowifi_conf_none_participant">"ڪو شريڪِ ڪار ڪونهي، ڪال ختم ڪريو."</string>
+    <string name="vowifi_conf_do_not_support">"هن عمل جي هينئر سهولت نه ڏيو."</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Удаленный запрос на улучшение"</string>
+<string name="vowifi_request_upgrade_text">"Запрос на улучшение этого вызова до видео вызова, выберите принять или отказать."</string>
+<string name="vowifi_request_downgrade_title">"Удаленный запрос на понижение"</string>
+<string name="vowifi_request_downgrade_text">"Запрос на понижение этого вызова до голосового вызова, выберите принять или отказать."</string>
+<string name="vowifi_add_video_failed">"Дистанционно отклонить запрос"</string>
+<string name="vowifi_add_video_success">"Дистанционно принять запрос"</string>
+<string name="vowifi_remove_video_failed">"Не удалось удалить видео"</string>
+<string name="vowifi_remove_video_success">"Откат видеозвонка"</string>
+<string name="vowifi_hold_success">"Удержание выполнено"</string>
+<string name="vowifi_hold_fail">"Удержание не удалось"</string>
+<string name="vowifi_resume_success">"Восстановление выполнено"</string>
+<string name="vowifi_resume_fail">"Восстановление не удалось"</string>
+<string name="vowifi_call_retry">"Повторите попытку чуть позже"</string>
+<string name="vowifi_call_is_focus">"Добавить в конференцию"</string>
+<string name="vowifi_conf_connect_timeout">"Тайм-аут подключения к серверу конференций"</string>
+<string name="vowifi_conf_disconnect">"Не удалось установить конференцию"</string>
+<string name="vowifi_conf_finished">"Конференция завершена"</string>
+<string name="vowifi_conf_invite_request_failed">"Не удалось отправить запрос-приглашение"</string>
+<string name="vowifi_conf_invite_failed">"Не удалось пригласить участника:"</string>
+<string name="vowifi_conf_kick_failed">"Не удалось удалить участника"</string>
+<string name="vowifi_conf_none_participant">"Нет ни одного участника, звонок завершен"</string>
+<string name="vowifi_conf_do_not_support">"Это действие в настоящий момент не поддерживается"</string>
+<string name="vowifi_conf_can_not_invite_more">"Невозможно пригласить еще одного участника на конференцию, поскольку она уже содержит 6 участников"</string>
+    <string name="vowifi_request_update_failed">"Дистанционно отклонить запрос"</string>
+     <string name="vowifi_request_update_success">"Дистанционно принять запрос"</string>
+     <string name="vowifi_update_to_rx_success">"Только прием видео"</string>
+     <string name="vowifi_update_to_tx_success">"Только передача видео"</string>
+     <string name="vowifi_hold_received">"удержание вызова"</string>
+     <string name="vowifi_resume_received">Звонок восстановлен</string>
+
+</resources>

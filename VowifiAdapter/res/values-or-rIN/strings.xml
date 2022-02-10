@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"ଦୂରରୁ ଅନୁରୋଧ ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ ।"</string>
+    <string name="vowifi_request_update_success">"ଦୂରରୁ ଅନୁରୋଧ ଗ୍ରହଣ କରନ୍ତୁ ।"</string>
+    <string name="vowifi_remove_video_success">"ଭିଡିଓ କଲ୍ କୁ ଫେରନ୍ତୁ ।"</string>
+
+    <string name="vowifi_hold_success">"ସଫଳତାକୁ ହୋଲ୍ଡ କରନ୍ତୁ"</string>
+    <string name="vowifi_hold_fail">"ବିଫଳ ହେବାକୁ ହୋଲ୍ଡ କରନ୍ତୁ""</string>
+    <string name="vowifi_resume_success">"ସପଳ ହେବା ପୁଣି ଥରେ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+    <string name="vowifi_resume_fail">"ବିଫଳ ହେବା ପୁଣି ଥରେ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+
+    <string name="vowifi_call_retry">"ଦୟାକରି ପରେ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+    <string name="vowifi_call_is_focus">"କନଫରେନ୍ସ ସହ ଯୋଗ କରନ୍ତୁ"</string>
+    <string name="vowifi_conf_connect_timeout">"କନଫରେନ୍ସ ସର୍ଭର ସହ ସଂଯୁକ୍ତ ହେବା ସମୟ ଶେଷ ହୋଇଛି ।"</string>
+    <string name="vowifi_conf_disconnect">""କନଫରେନ୍ସ ସେଟ୍ କରିବା ବିଫଳ ହୋଇଛି" "</string>
+    <string name="vowifi_conf_finished">"କନଫରେନ୍ସ ସରିଲା"</string>
+    <string name="vowifi_conf_invite_request_failed">"ଇନଭାଇଟ୍ ରିକ୍ୱେଷ୍ଟ ପଠାଇବା ବିଫଳ ହୋଇଛି । କନଫରେନ୍ସ ସେଟ୍ ଅପ୍ ହୋଇପାରିବ ନାହିଁ ।"</string>
+    <string name="vowifi_conf_invite_failed">"ଅଂଶଗ୍ରହଣକାରୀ ଇନଭାଇଟ୍ କରିବାରେ ବିଫଳ ହୋଇଛି:"</string>
+    <string name="vowifi_conf_kick_failed">"ଅଂଶଗ୍ରହଣକାରୀ ହଟାଇବାରେ ବିଫଳ ହୋଇଛି"</string>
+    <string name="vowifi_conf_none_participant">"କୌଣସି ଅଂଶଗ୍ରହଣକାରୀ ନାହାଁନ୍ତି, କଲ୍ ଶେଷ କରନ୍ତୁ ।"</string>
+    <string name="vowifi_conf_do_not_support">"ବର୍ତ୍ତମାନ ଏହି ଆକସନ୍ କୁ ସପୋର୍ଟ କରନ୍ତୁ ନାହିଁ ।"</string>
+</resources>

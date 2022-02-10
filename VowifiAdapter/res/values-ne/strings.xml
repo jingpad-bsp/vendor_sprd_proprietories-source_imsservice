@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"दूरवर्ती पक्षले अस्वीकार गर्ने अनुरोध गरेको छ"</string>
+<string name="vowifi_request_update_success">"दूरवर्ती पक्षले स्वीकार गर्ने अनुरोध गरेको छ"</string>
+<string name="vowifi_remove_video_success">"भिडियो कल पतन"</string>
+<string name="vowifi_update_to_rx_success">"भिडियो प्राप्त गर्ने मात्र"</string>
+<string name="vowifi_update_to_tx_success">"भिडियो पठाउने मात्र"</string>
+<string name="vowifi_hold_success">"सफलता होल्ड गर्नुहोस्"</string>
+<string name="vowifi_hold_fail">"असफलता होल्ड गर्नुहोस्"</string>
+<string name="vowifi_resume_success">"कल पुन: प्राप्त गरियो"</string>
+<string name="vowifi_resume_fail">"असफलता रिजुम गर्नुहोस्"</string>
+<string name="vowifi_hold_received">"कल होल्ड गरिएको छ"</string>
+<string name="vowifi_resume_received">"कल पुन: प्राप्त गरियो"</string>
+<string name="vowifi_call_retry">"कृपया केही क्षणपछि पुन: प्रयास गर्नुहोस्"</string>
+<string name="vowifi_call_is_focus">"वार्तालापमा थप्नुहोस्"</string>
+<string name="vowifi_conf_connect_timeout">"कन्फ्रेन्सको सर्भरमा जडान गर्ने समय सकिया"</string>
+<string name="vowifi_conf_disconnect">"वार्तालाप सेटअप गर्न असफल भयो"</string>
+<string name="vowifi_conf_finished">"वार्तालाप समाप्त भयो"</string>
+<string name="vowifi_conf_invite_request_failed">"निमन्त्रणा अनुरोध पठाउन असफल भयो"</string>
+<string name="vowifi_conf_invite_failed">"सहभागीलाई निमन्त्रणा गर्न असफल भयो:"</string>
+<string name="vowifi_conf_kick_failed">"सहभागीलाई हटाउन असफल भयो"</string>
+<string name="vowifi_conf_none_participant">"त्यहाँ कुनै पनि सहभागी छैन, कल अन्त्य गर्नुहोस्"</string>
+<string name="vowifi_conf_do_not_support">"यो कार्यलाई अहिले समर्थन नगर्नुहोस्"</string>
+<string name="vowifi_conf_can_not_invite_more">"कन्फ्रेन्समा पहिलेदेखि नै 6 जना सहभागीहरू भइसकेकाले अर्को सहभागीलाई आमन्त्रित गर्न सकिँदैन"</string>
+</resources>

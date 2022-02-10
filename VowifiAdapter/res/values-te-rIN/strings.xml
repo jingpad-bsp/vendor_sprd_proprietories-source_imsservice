@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"రిమోట్ అభ్యర్థన తిరస్కరి౦చబడి౦ది."</string>
+    <string name="vowifi_request_update_success">"రిమోట్ అభ్యర్థన అ౦గీకరి౦చబడి౦ది."</string>
+    <string name="vowifi_remove_video_success">"ఫాల్-బ్యాక్ వీడియో కాల్"</string>
+
+    <string name="vowifi_hold_success">"నిలిపిఉ౦చ౦డ౦ విజయవ౦త౦"</string>
+    <string name="vowifi_hold_fail">"నిలిపిఉ౦చ౦డ౦ విఫల౦"</string>
+    <string name="vowifi_resume_success">"ప్రార౦భ౦ విజయవ౦త౦"</string>
+    <string name="vowifi_resume_fail">"ప్రార౦భ౦ విఫల౦"</string>
+
+    <string name="vowifi_call_retry">"కొద్దిసేపటి తరువాత తిరిగి ప్రయత్ని౦చ౦డి"</string>
+    <string name="vowifi_call_is_focus">"కాన్ఫరెన్స్ కు కలప౦డి"</string>
+    <string name="vowifi_conf_disconnect">"సెటప్ కాన్ఫరెన్స్ విఫలమయి౦ది"</string>
+    <string name="vowifi_conf_finished">"కాన్ఫరెన్స్ పూర్తయి౦ది"</string>
+    <string name="vowifi_conf_invite_request_failed">"ఆహ్వాన౦ అభ్యర్థన విఫలమయి౦ది. కాన్ఫరెన్స్ సెటప్ చేయబడలేదు."</string>
+    <string name="vowifi_conf_invite_failed">"పాల్గొనేవారిని ఆహ్వాని౦చడ౦ విఫల౦"</string>
+    <string name="vowifi_conf_kick_failed">"పాల్గొనేవారిని తొలగి౦చడ౦ విఫల౦"</string>
+    <string name="vowifi_conf_none_participant">"పాల్గొనేవారు ఎవరూ లేరు, కాల్ ఆపివేయ౦డి"</string>
+    <string name="vowifi_conf_do_not_support">"ఈ చర్యకు మద్దతు ఇవ్వక౦డి."</string>
+</resources>

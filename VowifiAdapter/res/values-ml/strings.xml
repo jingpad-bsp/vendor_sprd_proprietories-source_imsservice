@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"റിമോട്ട് നിരാകരണ അപേക്ഷ"</string>
+<string name="vowifi_request_update_success">"റിമോട്ട് സ്വീകരണ അപേക്ഷ"</string>
+<string name="vowifi_remove_video_success">"വീഡിയോ കോൾ പിൻവലിയുന്നു"</string>
+<string name="vowifi_update_to_rx_success">"വീഡിയോ സ്വീകരണം മാത്രം"</string>
+<string name="vowifi_update_to_tx_success">"വീഡിയോ പ്രക്ഷേപണം മാത്രം"</string>
+<string name="vowifi_hold_success">"ഹോള്‍ഡ് സക്സസ്സ്"</string>
+<string name="vowifi_hold_fail">"ഹോള്‍ഡ് ഫെയില്‍"</string>
+<string name="vowifi_resume_success">"കോള്‍ വീണ്ടെടുത്തിരിക്കുന്നു"</string>
+<string name="vowifi_resume_fail">"റെസ്യൂം ഫെയില്‍"</string>
+<string name="vowifi_hold_received">"കോള്‍ ഉള്‍ക്കൊള്ളിച്ചിരിക്കുന്നു"</string>
+<string name="vowifi_resume_received">"കോള്‍ വീണ്ടെടുത്തിരിക്കുന്നു"</string>
+<string name="vowifi_call_retry">"ദയവായി കുറച്ച് നിമിഷങ്ങള്‍ക്ക് ശേഷം ശ്രമിക്കുക"</string>
+<string name="vowifi_call_is_focus">"കോണ്‍ഫറന്‍സിലേക്ക് ആഡ് ചെയ്യുക"</string>
+<string name="vowifi_conf_connect_timeout">"കോൺഫറൻസിലേക്ക് കണക്റ്റ് ചെയ്യുക. സെർവർ ടൈം ഔട്ട്‌ ആയി."</string>
+<string name="vowifi_conf_disconnect">"കോണ്‍ഫറന്‍സ് സെറ്റ് അപ്പ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു"</string>
+<string name="vowifi_conf_finished">"കോണ്‍ഫറന്‍സ് അവസാനിച്ചു"</string>
+<string name="vowifi_conf_invite_request_failed">"ക്ഷണിക്കുന്നതിനുള്ള അഭ്യർത്ഥന അയയ്ക്കുന്നത് പരാജയപ്പെട്ടു"</string>
+<string name="vowifi_conf_invite_failed">"പങ്കാളിയെ ക്ഷണിക്കുന്നതില്‍ പരാജയപ്പെട്ടു:"</string>
+<string name="vowifi_conf_kick_failed">"പങ്കാളിയെ റിമൂവ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു"</string>
+<string name="vowifi_conf_none_participant">"പങ്കെടുക്കുന്നവർ ആരുമില്ല, കോൾ അവസാനിപ്പിക്കുക"</string>
+<string name="vowifi_conf_do_not_support">"ഈ പ്രവർത്തനം ഇപ്പോൾ സപ്പോട്ട് ചെയ്യില്ല"</string>
+<string name="vowifi_conf_can_not_invite_more">"ഇതിനകം 6 പങ്കാളികള്‍ ഉള്ളതിനാല്‍, മറ്റൊരു പങ്കാളിയെ കോണ്‍ഫറന്‍സിലേക്ക് ക്ഷണിക്കാന്‍ കഴിയില്ല."</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Demande de mise à niveau à distance"</string>
+<string name="vowifi_request_upgrade_text">"Demande de mise à niveau de l\'appel en cours en appel vidéo. Accepter ou refuser ?"</string>
+<string name="vowifi_request_downgrade_title">"Demande de déclassement à distance"</string>
+<string name="vowifi_request_downgrade_text">"Demande de déclassement de l\'appel en cours en appel vocal. Accepter ou refuser ?"</string>
+<string name="vowifi_add_video_failed">"Refuser la demande à distance"</string>
+<string name="vowifi_add_video_success">"Accepter la demande à distance"</string>
+<string name="vowifi_remove_video_failed">"Échec de suppression de la vidéo"</string>
+<string name="vowifi_remove_video_success">"Repli d\'appel vidéo"</string>
+<string name="vowifi_hold_success">"Maintien réussi"</string>
+<string name="vowifi_hold_fail">"Échec du maintien"</string>
+<string name="vowifi_resume_success">"Reprise réussi"</string>
+<string name="vowifi_resume_fail">"Échec de la reprise"</string>
+<string name="vowifi_call_retry">"Veuillez réessayer dans quelques instants"</string>
+<string name="vowifi_call_is_focus">"Ajouter à la conférence"</string>
+<string name="vowifi_conf_connect_timeout">"Délai de connexion au serveur de conférence expiré"</string>
+<string name="vowifi_conf_disconnect">"Échec d\'établissement de la conférence"</string>
+<string name="vowifi_conf_finished">"Conférence terminée"</string>
+<string name="vowifi_conf_invite_request_failed">"Échec d\'envoi de la demande d\'invitation"</string>
+<string name="vowifi_conf_invite_failed">"Échec d\'invitation du participant :"</string>
+<string name="vowifi_conf_kick_failed">"Échec de suppression du participant"</string>
+<string name="vowifi_conf_none_participant">"Aucun participant. Mettre fin à l\'appel"</string>
+<string name="vowifi_conf_do_not_support">"Action non prise en charge actuellement"</string>
+<string name="vowifi_conf_can_not_invite_more">"Impossible d\'inviter un autre participant à la conférence. Ils sont déjà 6"</string>
+    <string name="vowifi_request_update_failed">"Demande de rejet à distance"</string>
+     <string name="vowifi_request_update_success">"Demande d\'acceptation à distance"</string>
+     <string name="vowifi_update_to_rx_success">"Réception vidéo uniquement"</string>
+     <string name="vowifi_update_to_tx_success">"Transmission vidéo uniquement"</string>
+
+    <string name="vowifi_hold_received">"Appel en attente"</string>
+     <string name="vowifi_resume_received">"Appel récupéré"</string>
+</resources>

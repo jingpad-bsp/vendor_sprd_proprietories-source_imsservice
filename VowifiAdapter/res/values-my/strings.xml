@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"အဝေးမှ ငြင်းရန် တောင်းဆိုချက်"</string>
+    <string name="vowifi_request_update_success">"အဝေးမှ လက်ခံရန် တောင်းဆိုချက်"</string>
+    <string name="vowifi_remove_video_success">"ဗီဒီယို ဖုန်းခေါ်ဆိုမှုကို လိုင်းလွှဲလိုက်ပါပြီ"</string>
+    <string name="vowifi_update_to_rx_success">"ဗီဒီယို လက်ခံရန်သာ"</string>
+    <string name="vowifi_update_to_tx_success">"ဗီဒီယို ထုတ်လွှင့်ရန်သာ"</string>
+
+    <string name="vowifi_hold_success">"ကိုင်ထားခြင်း အောင်မြင်သည်"</string>
+    <string name="vowifi_hold_fail">"ကိုင်ထားခြင်း မအောင်မြင်ပါ"</string>
+    <string name="vowifi_resume_success">"ဖုန်းခေါ်ဆိုမှုပြန်လည်ရယူပြီး"</string>
+    <string name="vowifi_resume_fail">"ပြန်ချိတ်၍ မရပါ"</string>
+    <string name="vowifi_hold_received">"ဖုန်းကိုင်ပါ"</string>
+    <string name="vowifi_resume_received">"ဖုန်းခေါ်ဆိုမှုပြန်လည်ရယူပြီး"</string>
+
+    <string name="vowifi_call_retry">"ခဏကြာပြီးမှ ထပ်ကြိုးစားပါ"</string>
+    <string name="vowifi_call_is_focus">"ကွန်ဖရင့် ဖုန်း"</string>
+    <string name="vowifi_conf_connect_timeout">"ကွန်ဖရင့်ဆာဗာနှင့် ချိတ်ဆက်ချိန် ကုန်သွားပါပြီ"</string>
+    <string name="vowifi_conf_disconnect">"ကွန်ဖရင့် သတ်မှတ်ခြင်း မအောင်မြင်ပါ"</string>
+    <string name="vowifi_conf_finished">"ကွန်ဖရင့် ပြီးသွားပါပြီ"</string>
+    <string name="vowifi_conf_invite_request_failed">"ဖိတ်ခေါ်ရန် တောင်းဆိုချက်ကို ပို့၍မရပါ"</string>
+    <string name="vowifi_conf_invite_failed">"ပါဝင်သူကို ဖိတ်ခေါ်၍ မရပါ-"</string>
+    <string name="vowifi_conf_kick_failed">"ပါဝင်သူကို ဖယ်ရှား၍ မရပါ"</string>
+    <string name="vowifi_conf_none_participant">"ပါဝင်တက်ရောက်သူမရှိ၍ ဖုန်းခေါ်ဆိုမှု အဆုံးသတ်သွားသည်"</string>
+    <string name="vowifi_conf_do_not_support">"ဤဆောင်ရွက်ချက်ကို ပံ့ပိုးမပေးပါ"</string>
+    <string name="vowifi_conf_can_not_invite_more">"အစည်းဝေးသို့ တက်ရောက်သူ 6 ဦး ရှိနှင့်ပြီးဖြစ်၍ အခြား တက်ရောက်မည့်သူကို ဖိတ်ကြား၍မရပါ"</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Panggilan video kembali semula"</string>
+<string name="videophone_failcause_1000">"Panggilan video lepas telah biasanya tidak berakhir, sila cuba lagi selepas beberapa ketika"</string>
+<string name="videophone_failcause_1">"Nombor yang anda telah dail tidak berada dalam perkhidmatan"</string>
+<string name="videophone_failcause_3">"Pengguna tidak ada"</string>
+<string name="videophone_failcause_8">"Panggilan dihalang"</string>
+<string name="videophone_failcause_17">"Pengguna sibuk"</string>
+<string name="videophone_failcause_19">"Pengguna anda didail tidak menjawab"</string>
+<string name="videophone_failcause_27">"Pengguna tidak boleh dicapai"</string>
+<string name="videophone_failcause_34">"Sambungan terputus"</string>
+<string name="videophone_failcause_63_modify">"Telefon video tidak boleh ditubuhkan"</string>
+<string name="videophone_failcause_79">"VT yang tidak disokong oleh yang lain"</string>
+<string name="videophone_failcause_47">"Maaf, panggilan video tidak tersedia"</string>
+<string name="videophone_failcause_50">"VT tidak disokong"</string>
+<string name="videophone_failcause_57_remote">"Nombor yang anda dail tidak menyokong VT"</string>
+<string name="videophone_failcause_58">"VT yang tidak disokong oleh yang lain"</string>
+<string name="videophone_failcause_157">Telefon bimbit tidak memulakan perkhidmatan VT </string>
+<string name="videophone_failcause_88">"Pengguna memilih panggilan suara"</string>
+<string name="videophone_failcause_minus_1">"Perkhidmatan 3G tidak tersedia"</string>
+<string name="videophone_failcause_default">"Pengguna tidak ada"</string>
+<string name="net_connection_disconnect">Sambungan rangkaian diputuskan</string>
+<string name="no_vt_service">"Tidak boleh membuat panggilan video"</string>
+<string name="remote_request_change">"Permintaan jauh pertukaran media"</string>
+<string name="choose_accept_reject">"Sila pilih terima atau tolak"</string>
+<string name="remote_request_change_accept">"Terima"</string>
+<string name="remote_request_change_reject">"Tolak"</string>
+<string name="remote_reject_request">"Permintaan jauh telah ditolak"</string>
+<string name="remote_accept_request">"Permintaan jauh telah diterima"</string>
+<string name="callFailed_fdn_only">"Panggilan jauh dilarang oleh FDN"</string>
+    <string name="camera_open_fail">"Gagal membuka kamera"</string>
+     <string name="ims_switch_failed">"Ralat rangkaian, sila cuba lagi kemudian"</string>
+     <string name="videophone_fallback_menu_videocall">Panggilan Video</string>
+     <string name="videophone_fallback_menu_voicecall">Panggilan Suara</string>
+     <string name="videophone_fallback_menu_cancel">Batal</string>
+     <string name="videophone_fallback_question">"Apa yang kamu mahu lakukan?"</string>
+     <string name="low_battery_warning_media_alert_message">"Tahap bateri anda lemah iaitu di bawah 15%.Sila pilih terima atau tolak."</string>
+     <string name="low_battery_warning_title">"Amaran Bateri Lemah"</string>
+     <string name="low_battery_warning_message">"Tahap bateri anda di bawah 15%.Adakah anda ingin meneruskan panggilan video atau tukarkannya ke panggilan suara?"</string>
+     <string name="low_battery_continue_video_call">Ya</string>
+     <string name="low_battery_convert_to_voice_call">"Tukar"</string>
+
+</resources>

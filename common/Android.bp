@@ -1,0 +1,24 @@
+
+
+java_library {
+    installable: true,
+
+     aidl: {
+        local_include_dirs: ["com/**/*.aidl"],
+        include_dirs: [
+            "frameworks/native/aidl/gui",
+        ],
+    },
+
+    srcs: [
+        "com/**/*.java",
+        "com/**/*.aidl",
+    ],
+
+
+    name: "unisoc_ims_common",
+    optimize: {
+        enabled: false,
+    },
+
+}

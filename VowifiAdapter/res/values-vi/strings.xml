@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"Yêu cầu từ xa để nâng cấp"</string>
+<string name="vowifi_request_upgrade_text">"Yêu cầu để nâng cấp cuộc gọi hiện tại để gọi video, vui lòng chọn chấp nhận hoặc từ chối."</string>
+<string name="vowifi_request_downgrade_title">"Yêu cầu từ xa để hạ cấp"</string>
+<string name="vowifi_request_downgrade_text">"Yêu cầu hạ cấp các cuộc gọi hiện tại để tăng âm thanh cuộc gọi, hãy chọn chấp nhận hoặc từ chối."</string>
+<string name="vowifi_add_video_failed">"Yêu cầu từ xa bị từ chối"</string>
+<string name="vowifi_add_video_success">"Yêu cầu từ xa được chấp nhận"</string>
+<string name="vowifi_remove_video_failed">"Gỡ bỏ video bị lỗi"</string>
+<string name="vowifi_remove_video_success">"Rút lại cuộc gọi video"</string>
+<string name="vowifi_hold_success">"Giữ máy thành công"</string>
+<string name="vowifi_hold_fail">"Giữ máy thất bại"</string>
+<string name="vowifi_resume_success">"Tiếp tục thành công"</string>
+<string name="vowifi_resume_fail">"Tiếp tục thất bại"</string>
+<string name="vowifi_call_retry">"Hãy thử lại sau một lúc"</string>
+<string name="vowifi_call_is_focus">"Thêm vào cuộc gọi hội nghị"</string>
+<string name="vowifi_conf_connect_timeout">"Thời gian chờ kết nối với máy chủ hội nghị"</string>
+<string name="vowifi_conf_disconnect">"Không thể thiết lập cuộc gọi hội nghị"</string>
+<string name="vowifi_conf_finished">"Cuộc gọi hội nghị đã kết thúc"</string>
+<string name="vowifi_conf_invite_request_failed">"Gửi yêu cầu mời bị lỗi"</string>
+<string name="vowifi_conf_invite_failed">"Không thể mời người tham gia:"</string>
+<string name="vowifi_conf_kick_failed">"Không thể xóa người tham gia"</string>
+<string name="vowifi_conf_none_participant">"Không có bất kỳ người tham gia nào, kết thúc cuộc gọi"</string>
+<string name="vowifi_conf_do_not_support">"Hiện không hỗ trợ hành động này"</string>
+<string name="vowifi_conf_can_not_invite_more">"Không mời được người tham gia khác vào hội nghị vì đã có 6 người tham gia"</string>
+    <string name="vowifi_request_update_failed">"Yêu cầu từ xa bị từ chối"</string>
+     <string name="vowifi_request_update_success">"Yêu cầu từ xa được chấp nhận"</string>
+     <string name="vowifi_update_to_rx_success">"Chỉ nhận video"</string>
+     <string name="vowifi_update_to_tx_success">"Chỉ truyền video"</string>
+     <string name="vowifi_hold_received">"Cuộc gọi bị chặn"</string>
+     <string name="vowifi_resume_received">" Cuộc gọi được nhận"</string>
+
+</resources>

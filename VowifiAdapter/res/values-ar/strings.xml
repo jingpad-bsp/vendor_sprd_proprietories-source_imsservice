@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">"طلب الترقية عن بعد"</string>
+<string name="vowifi_request_upgrade_text">"طلب ترقية المكالمة الحالية لمكالمة فيديو، يرجى اختيار موافق أو رفض."</string>
+<string name="vowifi_request_downgrade_title">"طلب للتخفيض عن بعد"</string>
+<string name="vowifi_request_downgrade_text">"طلب لتخفيض المكالمة الحالية لمكالمة صوتية، يرجى اختيار موافق أو رفض."</string>
+<string name="vowifi_add_video_failed">"رفض الطلب عن بُعد"</string>
+<string name="vowifi_add_video_success">"قبول الطلب عن بُعد"</string>
+<string name="vowifi_remove_video_failed">"فشلت إزالة الفيديو"</string>
+<string name="vowifi_remove_video_success">"استرداد مكالمة الفيديو عقب فشلها"</string>
+<string name="vowifi_hold_success">"نجح التعليق"</string>
+<string name="vowifi_hold_fail">"فشل التعليق"</string>
+<string name="vowifi_resume_success">"نجح الاستئناف"</string>
+<string name="vowifi_resume_fail">"فشل الاستئناف"</string>
+<string name="vowifi_call_retry">"يرحى إعادة المحاولة بعد لحظات"</string>
+<string name="vowifi_call_is_focus">"إضافة إلى المكالمة الجماعية"</string>
+<string name="vowifi_conf_connect_timeout">"مهلة الاتصال بخادم المكالمات الجماعية"</string>
+<string name="vowifi_conf_disconnect">"فشل إعداد مكالمة جماعية"</string>
+<string name="vowifi_conf_finished">"انتهت المكالمة الجماعية"</string>
+<string name="vowifi_conf_invite_request_failed">"فشل إرسال طلب الدعوة"</string>
+<string name="vowifi_conf_invite_failed">"فشل دعوة المشترك:"</string>
+<string name="vowifi_conf_kick_failed">"فشل حذف المشترك"</string>
+<string name="vowifi_conf_none_participant">"لا يوجد أي مشارك، إنهاء المكالمة"</string>
+<string name="vowifi_conf_do_not_support">"عدم دعم هذا الإجراء حاليًا"</string>
+<string name="vowifi_conf_can_not_invite_more">"لا يمكن دعوة مشارك آخر إلى المكالمة الجماعية لأنها تتضمن ٦ مشاركين بالفعل"</string>
+    <string name="vowifi_request_update_failed">"رفض الطلب عن بُعد"</string>
+     <string name="vowifi_request_update_success">"قبول الطلب عن بُعد"</string>
+     <string name="vowifi_update_to_rx_success">"تلقي الفيديو فقط"</string>
+     <string name="vowifi_update_to_tx_success">"إرسال الفيديو فقط"</string>
+     <string name="vowifi_hold_received">"تم حظر المكالمة"</string>
+     <string name="vowifi_resume_received">"استرجاع المكالمات"</string>
+
+</resources>

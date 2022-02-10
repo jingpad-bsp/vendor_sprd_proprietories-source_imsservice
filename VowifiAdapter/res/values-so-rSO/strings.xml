@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Codsiga jarista remootka ah"</string>
+<string name="vowifi_request_update_success">"Codsiga aqbalida remootka ah"</string>
+<string name="vowifi_remove_video_success">"Soonoqoshada wicitaanka muuqaalka ah"</string>
+<string name="vowifi_update_to_rx_success">"Heltaanka muuuqaalka kaliya"</string>
+<string name="vowifi_update_to_tx_success">"Gudbinta muuqaalka kaliya"</string>
+<string name="vowifi_hold_success">"Qabashada waa lagu guulaystay"</string>
+<string name="vowifi_hold_fail">"Qabashada waa lagu fashilmay"</string>
+<string name="vowifi_resume_success">"Dib ukicinta waa lagu guulasyatay"</string>
+<string name="vowifi_resume_fail">"Dib ukicinta waa lagu fashilmay"</string>
+<string name="vowifi_call_retry">"Kadib daqiiqad kadib iskuday"</string>
+<string name="vowifi_call_is_focus">"Kudar shirka"</string>
+<string name="vowifi_conf_connect_timeout">"Kuxirista seefarka shirka mashaqaynayso"</string>
+<string name="vowifi_conf_disconnect">"Laguma guulaysan dajinta shirka"</string>
+<string name="vowifi_conf_finished">"Shirka waa dhamaaday"</string>
+<string name="vowifi_conf_invite_request_failed">"Laguma guulaysan dirista casuumaada"</string>
+<string name="vowifi_conf_invite_failed">"Laguma guulaysan mariqaadida kaqaybgalaha:"</string>
+<string name="vowifi_conf_kick_failed">"Laguma guulaysan saarista kaqaybgalaha"</string>
+<string name="vowifi_conf_none_participant">"Majiro kaqaybgale, jar wicitaanka"</string>
+<string name="vowifi_conf_do_not_support">"Kuma shaqaynaayo dookhaan hada"</string>
+<string name="vowifi_conf_can_not_invite_more">"Laguma marti qaadi karo kaqaybgale kale shirka maadaama ay horay ugu jireen 6 kaqaybgale"</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Etähylkäyspyyntö"</string>
+<string name="vowifi_request_update_success">"Etähyväksyntäpyyntö"</string>
+<string name="vowifi_remove_video_success">"Videopuhelun varajärjestelmä"</string>
+<string name="vowifi_update_to_rx_success">"Vain videon vastaanotto"</string>
+<string name="vowifi_update_to_tx_success">"Vain videon lähetys"</string>
+<string name="vowifi_hold_success">"Pito onnistui"</string>
+<string name="vowifi_hold_fail">"Pito epäonnistui"</string>
+<string name="vowifi_resume_success">Haettu Puhelu</string>
+<string name="vowifi_resume_fail">"Jatkaminen epäonnistui"</string>
+<string name="vowifi_hold_received">"Puhelu pidetty"</string>
+<string name="vowifi_resume_received">Haettu Puhelu</string>
+<string name="vowifi_call_retry">"Yritä hetken kuluttua uudelleen"</string>
+<string name="vowifi_call_is_focus">"Lisää kokoukseen"</string>
+<string name="vowifi_conf_connect_timeout">"Yhteyden muodostaminen kokouspalvelimeen aikakatkaistu"</string>
+<string name="vowifi_conf_disconnect">"Kokouksen määrittäminen epäonnistui"</string>
+<string name="vowifi_conf_finished">"Kokous valmis"</string>
+<string name="vowifi_conf_invite_request_failed">"Kutsupyynnön lähetys epäonnistui"</string>
+<string name="vowifi_conf_invite_failed">"Osallistujan kutsuminen epäonnistui:"</string>
+<string name="vowifi_conf_kick_failed">"Osallistujan poistaminen epäonnistui:"</string>
+<string name="vowifi_conf_none_participant">"Osallistujia ei ole, lopeta puhelu"</string>
+<string name="vowifi_conf_do_not_support">"Älä tue tätä toimintoa nyt"</string>
+<string name="vowifi_conf_can_not_invite_more">"Uutta osallistujaa ei voi kutsua kokoukseen, sillä siinä on jo 6 osallistujaa"</string>
+</resources>

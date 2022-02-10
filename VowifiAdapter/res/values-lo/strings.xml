@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"ຣີໂໝດຍົກເລີກການຮ້ອງຂໍ "</string>
+<string name="vowifi_request_update_success">"ຣີໂໝດຮັບເອົາການຮ້ອງຂໍ "</string>
+<string name="vowifi_remove_video_success">"ການໂທວິດີໂອຫຼຸດລົງ "</string>
+<string name="vowifi_update_to_rx_success">"ການຮັບວິດີໂອເທົ່ານັ້ນ "</string>
+<string name="vowifi_update_to_tx_success">"ການສົ່ງຜ່ານວິດີໂອເທົ່ານັ້ນ "</string>
+<string name="vowifi_hold_success">ການຖືສາຍສໍາເລັດ</string>
+<string name="vowifi_hold_fail">ການຖືສາຍລົ້ມເຫຼວ</string>
+<string name="vowifi_resume_success">"ການ​ໂທ​ຖືກ​ເປີດ​ໃຊ້​ງານ"</string>
+<string name="vowifi_resume_fail">ການເລີ່ມຕົ້ນໃໝ່ລົ້ມເຫຼວ</string>
+<string name="vowifi_hold_received">"ຖື​ສາຍ"</string>
+<string name="vowifi_resume_received">"ການ​ໂທ​ຖືກ​ເປີດ​ໃຊ້​ງານ"</string>
+<string name="vowifi_call_retry">ກະລຸນາລໍຖ້ານ້ອຍໜຶ່ງຈຶ່ງລອງໃໝ່ອີກ</string>
+<string name="vowifi_call_is_focus">ເພີ່ມເຖິງສາຍການປະຊຸມ</string>
+<string name="vowifi_conf_connect_timeout">"ເຊື່ອມຕໍ່ກັບເຊີເວີ່ກອງປະຊຸມເວລາໝົດ "</string>
+<string name="vowifi_conf_disconnect">ການສ້າງຕັ້ງສາຍກອງປະຊຸມລົ້ມເຫຼວ</string>
+<string name="vowifi_conf_finished">ສາຍກອງປະຊຸມສໍາເລັດ</string>
+<string name="vowifi_conf_invite_request_failed">"ບໍ່ສາມາດສົ່ງຄໍາຮ້ອງຂໍເຊີນ "</string>
+<string name="vowifi_conf_invite_failed">ການເຊື້ອເຊີນຜູ້ເຂົ້າຮ່ວມລົ້ມເຫຼວ:</string>
+<string name="vowifi_conf_kick_failed">ການລຶບຜູ້ເຂົ້າຮ່ວມລົ້ມເຫຼວ:</string>
+<string name="vowifi_conf_none_participant">"ບໍ່ມີຜູ້ໃດເຂົ້າຮ່ວມ, ສິ້ນສຸດການໂທ "</string>
+<string name="vowifi_conf_do_not_support">"ບໍ່ສະໜັບສະໜູນການປະຕິບັດການນີ້ "</string>
+<string name="vowifi_conf_can_not_invite_more">"ບໍ່ສາມາດເຊື້ອເຊີນຜູ້ເຂົ້າຮ່ວມອື່ນເຂົ້າໃນກອງປະຊຸມໄດ້ຍ້ອນວ່າມັນມີຜູ້ເຂົ້າຮ່ວມ 6 ຄົນແລ້ວ "</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">升级请求被拒绝</string>
+    <string name="vowifi_request_update_success">升级为视频通话</string>
+    <string name="vowifi_remove_video_success">可视电话回落</string>
+    <string name="vowifi_update_to_rx_success">仅接收视频</string>
+    <string name="vowifi_update_to_tx_success">仅发送视频</string>
+
+    <string name="vowifi_hold_success">保持通话成功</string>
+    <string name="vowifi_hold_fail">保持通话失败</string>
+    <string name="vowifi_resume_success">呼叫被激活</string>
+    <string name="vowifi_resume_fail">恢复通话失败</string>
+    <string name="vowifi_hold_received">呼叫被保持</string>
+    <string name="vowifi_resume_received">呼叫被激活</string>
+
+    <string name="vowifi_call_retry">请稍后再试</string>
+    <string name="vowifi_call_is_focus">加入会议</string>
+    <string name="vowifi_conf_connect_timeout">连接会议中心超时</string>
+    <string name="vowifi_conf_disconnect">创建会议失败</string>
+    <string name="vowifi_conf_finished">会议电话结束</string>
+    <string name="vowifi_conf_invite_request_failed">邀请与会者失败</string>
+    <string name="vowifi_conf_invite_failed">无法邀请参与者: </string>
+    <string name="vowifi_conf_kick_failed">移除参与者失败</string>
+    <string name="vowifi_conf_none_participant">无任何参与者，结束通话</string>
+    <string name="vowifi_conf_do_not_support">不支持一键发起会议</string>
+    <string name="vowifi_conf_can_not_invite_more">当前会议参与者已经达到最大值，无法继续邀请与会者</string>
+</resources>

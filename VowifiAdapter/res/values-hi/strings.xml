@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vowifi_request_update_failed">"रिमोट अस्वीकार अनुरोध।"</string>
+    <string name="vowifi_request_update_success">"दूरस्थ स्वीकार अनुरोध।"</string>
+    <string name="vowifi_remove_video_success">"वीडियो कॉल फ़ॉल-बैक।"</string>
+
+    <string name="vowifi_hold_success">"होल्ड सफल रहा"</string>
+    <string name="vowifi_hold_fail">"होल्ड असफल रहा"</string>
+    <string name="vowifi_resume_success">"फिर से शुरू सफल रहा"</string>
+    <string name="vowifi_resume_fail">"फिर से शुरू असफल रहा"</string>
+
+    <string name="vowifi_call_retry">"कृपया एक क्षण के बाद पुन: प्रयास करें"</string>
+    <string name="vowifi_call_is_focus">"सम्मेलन में जोड़ें"</string>
+    <string name="vowifi_conf_disconnect">"कांफ्रेंस सेटअप असफल रहा"</string>
+    <string name="vowifi_conf_finished">"सम्मेलन समाप्त"</string>
+    <string name="vowifi_conf_invite_request_failed">"आमंत्रण अनुरोध भेजने में असफल। कांफ्रेंस सेटअप नहीं की जा सकती।"</string>
+    <string name="vowifi_conf_invite_failed">"सहभागी को आमंत्रित करने में असफल रहा:"</string>
+    <string name="vowifi_conf_kick_failed">"प्रतिभागी को हटाने में असफल रहा"</string>
+    <string name="vowifi_conf_none_participant">"कोई भागीदार नहीं है, कॉल समाप्त करें।"</string>
+    <string name="vowifi_conf_do_not_support">"इस समय इस क्रिया का समर्थन नहीं किया जाता।"</string>
+    <string name="vowifi_conf_connect_timeout">"कान्फ्रेंस सर्वर से जुड़ने की समय-सीमा समाप्त"</string>
+    <string name="vowifi_conf_can_not_invite_more">"कान्फ्रेंस में किसी अन्य सहभागी को आमंत्रित नहीं कर सकते क्योंकि इसमें पहले से ही 6 सहभागी हैं"</string>
+    <string name="vowifi_update_to_rx_success">"केवल वीडियो रिसेप्शन"</string>
+     <string name="vowifi_update_to_tx_success">"केवल वीडियो ट्रांसमिशन"</string>
+     <string name="vowifi_hold_received">"कॉल हुई"</string>
+     <string name="vowifi_resume_received">"कॉल पुनः प्राप्त की गई"</string>
+</resources>

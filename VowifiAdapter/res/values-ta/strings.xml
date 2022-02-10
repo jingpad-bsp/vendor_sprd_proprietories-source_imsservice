@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"தொலைதூர நிராகரிப்புக் கோரிக்கை"</string>
+<string name="vowifi_request_update_success">"தொலைதூர ஏற்புக் கோரிக்கை"</string>
+<string name="vowifi_remove_video_success">"வீடியோ அழைப்பு பால்-பேக்"</string>
+<string name="vowifi_update_to_rx_success">"வீடியோ பெறுதல் மட்டும்"</string>
+<string name="vowifi_update_to_tx_success">"வீடியோ ஒளிபரப்பு மட்டும்"</string>
+<string name="vowifi_hold_success">"தக்கவைப்பு வெற்றி"</string>
+<string name="vowifi_hold_fail">"தக்கவைப்பு தோல்வி"</string>
+<string name="vowifi_resume_success">"அழைப்பு சீர்செய்யப்பட்டது"</string>
+<string name="vowifi_resume_fail">"மீள்துவக்கல் தோல்வி"</string>
+<string name="vowifi_hold_received">"அழைப்பு காத்திருப்பு"</string>
+<string name="vowifi_resume_received">"அழைப்பு சீர்செய்யப்பட்டது"</string>
+<string name="vowifi_call_retry">"சற்று நேரத்திற்குப் பின் மீண்டும் முயற்சியுங்கள்"</string>
+<string name="vowifi_call_is_focus">"குழுவில் சேர்"</string>
+<string name="vowifi_conf_connect_timeout">"கான்பிரன்ஸ் செர்வரோடு இணைவதற்கான நேரம் கடந்துவிட்டது"</string>
+<string name="vowifi_conf_disconnect">"குழுவை அமைப்பது தோல்வியுற்றது"</string>
+<string name="vowifi_conf_finished">"குழு முடிவுற்றது"</string>
+<string name="vowifi_conf_invite_request_failed">"இன்வைட் கோரிக்கையை அனுப்புவதில் தோல்வி"</string>
+<string name="vowifi_conf_invite_failed">"பங்கேற்பாளருக்கு அழைப்பு விடுப்பது தோல்வியுற்றது:"</string>
+<string name="vowifi_conf_kick_failed">"பங்கேற்பாளரை அகற்றுவது தோல்வியுற்றது"</string>
+<string name="vowifi_conf_none_participant">"எந்த பங்கேற்பாளரும் இல்லை, அழைப்பை முடிக்கவும்"</string>
+<string name="vowifi_conf_do_not_support">"இப்போது இந்த செயலுக்கு ஆதரவு இல்லை"</string>
+<string name="vowifi_conf_can_not_invite_more">"ஏற்கனவே 6 பங்கேற்பாளர்கள் கொண்டிருக்கும் கான்பிரன்சுக்கு மற்றொரு பங்கேற்பாளரை அழைக்க முடியாது"</string>
+</resources>

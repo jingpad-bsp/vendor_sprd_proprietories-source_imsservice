@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Videozvana atkāpsistēma"</string>
+<string name="videophone_failcause_1000">"Pēdējais video zvans beidzās neierasti, lūdzu atkārtojiet pēc brīža"</string>
+<string name="videophone_failcause_1">"Nummurs, ko esat sastādījis, nav pieejams"</string>
+<string name="videophone_failcause_3">"Lietotājs nav pieejams"</string>
+<string name="videophone_failcause_8">"Zvans aizturēts"</string>
+<string name="videophone_failcause_17">"Lietotājs aizņemts"</string>
+<string name="videophone_failcause_19">"Lietotājs, kura nummuru esat sastādījis, neatbild"</string>
+<string name="videophone_failcause_27">"Lietotājs nav sasniedzams"</string>
+<string name="videophone_failcause_34">"Savienojums pārtrūcis"</string>
+<string name="videophone_failcause_63_modify">"Neizdevās izveidot videozvana savienojumu"</string>
+<string name="videophone_failcause_79">"Cits neatbalsta VT"</string>
+<string name="videophone_failcause_47">"Atvainojiet, videozvans nav pieejams"</string>
+<string name="videophone_failcause_50">"VT netiek atbalstīts"</string>
+<string name="videophone_failcause_57_remote">"Nummurs, ko esat sastādījis, neatbalsta VT"</string>
+<string name="videophone_failcause_58">"Cits neatbalsta VT"</string>
+<string name="videophone_failcause_157">"Mobilais telefons nav sācis VT servisu"</string>
+<string name="videophone_failcause_88">"Lietotājs izvēlas balss zvanu"</string>
+<string name="videophone_failcause_minus_1">"3G serviss nav pieejams"</string>
+<string name="videophone_failcause_default">"Lietotājs nav pieejams"</string>
+<string name="net_connection_disconnect">"Tīkla Savienojums Zudis "</string>
+<string name="no_vt_service">"Nav iespējams veikt videozvanus"</string>
+<string name="remote_request_change">"Attālināta medija nomaiņas pieprasījums"</string>
+<string name="choose_accept_reject">"Lūdzu, izvēlieties pieņemt vai atteikt"</string>
+<string name="remote_request_change_accept">"Pieņemt"</string>
+<string name="remote_request_change_reject">"Atteikt"</string>
+<string name="remote_reject_request">"Attālinātās piekļuves pieprasījums atteikts"</string>
+<string name="remote_accept_request">"Attālinātās piekļuves pieprasījums pieņemts"</string>
+<string name="callFailed_fdn_only">"FDN ierobežo izejošos zvanus"</string>
+    <string name="camera_open_fail">"Kameras atvēršana neveiksmīga"</string>
+     <string name="ims_switch_failed">"Tīkla kļūda, lūdzu, mēģiniet atkal vēlāk"</string>
+     <string name="videophone_fallback_menu_videocall">"Videozvans"</string>
+     <string name="videophone_fallback_menu_voicecall">Balss zvans</string>
+     <string name="videophone_fallback_menu_cancel">"Atcelt"</string>
+     <string name="videophone_fallback_question">"Ko jūs vēlaties darīt?"</string>
+     <string name="low_battery_warning_media_alert_message">"Jūsu baterijas līmenis ir zem 15%.Lūdzu, izvēlieties vai pieņemt, vai atteikt."</string>
+     <string name="low_battery_warning_title">"Zemas beterijas līmeņa brīdinājums"</string>
+     <string name="low_battery_warning_message">"Jūsu baterijas līmenis ir zem 15%.Vai vēlaties turpināt ar video zvanu, vai konvertēt uz balss zvanu?"</string>
+     <string name="low_battery_continue_video_call">"Jā"</string>
+     <string name="low_battery_convert_to_voice_call">"Konvertēt"</string>
+
+</resources>

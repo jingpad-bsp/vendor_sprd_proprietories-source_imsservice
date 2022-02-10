@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_upgrade_title">Pedido remoto para actualizar</string>
+<string name="vowifi_request_upgrade_text">Pedido para actualizar a chamada actual para chamada de vídeo; escolha aceitar ou rejeitar</string>
+<string name="vowifi_request_downgrade_title">Pedido remoto para reduzir</string>
+<string name="vowifi_request_downgrade_text">Pedido para reduzir a chamada actual para chamada de voz;  escolha aceitar ou rejeitar</string>
+<string name="vowifi_add_video_failed">"Solicitação de controlo remoto rejeitado"</string>
+<string name="vowifi_add_video_success">"Solicitação de controlo remoto aceite"</string>
+<string name="vowifi_remove_video_failed">"Falha ao eliminar o vídeo"</string>
+<string name="vowifi_remove_video_success">"Videochamada de contingência"</string>
+<string name="vowifi_hold_success">Em suspensão</string>
+<string name="vowifi_hold_fail">Falha na suspensão</string>
+<string name="vowifi_resume_success">Retomado</string>
+<string name="vowifi_resume_fail">Falha ao retomar</string>
+<string name="vowifi_call_retry">Tente novamente mais tarde</string>
+<string name="vowifi_call_is_focus">Adicionar à conferência</string>
+<string name="vowifi_conf_connect_timeout">"Tempo limite de ligação ao servidor da conferência"</string>
+<string name="vowifi_conf_disconnect">Falha ao configurar conferência</string>
+<string name="vowifi_conf_finished">Conferência concluída</string>
+<string name="vowifi_conf_invite_request_failed">"Falha ao enviar a solicitação de convite"</string>
+<string name="vowifi_conf_invite_failed">Falha ao convidar o participante:</string>
+<string name="vowifi_conf_kick_failed">Falha ao remover o participante</string>
+<string name="vowifi_conf_none_participant">"Não está presente nenhum participante, terminar a chamada"</string>
+<string name="vowifi_conf_do_not_support">"Ação não suportada no momento"</string>
+<string name="vowifi_conf_can_not_invite_more">"Não é possível convidar outro participante para a conferência, visto já estarem presentes 6 participantes"</string>
+    <string name="vowifi_request_update_failed">"Pedido de rejeição remoto"</string>
+     <string name="vowifi_request_update_success">"Pedido de aceitação remoto"</string>
+     <string name="vowifi_update_to_rx_success">"Receção de vídeo apenas"</string>
+     <string name="vowifi_update_to_tx_success">"Transmissão de vídeo apenas"</string>
+
+    <string name="vowifi_hold_received">Chamada segurada</string>
+     <string name="vowifi_resume_received">Chamada recuperada</string>
+</resources>

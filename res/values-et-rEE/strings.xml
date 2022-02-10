@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Videokõne taandumine"</string>
+<string name="videophone_failcause_1000">"Viimane kõne ei lõppenud õigesti, palun proovi mõne aja pärast uuesti"</string>
+<string name="videophone_failcause_1">"Valitud number ei ole kasutusel"</string>
+<string name="videophone_failcause_3">"Kasutaja ei ole kättesaadav"</string>
+<string name="videophone_failcause_8">"Kõne piiratud"</string>
+<string name="videophone_failcause_17">"Kasutaja hõivatud"</string>
+<string name="videophone_failcause_19">"Kasutaja, kelle numbri valisite, ei vasta"</string>
+<string name="videophone_failcause_27">"Ei saa kasutajat kätte"</string>
+<string name="videophone_failcause_34">"Ühendus maas"</string>
+<string name="videophone_failcause_63_modify">"Video telefoni ei saanud aktiveerida"</string>
+<string name="videophone_failcause_79">"VT ei ole toetatud teise poolt"</string>
+<string name="videophone_failcause_47">"Vabandust, videokõne ei ole saadaval"</string>
+<string name="videophone_failcause_50">"VT tugi puudub"</string>
+<string name="videophone_failcause_57_remote">"Valitud number ei toeta VT"</string>
+<string name="videophone_failcause_58">"VT ei ole toetatud teise poolt"</string>
+<string name="videophone_failcause_157">"Mobiiltelefon ei ole alustanud VT teenust"</string>
+<string name="videophone_failcause_88">"Kasutaja valib häälkõne"</string>
+<string name="videophone_failcause_minus_1">"3G teenus ei ole saadaval"</string>
+<string name="videophone_failcause_default">"Kasutaja ei ole kättesaadav"</string>
+<string name="net_connection_disconnect">"Võrguühendus maas"</string>
+<string name="no_vt_service">"Ei saa teha videokõnesid"</string>
+<string name="remote_request_change">"Kaugkäsklus meedia muutus"</string>
+<string name="choose_accept_reject">"Palun vali nõustu või keeldu"</string>
+<string name="remote_request_change_accept">"Nõustu"</string>
+<string name="remote_request_change_reject">"Hülga"</string>
+<string name="remote_reject_request">"Kaugkäsklus tagasi lükatud"</string>
+<string name="remote_accept_request">"Kaugkäsklus aktsepteeritud"</string>
+<string name="callFailed_fdn_only">""Väljuvad kõned on piiratud FDN poolt" "</string>
+    <string name="camera_open_fail">"Kaamera avamine nurjus"</string>
+     <string name="ims_switch_failed">"Võrgu viga, Palun proovi hiljem uuesti"</string>
+     <string name="videophone_fallback_menu_videocall">"Videokõne"</string>
+     <string name="videophone_fallback_menu_voicecall">"häälkõne"</string>
+     <string name="videophone_fallback_menu_cancel">"Tühista"</string>
+     <string name="videophone_fallback_question">"Mida sa soovid teha?"</string>
+     <string name="low_battery_warning_media_alert_message">"Akutase on alla 15%. Palun nõustuge või keelduge."</string>
+     <string name="low_battery_warning_title">"Aku tühjenemise hoiatus"</string>
+     <string name="low_battery_warning_message">"Akutase on alla 15%. Kas soovid videokõnega jätkata või lülituda häälkõnele?"</string>
+     <string name="low_battery_continue_video_call">"Jah"</string>
+     <string name="low_battery_convert_to_voice_call">"Lülitu ümber"</string>
+
+</resources>

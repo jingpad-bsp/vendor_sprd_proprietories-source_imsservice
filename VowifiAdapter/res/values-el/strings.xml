@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Απομακρυσμένη αίτηση απόρριψης"</string>
+<string name="vowifi_request_update_success">"Απομακρυσμένη αίτηση αποδοχής"</string>
+<string name="vowifi_remove_video_success">"Μετάπτωση κλήσης βίντεο"</string>
+<string name="vowifi_update_to_rx_success">"Μόνο λήψη βίντεο"</string>
+<string name="vowifi_update_to_tx_success">"Μόνο μετάδοση βίντεο"</string>
+<string name="vowifi_hold_success">"Επιτυχία αναμονής"</string>
+<string name="vowifi_hold_fail">"Αποτυχία αναμονής"</string>
+<string name="vowifi_resume_success">"Επιτυχία ανάκτησης"</string>
+<string name="vowifi_resume_fail">"Αποτυχία ανάκτησης"</string>
+<string name="vowifi_call_retry">"Δοκιμάστε ξανά μετά από λίγο"</string>
+<string name="vowifi_call_is_focus">"Προσθήκη σε συνδιάσκεψη"</string>
+<string name="vowifi_conf_connect_timeout">"Λήξη χρόνου σύνδεσης σε διακομιστή συνδιάσκεψης"</string>
+<string name="vowifi_conf_disconnect">"Αποτυχία ρύθμισης συνδιάσκεψης"</string>
+<string name="vowifi_conf_finished">"Η συνδιάσκεψη απέτυχε"</string>
+<string name="vowifi_conf_invite_request_failed">"Η αποστολή της αίτησης πρόσκλησης απέτυχε"</string>
+<string name="vowifi_conf_invite_failed">"Αποτυχία πρόσκλησης του συμμετέχοντα:"</string>
+<string name="vowifi_conf_kick_failed">"Αποτυχία κατάργησης του συμμετέχοντα"</string>
+<string name="vowifi_conf_none_participant">"Δεν υπάρχει κανένας συμμετέχων, τερματισμός της κλήσης"</string>
+<string name="vowifi_conf_do_not_support">"Να μην υποστηρίζεται αυτή η ενέργεια τώρα"</string>
+<string name="vowifi_conf_can_not_invite_more">"Δεν είναι δυνατή η πρόσκληση άλλου συμμετέχοντα στη συνδιάσκεψη γιατί έχει ήδη 6 συμμετέχοντες"</string>
+    <string name="vowifi_hold_received">"Κλήση σε αναμονή"</string>
+     <string name="vowifi_resume_received">"Ανάκτηση κλήσης"</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Távoli kérés elutasítása"</string>
+<string name="vowifi_request_update_success">"Távoli kérés elfogadása"</string>
+<string name="vowifi_remove_video_success">"Visszatérés a videohívásra"</string>
+<string name="vowifi_update_to_rx_success">"Csak videó fogadás"</string>
+<string name="vowifi_update_to_tx_success">"Csak videó továbbítás"</string>
+<string name="vowifi_hold_success">"Tartás sikeres"</string>
+<string name="vowifi_hold_fail">"Tartás sikertelen"</string>
+<string name="vowifi_resume_success">"Sikeres folytatás"</string>
+<string name="vowifi_resume_fail">"Sikertelen folytatás"</string>
+<string name="vowifi_call_retry">"Próbálja újra egy kicsit később"</string>
+<string name="vowifi_call_is_focus">"Hozzáadás konferenciához"</string>
+<string name="vowifi_conf_connect_timeout">"Kapcsolódási időtúllépés a konferencia kiszolgálójával"</string>
+<string name="vowifi_conf_disconnect">"Nem sikerült a konferencia beállítása"</string>
+<string name="vowifi_conf_finished">"A konferencia befejeződött"</string>
+<string name="vowifi_conf_invite_request_failed">"Nem sikerült elküldeni a meghívási kérelmet"</string>
+<string name="vowifi_conf_invite_failed">"Nem sikerült a résztvevő meghívása:"</string>
+<string name="vowifi_conf_kick_failed">"Nem sikerült a résztvevő eltávolítása"</string>
+<string name="vowifi_conf_none_participant">"Nincs egy résztvevő sem, hívás befejezése"</string>
+<string name="vowifi_conf_do_not_support">"Ez a művelet nem támogatott"</string>
+<string name="vowifi_conf_can_not_invite_more">"Nem lehet további résztvevőt meghívni a konferenciába, mivel annak már van 6 résztvevője"</string>
+    <string name="vowifi_hold_received">"Hívás tartása"</string>
+     <string name="vowifi_resume_received">"Helyreállított hívás"</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"ରିମୋଟ ଅସ୍ୱିକାର ଅନୁରୋଧ"</string>
+<string name="vowifi_request_update_success">"ରିମୋଟ ସ୍ୱିକାର ଅନୁରୋଧ"</string>
+<string name="vowifi_remove_video_success">"ଭିଡିଓ କଲ୍‍ ଫଳ୍‍-ବ୍ୟାକ"</string>
+<string name="vowifi_update_to_rx_success">"କେବଳ ଭିଡିଓ ଗ୍ରହଣ "</string>
+<string name="vowifi_update_to_tx_success">"କେବଳ ଭିଡିଓ ସଂଚରଣ "</string>
+<string name="vowifi_hold_success">"ସଫଳତାକୁ ହୋଲ୍ଡ କରନ୍ତୁ"</string>
+<string name="vowifi_hold_fail">"ବିଫଳ ହେବାକୁ ହୋଲ୍ଡ କରନ୍ତୁ""</string>
+<string name="vowifi_resume_success">"ଡାକ ପୁନରୁଦ୍ଧାରିତ ହୋଇଛି"</string>
+<string name="vowifi_resume_fail">"ବିଫଳ ହେବା ପୁଣି ଥରେ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="vowifi_hold_received">"ଡାକ ଅଟକାଯାଇଛି"</string>
+<string name="vowifi_resume_received">"ଡାକ ପୁନରୁଦ୍ଧାରିତ ହୋଇଛି"</string>
+<string name="vowifi_call_retry">"ଦୟାକରି ପରେ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="vowifi_call_is_focus">"କନଫରେନ୍ସ ସହ ଯୋଗ କରନ୍ତୁ"</string>
+<string name="vowifi_conf_connect_timeout">"କଫରେନ୍ସ ସର୍ଭରକୁ ସଂଯୋଗ କରିବା ଟାଇମ ଆଉଟ ହୋ‍ଇଯାଇଛି"</string>
+<string name="vowifi_conf_disconnect">"କନଫରେନ୍ସ ସେଟ୍ କରିବା ବିଫଳ ହୋଇଛି" </string>
+<string name="vowifi_conf_finished">"କନଫରେନ୍ସ ସରିଲା"</string>
+<string name="vowifi_conf_invite_request_failed">"ଆମନ୍ତ୍ରଣ ଅନୁରୋଧ ପ୍ରେରଣ ବ୍ୟର୍ଥ ହୋ‍ଇଛି"</string>
+<string name="vowifi_conf_invite_failed">"ଅଂଶଗ୍ରହଣକାରୀ ଇନଭାଇଟ୍ କରିବାରେ ବିଫଳ ହୋଇଛି:"</string>
+<string name="vowifi_conf_kick_failed">"ଅଂଶଗ୍ରହଣକାରୀ ହଟାଇବାରେ ବିଫଳ ହୋଇଛି"</string>
+<string name="vowifi_conf_none_participant">"କୌଣସି ଅଂଶଗ୍ରହଣକାରୀ ନାହାନ୍ତି, କଲ୍‍ ସମାପ୍ତ କରନ୍ତୁ"</string>
+<string name="vowifi_conf_do_not_support">"ବର୍ତ୍ତମାନ ଏହି କର୍ଯ୍ୟକୁ ସମର୍ଥନ କରେ ନାହିଁ"</string>
+<string name="vowifi_conf_can_not_invite_more">"କେହି ଅନ୍ୟ ପ୍ରତିଭାଗୀ କୁ ସମ୍ମେଳନ ପାଇଁ ଆମନ୍ତ୍ରଣ କରିହେବ ନାହିଁ କାରଣ ପୂର୍ବରୁ ହିଁ 6 ଜଣ ପ୍ରତିଭାଗୀ ଅଛନ୍ତି|"</string>
+</resources>

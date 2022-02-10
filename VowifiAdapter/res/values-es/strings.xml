@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="vowifi_request_update_failed">"Solicitud de petición remota"</string>
+<string name="vowifi_request_update_success">"Solicitud de aceptación remota"</string>
+<string name="vowifi_remove_video_success">"Reversión de videollamada"</string>
+<string name="vowifi_update_to_rx_success">"Solo recepción de vídeo"</string>
+<string name="vowifi_update_to_tx_success">"Solo transmisión de vídeo"</string>
+<string name="vowifi_hold_success">Retención exitosa</string>
+<string name="vowifi_hold_fail">Retención fallida</string>
+<string name="vowifi_resume_success">"Llamada recuperada"</string>
+<string name="vowifi_resume_fail">No se pudo reanudar</string>
+<string name="vowifi_hold_received">"Llamada retenida" </string>
+<string name="vowifi_resume_received">"Llamada recuperada"</string>
+<string name="vowifi_call_retry">Por favor, vuelva a intentarlo después de un momento</string>
+<string name="vowifi_call_is_focus">Añadir a conferencia</string>
+<string name="vowifi_conf_connect_timeout">"Se ha superado el tiempo de espera de la conexión al servidor de la conferencia"</string>
+<string name="vowifi_conf_disconnect">Error al configurar la conferencia</string>
+<string name="vowifi_conf_finished">Conferencia terminada</string>
+<string name="vowifi_conf_invite_request_failed">"Error al enviar la solicitud de invitación"</string>
+<string name="vowifi_conf_invite_failed">No se pudo invitar al participante:</string>
+<string name="vowifi_conf_kick_failed">No se pudo eliminar el participante</string>
+<string name="vowifi_conf_none_participant">"No hay participantes, terminar la llamada"</string>
+<string name="vowifi_conf_do_not_support">"Esta acción no se admite ahora"</string>
+<string name="vowifi_conf_can_not_invite_more">"No se puede invitar a más participantes a la conferencia, porque ya contiene seis"</string>
+</resources>
